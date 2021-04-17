@@ -15,7 +15,8 @@ Przykładowa tablica:
 problem = [[1, 2, 3], [5, 1], [2, 6, 7], [3, 4], [5, 6, 8], [4, 7, 9], [8, 9]]  - 7 wierzchołków, tablica 7 elementowa
 
 
-Dane wyjściowe to kolejność poruszania się po wierzchołkach aby uzyskać pokrycie w optymalnym czasie:
+Dane wyjściowe to kolejność poruszania się po wierzchołkach aby uzyskać pokrycie w optymalnym czasie, a także informacja
+o tym w którym kroku zapewniono pełne pokrycie:
 
 np. (0, 4, 5, 1, 2, 3, 6) - 
 (W przypadku tych danych, już na trzecim kroku zapewnimy pełne pokrycie krawędzi)

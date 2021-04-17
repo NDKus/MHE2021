@@ -1,5 +1,10 @@
 import itertools
 import random
+import json
+
+with open("problem.json") as jsonfile:
+    jsonparsed = json.load(jsonfile)
+problem = jsonparsed["graph"]
 
 '''
 [0]: 1, 2, 3
@@ -99,8 +104,7 @@ def randomProbe(goal, gensol, iterations):
     return currentBest
 
 
-'''
-def generateProblem(size, probability):
+def generateProblem(size, probability): #<<< nie działa, czasem wierzchołek jest pusty
     dummy = [v for v in range(size)]
     graph = set()
     for combination in itertools.combinations(dummy, 2):
@@ -118,12 +122,10 @@ def generateProblem(size, probability):
             result[vertex].append(index)
 
     return result
-'''
 
-problem = [[1, 2, 3], [5, 1], [2, 6, 7], [3, 4], [5, 6, 8], [4, 7, 9], [8, 9]]
-
-# problem = generateProblem(5)
+#problem = generateProblem(5, 3)
 print(problem)
+
 # print (generateRandomVisitOrder(4))
 # print (goalFunction([0,2,1,3],problem))
 

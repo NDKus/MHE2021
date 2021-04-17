@@ -15,13 +15,12 @@ sol = [0, 5, 4, 6]
 sol2 = [0, 1, 2, 3, 6]
 sol3 = [0, 1]
 
-vector = [1, 2, 3, 4, 5, 6, 7]
 '''
 
 def goalFunction(solution, problem):
     '''Reprezentacja rozwiazania - lista kolejnych wierzchołków do odwiedzenia.
-    Jako, iż zdecydowaliśmy się na reprezentację krawędzi typu:
-    [[wierzchołek 0: krawędzie 1,2],[1:1,3]; Wykorzystujemy strukturę set, która zatrzymuje
+    Jako, iż zdecydowaliśmy się na reprezentację grafu:
+    [[wierzchołek 0: krawędzie 1,2],[1:1,3]; Wykorzystujemy do numeracji krawędzi strukturę set, która zatrzymuje
     tylko unikatowe wartości eliminując powtórzenia, tak aby była tylko jedna krawedź o oznaczeniu 1 itd.
     Tym sposobem wiemy zarówno jak prezentują się połączenia wszystkich wierzchołków z krawędziami i wiemy ile
     krawędzi znajduje się w grafie
@@ -122,18 +121,13 @@ def generateProblem(size, probability):
 '''
 
 problem = [[1, 2, 3], [5, 1], [2, 6, 7], [3, 4], [5, 6, 8], [4, 7, 9], [8, 9]]
+
 # problem = generateProblem(5)
 print(problem)
 # print (generateRandomVisitOrder(4))
 # print (goalFunction([0,2,1,3],problem))
 
 sol = randomProbe(lambda s: goalFunction(s, problem), lambda: generateRandomVisitOrder(len(problem)), 3)
-'''
-Lambda to funkcja opakowana w obiekt - można ją wywołać jak funkcję, która przyjmuje jeden argument.
-S to argument, a definicją jest wywołanie funkcji celu. Tj. definiujemy coś, co nie ma nazwy i dopiero w randomProbe to 
-nazywamy i przesyłamy argument, który wrzucamy do funkcji celu i wówczas możemy policzyć ilość wezłów rozwiązujących problem. 
-Wywołujemy tą generację np. trzykrotnie. 
-'''
 
 print(sol)
 print(goalFunction(sol, problem))

@@ -104,7 +104,7 @@ def randomProbe(goal, gensol, iterations):
     return currentBest
 
 
-def generateProblem(size, probability): #<<< nie działa, czasem wierzchołek jest pusty
+def generateProblem(size, probability): #<<< nie zawsze działa, czasem wierzchołek jest pusty
     dummy = [v for v in range(size)]
     graph = set()
     for combination in itertools.combinations(dummy, 2):

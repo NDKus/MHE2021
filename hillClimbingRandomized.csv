@@ -1,0 +1,7003 @@
+[2, 0, 3, 7, 4, 6, 1, 8, 5, 9]
+Local score: 20
+[0, 2, 3, 7, 4, 6, 1, 8, 5, 9]
+Local score: 20
+[2, 0, 3, 7, 4, 6, 1, 8, 5, 9]
+Local score: 20
+0 | Best Score: 20
+[2, 0, 3, 7, 6, 4, 1, 8, 5, 9]
+Local score: 20
+[2, 0, 3, 7, 4, 6, 1, 8, 5, 9]
+Local score: 20
+[2, 0, 3, 7, 6, 4, 1, 8, 5, 9]
+Local score: 20
+1 | Best Score: 20
+[2, 0, 3, 7, 4, 6, 1, 8, 5, 9]
+Local score: 20
+[2, 0, 3, 7, 6, 4, 1, 8, 5, 9]
+Local score: 20
+[2, 0, 3, 7, 4, 6, 1, 8, 5, 9]
+Local score: 20
+2 | Best Score: 20
+[2, 0, 3, 7, 4, 6, 1, 5, 8, 9]
+Local score: 17
+[2, 0, 3, 7, 4, 6, 1, 8, 5, 9]
+Local score: 20
+[2, 0, 3, 7, 4, 6, 1, 5, 8, 9]
+Local score: 17
+3 | Best Score: 17
+[2, 0, 3, 7, 4, 6, 1, 5, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 4, 6, 1, 5, 8, 9]
+Local score: 17
+[2, 0, 3, 7, 4, 6, 1, 5, 9, 8]
+Local score: 17
+4 | Best Score: 17
+[0, 2, 3, 7, 4, 6, 1, 5, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 4, 6, 1, 5, 9, 8]
+Local score: 17
+[0, 2, 3, 7, 4, 6, 1, 5, 9, 8]
+Local score: 17
+5 | Best Score: 17
+[0, 2, 7, 3, 4, 6, 1, 5, 9, 8]
+Local score: 17
+[0, 2, 3, 7, 4, 6, 1, 5, 9, 8]
+Local score: 17
+[0, 2, 7, 3, 4, 6, 1, 5, 9, 8]
+Local score: 17
+6 | Best Score: 17
+[0, 2, 7, 4, 3, 6, 1, 5, 9, 8]
+Local score: 17
+[0, 2, 7, 3, 4, 6, 1, 5, 9, 8]
+Local score: 17
+[0, 2, 7, 4, 3, 6, 1, 5, 9, 8]
+Local score: 17
+7 | Best Score: 17
+[0, 2, 7, 3, 4, 6, 1, 5, 9, 8]
+Local score: 17
+[0, 2, 7, 4, 3, 6, 1, 5, 9, 8]
+Local score: 17
+[0, 2, 7, 3, 4, 6, 1, 5, 9, 8]
+Local score: 17
+8 | Best Score: 17
+[0, 2, 7, 3, 4, 6, 5, 1, 9, 8]
+Local score: 17
+[0, 2, 7, 3, 4, 6, 1, 5, 9, 8]
+Local score: 17
+[0, 2, 7, 3, 4, 6, 5, 1, 9, 8]
+Local score: 17
+9 | Best Score: 17
+[0, 2, 7, 3, 4, 6, 5, 9, 1, 8]
+Local score: 20
+[0, 2, 7, 3, 4, 6, 5, 1, 9, 8]
+Local score: 17
+[0, 2, 7, 3, 4, 6, 5, 1, 9, 8]
+Local score: 17
+10 | Best Score: 17
+[2, 0, 7, 3, 4, 6, 5, 1, 9, 8]
+Local score: 17
+[0, 2, 7, 3, 4, 6, 5, 1, 9, 8]
+Local score: 17
+[2, 0, 7, 3, 4, 6, 5, 1, 9, 8]
+Local score: 17
+11 | Best Score: 17
+[2, 0, 3, 7, 4, 6, 5, 1, 9, 8]
+Local score: 17
+[2, 0, 7, 3, 4, 6, 5, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 4, 6, 5, 1, 9, 8]
+Local score: 17
+12 | Best Score: 17
+[2, 0, 3, 7, 6, 4, 5, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 4, 6, 5, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 6, 4, 5, 1, 9, 8]
+Local score: 17
+13 | Best Score: 17
+[0, 2, 3, 7, 6, 4, 5, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 6, 4, 5, 1, 9, 8]
+Local score: 17
+[0, 2, 3, 7, 6, 4, 5, 1, 9, 8]
+Local score: 17
+14 | Best Score: 17
+[2, 0, 3, 7, 6, 4, 5, 1, 9, 8]
+Local score: 17
+[0, 2, 3, 7, 6, 4, 5, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 6, 4, 5, 1, 9, 8]
+Local score: 17
+15 | Best Score: 17
+[2, 0, 3, 7, 6, 5, 4, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 6, 4, 5, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 6, 5, 4, 1, 9, 8]
+Local score: 17
+16 | Best Score: 17
+[2, 0, 3, 7, 5, 6, 4, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 6, 5, 4, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 5, 6, 4, 1, 9, 8]
+Local score: 17
+17 | Best Score: 17
+[2, 3, 0, 7, 5, 6, 4, 1, 9, 8]
+Local score: 17
+[2, 0, 3, 7, 5, 6, 4, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 5, 6, 4, 1, 9, 8]
+Local score: 17
+18 | Best Score: 17
+[2, 3, 0, 7, 6, 5, 4, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 5, 6, 4, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 6, 5, 4, 1, 9, 8]
+Local score: 17
+19 | Best Score: 17
+[2, 3, 0, 7, 6, 5, 4, 9, 1, 8]
+Local score: 20
+[2, 3, 0, 7, 6, 5, 4, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 6, 5, 4, 1, 9, 8]
+Local score: 17
+20 | Best Score: 17
+[2, 3, 0, 7, 5, 6, 4, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 6, 5, 4, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 5, 6, 4, 1, 9, 8]
+Local score: 17
+21 | Best Score: 17
+[2, 3, 0, 7, 5, 4, 6, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 5, 6, 4, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 5, 4, 6, 1, 9, 8]
+Local score: 17
+22 | Best Score: 17
+[2, 3, 0, 7, 4, 5, 6, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 5, 4, 6, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 4, 5, 6, 1, 9, 8]
+Local score: 17
+23 | Best Score: 17
+[3, 2, 0, 7, 4, 5, 6, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 4, 5, 6, 1, 9, 8]
+Local score: 17
+[3, 2, 0, 7, 4, 5, 6, 1, 9, 8]
+Local score: 17
+24 | Best Score: 17
+[2, 3, 0, 7, 4, 5, 6, 1, 9, 8]
+Local score: 17
+[3, 2, 0, 7, 4, 5, 6, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 4, 5, 6, 1, 9, 8]
+Local score: 17
+25 | Best Score: 17
+[2, 3, 0, 7, 4, 5, 6, 1, 8, 9]
+Local score: 17
+[2, 3, 0, 7, 4, 5, 6, 1, 9, 8]
+Local score: 17
+[2, 3, 0, 7, 4, 5, 6, 1, 8, 9]
+Local score: 17
+26 | Best Score: 17
+[2, 3, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 7, 4, 5, 6, 1, 8, 9]
+Local score: 17
+[2, 3, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+27 | Best Score: 14
+[2, 3, 0, 4, 7, 5, 1, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 4, 7, 5, 1, 6, 8, 9]
+Local score: 14
+28 | Best Score: 14
+[3, 2, 0, 4, 7, 5, 1, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 4, 7, 5, 1, 6, 8, 9]
+Local score: 14
+[3, 2, 0, 4, 7, 5, 1, 6, 8, 9]
+Local score: 14
+29 | Best Score: 14
+[3, 2, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+[3, 2, 0, 4, 7, 5, 1, 6, 8, 9]
+Local score: 14
+[3, 2, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+30 | Best Score: 14
+[3, 2, 0, 7, 4, 5, 6, 1, 8, 9]
+Local score: 17
+[3, 2, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+[3, 2, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+31 | Best Score: 14
+[2, 3, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+[3, 2, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+32 | Best Score: 14
+[2, 3, 0, 7, 4, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 7, 4, 5, 1, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 7, 4, 1, 5, 6, 8, 9]
+Local score: 14
+33 | Best Score: 14
+[2, 0, 3, 7, 4, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 7, 4, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 0, 3, 7, 4, 1, 5, 6, 8, 9]
+Local score: 14
+34 | Best Score: 14
+[2, 0, 3, 4, 7, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 0, 3, 7, 4, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 0, 3, 4, 7, 1, 5, 6, 8, 9]
+Local score: 14
+35 | Best Score: 14
+[2, 0, 3, 4, 7, 1, 6, 5, 8, 9]
+Local score: 17
+[2, 0, 3, 4, 7, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 0, 3, 4, 7, 1, 5, 6, 8, 9]
+Local score: 14
+36 | Best Score: 14
+[2, 3, 0, 4, 7, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 0, 3, 4, 7, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 4, 7, 1, 5, 6, 8, 9]
+Local score: 14
+37 | Best Score: 14
+[2, 3, 4, 0, 7, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 3, 0, 4, 7, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 6, 8, 9]
+Local score: 14
+38 | Best Score: 14
+[2, 3, 4, 0, 7, 5, 1, 6, 8, 9]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 3, 4, 0, 7, 5, 1, 6, 8, 9]
+Local score: 14
+39 | Best Score: 14
+[2, 3, 4, 0, 7, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 3, 4, 0, 7, 5, 1, 6, 8, 9]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 6, 8, 9]
+Local score: 14
+40 | Best Score: 14
+[2, 3, 4, 0, 7, 1, 5, 6, 9, 8]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 6, 8, 9]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 6, 9, 8]
+Local score: 14
+41 | Best Score: 14
+[2, 3, 4, 0, 7, 1, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 6, 9, 8]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 9, 6, 8]
+Local score: 14
+42 | Best Score: 14
+[2, 3, 4, 0, 1, 7, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 0, 1, 7, 5, 9, 6, 8]
+Local score: 14
+43 | Best Score: 14
+[2, 3, 4, 0, 7, 1, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 0, 1, 7, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 9, 6, 8]
+Local score: 14
+44 | Best Score: 14
+[2, 3, 4, 7, 0, 1, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 0, 7, 1, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 7, 0, 1, 5, 9, 6, 8]
+Local score: 14
+45 | Best Score: 14
+[2, 3, 4, 7, 1, 0, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 7, 0, 1, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 7, 1, 0, 5, 9, 6, 8]
+Local score: 14
+46 | Best Score: 14
+[2, 4, 3, 7, 1, 0, 5, 9, 6, 8]
+Local score: 14
+[2, 3, 4, 7, 1, 0, 5, 9, 6, 8]
+Local score: 14
+[2, 4, 3, 7, 1, 0, 5, 9, 6, 8]
+Local score: 14
+47 | Best Score: 14
+[2, 4, 3, 7, 1, 0, 5, 9, 8, 6]
+Local score: 14
+[2, 4, 3, 7, 1, 0, 5, 9, 6, 8]
+Local score: 14
+[2, 4, 3, 7, 1, 0, 5, 9, 8, 6]
+Local score: 14
+48 | Best Score: 14
+[2, 3, 4, 7, 1, 0, 5, 9, 8, 6]
+Local score: 14
+[2, 4, 3, 7, 1, 0, 5, 9, 8, 6]
+Local score: 14
+[2, 3, 4, 7, 1, 0, 5, 9, 8, 6]
+Local score: 14
+49 | Best Score: 14
+[2, 3, 4, 7, 1, 5, 0, 9, 8, 6]
+Local score: 10
+[2, 3, 4, 7, 1, 0, 5, 9, 8, 6]
+Local score: 14
+[2, 3, 4, 7, 1, 5, 0, 9, 8, 6]
+Local score: 10
+50 | Best Score: 10
+[2, 3, 4, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+[2, 3, 4, 7, 1, 5, 0, 9, 8, 6]
+Local score: 10
+[2, 3, 4, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+51 | Best Score: 10
+[3, 2, 4, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+[2, 3, 4, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+[3, 2, 4, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+52 | Best Score: 10
+[3, 4, 2, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+[3, 2, 4, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+[3, 4, 2, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+53 | Best Score: 10
+[4, 3, 2, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+[3, 4, 2, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+[4, 3, 2, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+54 | Best Score: 10
+[4, 3, 2, 7, 5, 0, 1, 9, 8, 6]
+Local score: 14
+[4, 3, 2, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+[4, 3, 2, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+55 | Best Score: 10
+[4, 3, 2, 7, 5, 1, 0, 8, 9, 6]
+Local score: 10
+[4, 3, 2, 7, 5, 1, 0, 9, 8, 6]
+Local score: 10
+[4, 3, 2, 7, 5, 1, 0, 8, 9, 6]
+Local score: 10
+56 | Best Score: 10
+[4, 3, 2, 5, 7, 1, 0, 8, 9, 6]
+Local score: 10
+[4, 3, 2, 7, 5, 1, 0, 8, 9, 6]
+Local score: 10
+[4, 3, 2, 5, 7, 1, 0, 8, 9, 6]
+Local score: 10
+57 | Best Score: 10
+[4, 3, 2, 5, 7, 1, 0, 9, 8, 6]
+Local score: 10
+[4, 3, 2, 5, 7, 1, 0, 8, 9, 6]
+Local score: 10
+[4, 3, 2, 5, 7, 1, 0, 9, 8, 6]
+Local score: 10
+58 | Best Score: 10
+[4, 3, 2, 5, 7, 1, 0, 8, 9, 6]
+Local score: 10
+[4, 3, 2, 5, 7, 1, 0, 9, 8, 6]
+Local score: 10
+[4, 3, 2, 5, 7, 1, 0, 8, 9, 6]
+Local score: 10
+59 | Best Score: 10
+[4, 3, 2, 5, 7, 1, 0, 9, 8, 6]
+Local score: 10
+[4, 3, 2, 5, 7, 1, 0, 8, 9, 6]
+Local score: 10
+[4, 3, 2, 5, 7, 1, 0, 9, 8, 6]
+Local score: 10
+60 | Best Score: 10
+[3, 4, 2, 5, 7, 1, 0, 9, 8, 6]
+Local score: 10
+[4, 3, 2, 5, 7, 1, 0, 9, 8, 6]
+Local score: 10
+[3, 4, 2, 5, 7, 1, 0, 9, 8, 6]
+Local score: 10
+61 | Best Score: 10
+[3, 4, 2, 5, 7, 1, 0, 8, 9, 6]
+Local score: 10
+[3, 4, 2, 5, 7, 1, 0, 9, 8, 6]
+Local score: 10
+[3, 4, 2, 5, 7, 1, 0, 8, 9, 6]
+Local score: 10
+62 | Best Score: 10
+[3, 4, 2, 5, 7, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 5, 7, 1, 0, 8, 9, 6]
+Local score: 10
+[3, 4, 2, 5, 7, 1, 0, 8, 6, 9]
+Local score: 10
+63 | Best Score: 10
+[3, 4, 2, 7, 5, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 5, 7, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 7, 5, 1, 0, 8, 6, 9]
+Local score: 10
+64 | Best Score: 10
+[3, 4, 2, 5, 7, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 7, 5, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 5, 7, 1, 0, 8, 6, 9]
+Local score: 10
+65 | Best Score: 10
+[3, 2, 4, 5, 7, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 5, 7, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 2, 4, 5, 7, 1, 0, 8, 6, 9]
+Local score: 10
+66 | Best Score: 10
+[3, 2, 4, 5, 7, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 2, 4, 5, 7, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 2, 4, 5, 7, 1, 0, 6, 8, 9]
+Local score: 10
+67 | Best Score: 10
+[3, 2, 5, 4, 7, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 2, 4, 5, 7, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 2, 5, 4, 7, 1, 0, 6, 8, 9]
+Local score: 10
+68 | Best Score: 10
+[3, 2, 5, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+[3, 2, 5, 4, 7, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 2, 5, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+69 | Best Score: 10
+[3, 2, 5, 4, 7, 0, 1, 6, 9, 8]
+Local score: 14
+[3, 2, 5, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+[3, 2, 5, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+70 | Best Score: 10
+[3, 5, 2, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+[3, 2, 5, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+[3, 5, 2, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+71 | Best Score: 10
+[3, 5, 2, 4, 7, 0, 1, 6, 9, 8]
+Local score: 14
+[3, 5, 2, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+[3, 5, 2, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+72 | Best Score: 10
+[3, 5, 2, 4, 7, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 5, 2, 4, 7, 1, 0, 6, 9, 8]
+Local score: 10
+[3, 5, 2, 4, 7, 1, 0, 6, 8, 9]
+Local score: 10
+73 | Best Score: 10
+[3, 5, 2, 7, 4, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 5, 2, 4, 7, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 5, 2, 7, 4, 1, 0, 6, 8, 9]
+Local score: 10
+74 | Best Score: 10
+[3, 5, 7, 2, 4, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 5, 2, 7, 4, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 5, 7, 2, 4, 1, 0, 6, 8, 9]
+Local score: 10
+75 | Best Score: 10
+[3, 5, 7, 2, 4, 1, 6, 0, 8, 9]
+Local score: 10
+[3, 5, 7, 2, 4, 1, 0, 6, 8, 9]
+Local score: 10
+[3, 5, 7, 2, 4, 1, 6, 0, 8, 9]
+Local score: 10
+76 | Best Score: 10
+[5, 3, 7, 2, 4, 1, 6, 0, 8, 9]
+Local score: 10
+[3, 5, 7, 2, 4, 1, 6, 0, 8, 9]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 6, 0, 8, 9]
+Local score: 10
+77 | Best Score: 10
+[5, 3, 7, 2, 4, 1, 6, 8, 0, 9]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 6, 0, 8, 9]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 6, 8, 0, 9]
+Local score: 10
+78 | Best Score: 10
+[5, 3, 7, 2, 4, 6, 1, 8, 0, 9]
+Local score: 13
+[5, 3, 7, 2, 4, 1, 6, 8, 0, 9]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 6, 8, 0, 9]
+Local score: 10
+79 | Best Score: 10
+[5, 3, 7, 2, 4, 1, 6, 8, 9, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 6, 8, 0, 9]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 6, 8, 9, 0]
+Local score: 10
+80 | Best Score: 10
+[5, 3, 7, 2, 4, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 6, 8, 9, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 8, 6, 9, 0]
+Local score: 10
+81 | Best Score: 10
+[5, 3, 7, 2, 4, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 8, 9, 6, 0]
+Local score: 10
+82 | Best Score: 10
+[5, 3, 7, 2, 4, 8, 1, 9, 6, 0]
+Local score: 13
+[5, 3, 7, 2, 4, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 8, 9, 6, 0]
+Local score: 10
+83 | Best Score: 10
+[5, 3, 7, 2, 4, 1, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 9, 8, 6, 0]
+Local score: 10
+84 | Best Score: 10
+[5, 3, 7, 2, 4, 9, 1, 8, 6, 0]
+Local score: 13
+[5, 3, 7, 2, 4, 1, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 9, 8, 6, 0]
+Local score: 10
+85 | Best Score: 10
+[5, 3, 7, 2, 4, 1, 9, 6, 8, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 9, 6, 8, 0]
+Local score: 10
+86 | Best Score: 10
+[5, 3, 7, 2, 4, 1, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 9, 6, 8, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 9, 8, 6, 0]
+Local score: 10
+87 | Best Score: 10
+[5, 3, 7, 2, 1, 4, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 4, 1, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 1, 4, 9, 8, 6, 0]
+Local score: 10
+88 | Best Score: 10
+[5, 3, 7, 1, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 2, 1, 4, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 1, 2, 4, 9, 8, 6, 0]
+Local score: 10
+89 | Best Score: 10
+[5, 3, 7, 1, 2, 9, 4, 8, 6, 0]
+Local score: 13
+[5, 3, 7, 1, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 1, 2, 4, 9, 8, 6, 0]
+Local score: 10
+90 | Best Score: 10
+[5, 7, 3, 1, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[5, 3, 7, 1, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[5, 7, 3, 1, 2, 4, 9, 8, 6, 0]
+Local score: 10
+91 | Best Score: 10
+[5, 7, 3, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+[5, 7, 3, 1, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[5, 7, 3, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+92 | Best Score: 10
+[5, 3, 7, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+[5, 7, 3, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+[5, 3, 7, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+93 | Best Score: 10
+[5, 7, 3, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+[5, 3, 7, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+[5, 7, 3, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+94 | Best Score: 10
+[5, 7, 3, 1, 2, 8, 4, 9, 6, 0]
+Local score: 13
+[5, 7, 3, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+[5, 7, 3, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+95 | Best Score: 10
+[5, 7, 3, 2, 1, 4, 8, 9, 6, 0]
+Local score: 10
+[5, 7, 3, 1, 2, 4, 8, 9, 6, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 8, 9, 6, 0]
+Local score: 10
+96 | Best Score: 10
+[5, 7, 3, 2, 1, 4, 9, 8, 6, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 8, 9, 6, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 9, 8, 6, 0]
+Local score: 10
+97 | Best Score: 10
+[5, 7, 3, 2, 1, 4, 9, 6, 8, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 9, 8, 6, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 9, 6, 8, 0]
+Local score: 10
+98 | Best Score: 10
+[5, 7, 3, 2, 1, 4, 9, 6, 0, 8]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 9, 6, 8, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 9, 6, 0, 8]
+Local score: 10
+99 | Best Score: 10
+[5, 7, 3, 2, 1, 4, 6, 9, 0, 8]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 9, 6, 0, 8]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 6, 9, 0, 8]
+Local score: 10
+100 | Best Score: 10
+[7, 5, 3, 2, 1, 4, 6, 9, 0, 8]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 6, 9, 0, 8]
+Local score: 10
+[7, 5, 3, 2, 1, 4, 6, 9, 0, 8]
+Local score: 10
+101 | Best Score: 10
+[7, 5, 3, 2, 1, 4, 6, 9, 8, 0]
+Local score: 10
+[7, 5, 3, 2, 1, 4, 6, 9, 0, 8]
+Local score: 10
+[7, 5, 3, 2, 1, 4, 6, 9, 8, 0]
+Local score: 10
+102 | Best Score: 10
+[7, 5, 3, 2, 1, 4, 6, 8, 9, 0]
+Local score: 10
+[7, 5, 3, 2, 1, 4, 6, 9, 8, 0]
+Local score: 10
+[7, 5, 3, 2, 1, 4, 6, 8, 9, 0]
+Local score: 10
+103 | Best Score: 10
+[5, 7, 3, 2, 1, 4, 6, 8, 9, 0]
+Local score: 10
+[7, 5, 3, 2, 1, 4, 6, 8, 9, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 6, 8, 9, 0]
+Local score: 10
+104 | Best Score: 10
+[5, 7, 3, 2, 1, 4, 6, 9, 8, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 6, 8, 9, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 6, 9, 8, 0]
+Local score: 10
+105 | Best Score: 10
+[5, 7, 2, 3, 1, 4, 6, 9, 8, 0]
+Local score: 10
+[5, 7, 3, 2, 1, 4, 6, 9, 8, 0]
+Local score: 10
+[5, 7, 2, 3, 1, 4, 6, 9, 8, 0]
+Local score: 10
+106 | Best Score: 10
+[5, 7, 2, 3, 4, 1, 6, 9, 8, 0]
+Local score: 10
+[5, 7, 2, 3, 1, 4, 6, 9, 8, 0]
+Local score: 10
+[5, 7, 2, 3, 4, 1, 6, 9, 8, 0]
+Local score: 10
+107 | Best Score: 10
+[5, 7, 2, 4, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[5, 7, 2, 3, 4, 1, 6, 9, 8, 0]
+Local score: 10
+[5, 7, 2, 4, 3, 1, 6, 9, 8, 0]
+Local score: 10
+108 | Best Score: 10
+[5, 7, 2, 4, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[5, 7, 2, 4, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[5, 7, 2, 4, 3, 1, 9, 6, 8, 0]
+Local score: 10
+109 | Best Score: 10
+[5, 2, 7, 4, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[5, 7, 2, 4, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[5, 2, 7, 4, 3, 1, 9, 6, 8, 0]
+Local score: 10
+110 | Best Score: 10
+[2, 5, 7, 4, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[5, 2, 7, 4, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[2, 5, 7, 4, 3, 1, 9, 6, 8, 0]
+Local score: 10
+111 | Best Score: 10
+[2, 5, 4, 7, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[2, 5, 7, 4, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[2, 5, 4, 7, 3, 1, 9, 6, 8, 0]
+Local score: 10
+112 | Best Score: 10
+[2, 5, 4, 7, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 4, 7, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[2, 5, 4, 7, 3, 1, 6, 9, 8, 0]
+Local score: 10
+113 | Best Score: 10
+[2, 5, 4, 7, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 4, 7, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 4, 7, 1, 3, 6, 9, 8, 0]
+Local score: 10
+114 | Best Score: 10
+[2, 5, 4, 7, 1, 3, 6, 9, 0, 8]
+Local score: 10
+[2, 5, 4, 7, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 4, 7, 1, 3, 6, 9, 0, 8]
+Local score: 10
+115 | Best Score: 10
+[2, 5, 4, 1, 7, 3, 6, 9, 0, 8]
+Local score: 10
+[2, 5, 4, 7, 1, 3, 6, 9, 0, 8]
+Local score: 10
+[2, 5, 4, 1, 7, 3, 6, 9, 0, 8]
+Local score: 10
+116 | Best Score: 10
+[2, 5, 1, 4, 7, 3, 6, 9, 0, 8]
+Local score: 10
+[2, 5, 4, 1, 7, 3, 6, 9, 0, 8]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 9, 0, 8]
+Local score: 10
+117 | Best Score: 10
+[2, 5, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 9, 0, 8]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+118 | Best Score: 10
+[2, 5, 1, 7, 4, 3, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 1, 7, 4, 3, 6, 9, 8, 0]
+Local score: 10
+119 | Best Score: 10
+[2, 5, 1, 7, 3, 4, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 1, 7, 4, 3, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 1, 7, 3, 4, 6, 9, 8, 0]
+Local score: 10
+120 | Best Score: 10
+[2, 5, 7, 1, 3, 4, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 1, 7, 3, 4, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 7, 1, 3, 4, 6, 9, 8, 0]
+Local score: 10
+121 | Best Score: 10
+[2, 5, 7, 1, 3, 4, 6, 8, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 3, 4, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 7, 1, 3, 4, 6, 8, 9, 0]
+Local score: 10
+122 | Best Score: 10
+[2, 5, 7, 1, 3, 4, 8, 6, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 3, 4, 6, 8, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 3, 4, 8, 6, 9, 0]
+Local score: 10
+123 | Best Score: 10
+[2, 5, 7, 1, 4, 3, 8, 6, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 3, 4, 8, 6, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 8, 6, 9, 0]
+Local score: 10
+124 | Best Score: 10
+[2, 5, 7, 1, 4, 3, 8, 6, 0, 9]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 8, 6, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 8, 6, 0, 9]
+Local score: 10
+125 | Best Score: 10
+[2, 5, 7, 1, 4, 3, 8, 6, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 8, 6, 0, 9]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 8, 6, 9, 0]
+Local score: 10
+126 | Best Score: 10
+[2, 5, 7, 1, 4, 3, 6, 8, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 8, 6, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 6, 8, 9, 0]
+Local score: 10
+127 | Best Score: 10
+[2, 5, 7, 1, 4, 3, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 6, 8, 9, 0]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 6, 8, 0, 9]
+Local score: 10
+128 | Best Score: 10
+[2, 5, 7, 4, 1, 3, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 1, 4, 3, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 4, 1, 3, 6, 8, 0, 9]
+Local score: 10
+129 | Best Score: 10
+[2, 5, 7, 4, 3, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 4, 1, 3, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 4, 3, 1, 6, 8, 0, 9]
+Local score: 10
+130 | Best Score: 10
+[2, 5, 7, 4, 3, 6, 1, 8, 0, 9]
+Local score: 13
+[2, 5, 7, 4, 3, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 4, 3, 1, 6, 8, 0, 9]
+Local score: 10
+131 | Best Score: 10
+[2, 5, 7, 3, 4, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 4, 3, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 3, 4, 1, 6, 8, 0, 9]
+Local score: 10
+132 | Best Score: 10
+[2, 5, 7, 3, 1, 4, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 3, 4, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 3, 1, 4, 6, 8, 0, 9]
+Local score: 10
+133 | Best Score: 10
+[2, 7, 5, 3, 1, 4, 6, 8, 0, 9]
+Local score: 10
+[2, 5, 7, 3, 1, 4, 6, 8, 0, 9]
+Local score: 10
+[2, 7, 5, 3, 1, 4, 6, 8, 0, 9]
+Local score: 10
+134 | Best Score: 10
+[2, 7, 5, 3, 1, 4, 8, 6, 0, 9]
+Local score: 10
+[2, 7, 5, 3, 1, 4, 6, 8, 0, 9]
+Local score: 10
+[2, 7, 5, 3, 1, 4, 8, 6, 0, 9]
+Local score: 10
+135 | Best Score: 10
+[7, 2, 5, 3, 1, 4, 8, 6, 0, 9]
+Local score: 10
+[2, 7, 5, 3, 1, 4, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 5, 3, 1, 4, 8, 6, 0, 9]
+Local score: 10
+136 | Best Score: 10
+[7, 2, 3, 5, 1, 4, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 5, 3, 1, 4, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 3, 5, 1, 4, 8, 6, 0, 9]
+Local score: 10
+137 | Best Score: 10
+[7, 2, 3, 5, 1, 4, 8, 0, 6, 9]
+Local score: 10
+[7, 2, 3, 5, 1, 4, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 3, 5, 1, 4, 8, 0, 6, 9]
+Local score: 10
+138 | Best Score: 10
+[7, 2, 3, 5, 1, 4, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 3, 5, 1, 4, 8, 0, 6, 9]
+Local score: 10
+[7, 2, 3, 5, 1, 4, 8, 6, 0, 9]
+Local score: 10
+139 | Best Score: 10
+[7, 2, 3, 5, 4, 1, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 3, 5, 1, 4, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 3, 5, 4, 1, 8, 6, 0, 9]
+Local score: 10
+140 | Best Score: 10
+[7, 2, 5, 3, 4, 1, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 3, 5, 4, 1, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 5, 3, 4, 1, 8, 6, 0, 9]
+Local score: 10
+141 | Best Score: 10
+[7, 2, 5, 3, 4, 1, 6, 8, 0, 9]
+Local score: 10
+[7, 2, 5, 3, 4, 1, 8, 6, 0, 9]
+Local score: 10
+[7, 2, 5, 3, 4, 1, 6, 8, 0, 9]
+Local score: 10
+142 | Best Score: 10
+[7, 2, 5, 4, 3, 1, 6, 8, 0, 9]
+Local score: 10
+[7, 2, 5, 3, 4, 1, 6, 8, 0, 9]
+Local score: 10
+[7, 2, 5, 4, 3, 1, 6, 8, 0, 9]
+Local score: 10
+143 | Best Score: 10
+[7, 2, 5, 4, 1, 3, 6, 8, 0, 9]
+Local score: 10
+[7, 2, 5, 4, 3, 1, 6, 8, 0, 9]
+Local score: 10
+[7, 2, 5, 4, 1, 3, 6, 8, 0, 9]
+Local score: 10
+144 | Best Score: 10
+[7, 2, 5, 4, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 2, 5, 4, 1, 3, 6, 8, 0, 9]
+Local score: 10
+[7, 2, 5, 4, 1, 3, 6, 8, 9, 0]
+Local score: 10
+145 | Best Score: 10
+[7, 5, 2, 4, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 2, 5, 4, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 5, 2, 4, 1, 3, 6, 8, 9, 0]
+Local score: 10
+146 | Best Score: 10
+[7, 5, 4, 2, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 5, 2, 4, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 5, 4, 2, 1, 3, 6, 8, 9, 0]
+Local score: 10
+147 | Best Score: 10
+[7, 4, 5, 2, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 5, 4, 2, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 4, 5, 2, 1, 3, 6, 8, 9, 0]
+Local score: 10
+148 | Best Score: 10
+[7, 4, 2, 5, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 4, 5, 2, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 4, 2, 5, 1, 3, 6, 8, 9, 0]
+Local score: 10
+149 | Best Score: 10
+[7, 2, 4, 5, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 4, 2, 5, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 2, 4, 5, 1, 3, 6, 8, 9, 0]
+Local score: 10
+150 | Best Score: 10
+[7, 2, 4, 5, 3, 1, 6, 8, 9, 0]
+Local score: 10
+[7, 2, 4, 5, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 8, 9, 0]
+Local score: 10
+151 | Best Score: 10
+[7, 2, 4, 5, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 8, 9, 0]
+Local score: 10
+[7, 2, 4, 5, 1, 3, 6, 8, 9, 0]
+Local score: 10
+152 | Best Score: 10
+[7, 2, 4, 5, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 4, 5, 1, 3, 6, 8, 9, 0]
+Local score: 10
+[7, 2, 4, 5, 1, 3, 6, 9, 8, 0]
+Local score: 10
+153 | Best Score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 4, 5, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+154 | Best Score: 10
+[7, 2, 5, 4, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 5, 4, 3, 1, 6, 9, 8, 0]
+Local score: 10
+155 | Best Score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 5, 4, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+156 | Best Score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 0, 8]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 0, 8]
+Local score: 10
+157 | Best Score: 10
+[7, 4, 2, 5, 3, 1, 6, 9, 0, 8]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 0, 8]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 6, 9, 0, 8]
+Local score: 10
+158 | Best Score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 0, 8]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 6, 9, 0, 8]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 0, 8]
+Local score: 10
+159 | Best Score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 0, 8]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+160 | Best Score: 10
+[7, 2, 4, 5, 3, 6, 1, 9, 8, 0]
+Local score: 13
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+161 | Best Score: 10
+[7, 4, 2, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+162 | Best Score: 10
+[7, 4, 2, 5, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[7, 4, 2, 5, 1, 3, 6, 9, 8, 0]
+Local score: 10
+163 | Best Score: 10
+[7, 4, 5, 2, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[7, 4, 2, 5, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[7, 4, 5, 2, 1, 3, 6, 9, 8, 0]
+Local score: 10
+164 | Best Score: 10
+[4, 7, 5, 2, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[7, 4, 5, 2, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[4, 7, 5, 2, 1, 3, 6, 9, 8, 0]
+Local score: 10
+165 | Best Score: 10
+[4, 7, 5, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 7, 5, 2, 1, 3, 6, 9, 8, 0]
+Local score: 10
+[4, 7, 5, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+166 | Best Score: 10
+[4, 5, 7, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 7, 5, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 5, 7, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+167 | Best Score: 10
+[4, 7, 5, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 5, 7, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 7, 5, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+168 | Best Score: 10
+[4, 5, 7, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 7, 5, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 5, 7, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+169 | Best Score: 10
+[4, 5, 7, 3, 2, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 5, 7, 2, 3, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 5, 7, 3, 2, 1, 6, 9, 8, 0]
+Local score: 10
+170 | Best Score: 10
+[4, 7, 5, 3, 2, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 5, 7, 3, 2, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 7, 5, 3, 2, 1, 6, 9, 8, 0]
+Local score: 10
+171 | Best Score: 10
+[4, 5, 7, 3, 2, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 7, 5, 3, 2, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 5, 7, 3, 2, 1, 6, 9, 8, 0]
+Local score: 10
+172 | Best Score: 10
+[4, 5, 7, 3, 2, 1, 9, 6, 8, 0]
+Local score: 10
+[4, 5, 7, 3, 2, 1, 6, 9, 8, 0]
+Local score: 10
+[4, 5, 7, 3, 2, 1, 9, 6, 8, 0]
+Local score: 10
+173 | Best Score: 10
+[4, 5, 7, 3, 2, 9, 1, 6, 8, 0]
+Local score: 13
+[4, 5, 7, 3, 2, 1, 9, 6, 8, 0]
+Local score: 10
+[4, 5, 7, 3, 2, 1, 9, 6, 8, 0]
+Local score: 10
+174 | Best Score: 10
+[4, 7, 5, 3, 2, 1, 9, 6, 8, 0]
+Local score: 10
+[4, 5, 7, 3, 2, 1, 9, 6, 8, 0]
+Local score: 10
+[4, 7, 5, 3, 2, 1, 9, 6, 8, 0]
+Local score: 10
+175 | Best Score: 10
+[4, 7, 5, 2, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[4, 7, 5, 3, 2, 1, 9, 6, 8, 0]
+Local score: 10
+[4, 7, 5, 2, 3, 1, 9, 6, 8, 0]
+Local score: 10
+176 | Best Score: 10
+[4, 7, 5, 2, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[4, 7, 5, 2, 3, 1, 9, 6, 8, 0]
+Local score: 10
+[4, 7, 5, 2, 3, 1, 9, 6, 0, 8]
+Local score: 10
+177 | Best Score: 10
+[4, 7, 5, 2, 3, 9, 1, 6, 0, 8]
+Local score: 13
+[4, 7, 5, 2, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[4, 7, 5, 2, 3, 1, 9, 6, 0, 8]
+Local score: 10
+178 | Best Score: 10
+[7, 4, 5, 2, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[4, 7, 5, 2, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[7, 4, 5, 2, 3, 1, 9, 6, 0, 8]
+Local score: 10
+179 | Best Score: 10
+[7, 4, 2, 5, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[7, 4, 5, 2, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 9, 6, 0, 8]
+Local score: 10
+180 | Best Score: 10
+[7, 4, 2, 5, 3, 1, 9, 0, 6, 8]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 9, 0, 6, 8]
+Local score: 10
+181 | Best Score: 10
+[7, 4, 2, 5, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 9, 0, 6, 8]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 9, 6, 0, 8]
+Local score: 10
+182 | Best Score: 10
+[7, 2, 4, 5, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[7, 4, 2, 5, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 9, 6, 0, 8]
+Local score: 10
+183 | Best Score: 10
+[7, 2, 4, 5, 1, 3, 9, 6, 0, 8]
+Local score: 10
+[7, 2, 4, 5, 3, 1, 9, 6, 0, 8]
+Local score: 10
+[7, 2, 4, 5, 1, 3, 9, 6, 0, 8]
+Local score: 10
+184 | Best Score: 10
+[7, 2, 4, 5, 1, 9, 3, 6, 0, 8]
+Local score: 13
+[7, 2, 4, 5, 1, 3, 9, 6, 0, 8]
+Local score: 10
+[7, 2, 4, 5, 1, 3, 9, 6, 0, 8]
+Local score: 10
+185 | Best Score: 10
+[7, 2, 4, 1, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[7, 2, 4, 5, 1, 3, 9, 6, 0, 8]
+Local score: 10
+[7, 2, 4, 1, 5, 3, 9, 6, 0, 8]
+Local score: 10
+186 | Best Score: 10
+[2, 7, 4, 1, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[7, 2, 4, 1, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[2, 7, 4, 1, 5, 3, 9, 6, 0, 8]
+Local score: 10
+187 | Best Score: 10
+[2, 7, 1, 4, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[2, 7, 4, 1, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[2, 7, 1, 4, 5, 3, 9, 6, 0, 8]
+Local score: 10
+188 | Best Score: 10
+[2, 1, 7, 4, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[2, 7, 1, 4, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[2, 1, 7, 4, 5, 3, 9, 6, 0, 8]
+Local score: 10
+189 | Best Score: 10
+[2, 1, 4, 7, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[2, 1, 7, 4, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[2, 1, 4, 7, 5, 3, 9, 6, 0, 8]
+Local score: 10
+190 | Best Score: 10
+[2, 1, 4, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[2, 1, 4, 7, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[2, 1, 4, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+191 | Best Score: 10
+[1, 2, 4, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[2, 1, 4, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 2, 4, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+192 | Best Score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 2, 4, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+193 | Best Score: 10
+[1, 2, 4, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 2, 4, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+194 | Best Score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 2, 4, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+195 | Best Score: 10
+[1, 4, 2, 7, 5, 3, 6, 9, 8, 0]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 6, 9, 8, 0]
+Local score: 10
+196 | Best Score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 6, 9, 8, 0]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+197 | Best Score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 8, 0]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 0, 8]
+Local score: 10
+198 | Best Score: 10
+[1, 4, 7, 2, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[1, 4, 2, 7, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 9, 6, 0, 8]
+Local score: 10
+199 | Best Score: 10
+[1, 4, 7, 2, 5, 3, 9, 0, 6, 8]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 9, 6, 0, 8]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 9, 0, 6, 8]
+Local score: 10
+200 | Best Score: 10
+[4, 1, 7, 2, 5, 3, 9, 0, 6, 8]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 9, 0, 6, 8]
+Local score: 10
+[4, 1, 7, 2, 5, 3, 9, 0, 6, 8]
+Local score: 10
+201 | Best Score: 10
+[1, 4, 7, 2, 5, 3, 9, 0, 6, 8]
+Local score: 10
+[4, 1, 7, 2, 5, 3, 9, 0, 6, 8]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 9, 0, 6, 8]
+Local score: 10
+202 | Best Score: 10
+[1, 4, 7, 2, 5, 3, 0, 9, 6, 8]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 9, 0, 6, 8]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 0, 9, 6, 8]
+Local score: 10
+203 | Best Score: 10
+[1, 4, 7, 2, 5, 3, 0, 9, 8, 6]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 0, 9, 6, 8]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 0, 9, 8, 6]
+Local score: 10
+204 | Best Score: 10
+[1, 4, 7, 2, 5, 3, 9, 0, 8, 6]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 0, 9, 8, 6]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 9, 0, 8, 6]
+Local score: 10
+205 | Best Score: 10
+[1, 4, 7, 2, 3, 5, 9, 0, 8, 6]
+Local score: 10
+[1, 4, 7, 2, 5, 3, 9, 0, 8, 6]
+Local score: 10
+[1, 4, 7, 2, 3, 5, 9, 0, 8, 6]
+Local score: 10
+206 | Best Score: 10
+[4, 1, 7, 2, 3, 5, 9, 0, 8, 6]
+Local score: 10
+[1, 4, 7, 2, 3, 5, 9, 0, 8, 6]
+Local score: 10
+[4, 1, 7, 2, 3, 5, 9, 0, 8, 6]
+Local score: 10
+207 | Best Score: 10
+[4, 1, 7, 2, 3, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 1, 7, 2, 3, 5, 9, 0, 8, 6]
+Local score: 10
+[4, 1, 7, 2, 3, 5, 9, 8, 0, 6]
+Local score: 10
+208 | Best Score: 10
+[4, 7, 1, 2, 3, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 1, 7, 2, 3, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 7, 1, 2, 3, 5, 9, 8, 0, 6]
+Local score: 10
+209 | Best Score: 10
+[4, 7, 2, 1, 3, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 7, 1, 2, 3, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 7, 2, 1, 3, 5, 9, 8, 0, 6]
+Local score: 10
+210 | Best Score: 10
+[7, 4, 2, 1, 3, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 7, 2, 1, 3, 5, 9, 8, 0, 6]
+Local score: 10
+[7, 4, 2, 1, 3, 5, 9, 8, 0, 6]
+Local score: 10
+211 | Best Score: 10
+[7, 4, 2, 1, 3, 5, 8, 9, 0, 6]
+Local score: 10
+[7, 4, 2, 1, 3, 5, 9, 8, 0, 6]
+Local score: 10
+[7, 4, 2, 1, 3, 5, 8, 9, 0, 6]
+Local score: 10
+212 | Best Score: 10
+[4, 7, 2, 1, 3, 5, 8, 9, 0, 6]
+Local score: 10
+[7, 4, 2, 1, 3, 5, 8, 9, 0, 6]
+Local score: 10
+[4, 7, 2, 1, 3, 5, 8, 9, 0, 6]
+Local score: 10
+213 | Best Score: 10
+[4, 7, 2, 3, 1, 5, 8, 9, 0, 6]
+Local score: 10
+[4, 7, 2, 1, 3, 5, 8, 9, 0, 6]
+Local score: 10
+[4, 7, 2, 3, 1, 5, 8, 9, 0, 6]
+Local score: 10
+214 | Best Score: 10
+[4, 7, 2, 3, 1, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 7, 2, 3, 1, 5, 8, 9, 0, 6]
+Local score: 10
+[4, 7, 2, 3, 1, 5, 9, 8, 0, 6]
+Local score: 10
+215 | Best Score: 10
+[4, 7, 3, 2, 1, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 7, 2, 3, 1, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 7, 3, 2, 1, 5, 9, 8, 0, 6]
+Local score: 10
+216 | Best Score: 10
+[4, 7, 3, 2, 1, 5, 9, 0, 8, 6]
+Local score: 10
+[4, 7, 3, 2, 1, 5, 9, 8, 0, 6]
+Local score: 10
+[4, 7, 3, 2, 1, 5, 9, 0, 8, 6]
+Local score: 10
+217 | Best Score: 10
+[4, 7, 3, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+[4, 7, 3, 2, 1, 5, 9, 0, 8, 6]
+Local score: 10
+[4, 7, 3, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+218 | Best Score: 10
+[4, 7, 3, 1, 2, 9, 5, 0, 8, 6]
+Local score: 13
+[4, 7, 3, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+[4, 7, 3, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+219 | Best Score: 10
+[4, 3, 7, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+[4, 7, 3, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+[4, 3, 7, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+220 | Best Score: 10
+[3, 4, 7, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+[4, 3, 7, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+[3, 4, 7, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+221 | Best Score: 10
+[3, 4, 7, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+[3, 4, 7, 1, 2, 5, 9, 0, 8, 6]
+Local score: 10
+[3, 4, 7, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+222 | Best Score: 10
+[3, 7, 4, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+[3, 4, 7, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+[3, 7, 4, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+223 | Best Score: 10
+[7, 3, 4, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+[3, 7, 4, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+[7, 3, 4, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+224 | Best Score: 10
+[7, 3, 4, 1, 2, 5, 0, 9, 6, 8]
+Local score: 10
+[7, 3, 4, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+[7, 3, 4, 1, 2, 5, 0, 9, 6, 8]
+Local score: 10
+225 | Best Score: 10
+[7, 3, 4, 2, 1, 5, 0, 9, 6, 8]
+Local score: 10
+[7, 3, 4, 1, 2, 5, 0, 9, 6, 8]
+Local score: 10
+[7, 3, 4, 2, 1, 5, 0, 9, 6, 8]
+Local score: 10
+226 | Best Score: 10
+[7, 3, 4, 2, 1, 5, 0, 9, 8, 6]
+Local score: 10
+[7, 3, 4, 2, 1, 5, 0, 9, 6, 8]
+Local score: 10
+[7, 3, 4, 2, 1, 5, 0, 9, 8, 6]
+Local score: 10
+227 | Best Score: 10
+[7, 3, 4, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+[7, 3, 4, 2, 1, 5, 0, 9, 8, 6]
+Local score: 10
+[7, 3, 4, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+228 | Best Score: 10
+[7, 3, 4, 1, 2, 5, 0, 8, 9, 6]
+Local score: 10
+[7, 3, 4, 1, 2, 5, 0, 9, 8, 6]
+Local score: 10
+[7, 3, 4, 1, 2, 5, 0, 8, 9, 6]
+Local score: 10
+229 | Best Score: 10
+[7, 3, 4, 1, 5, 2, 0, 8, 9, 6]
+Local score: 10
+[7, 3, 4, 1, 2, 5, 0, 8, 9, 6]
+Local score: 10
+[7, 3, 4, 1, 5, 2, 0, 8, 9, 6]
+Local score: 10
+230 | Best Score: 10
+[7, 3, 4, 1, 5, 2, 8, 0, 9, 6]
+Local score: 10
+[7, 3, 4, 1, 5, 2, 0, 8, 9, 6]
+Local score: 10
+[7, 3, 4, 1, 5, 2, 8, 0, 9, 6]
+Local score: 10
+231 | Best Score: 10
+[7, 3, 1, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+[7, 3, 4, 1, 5, 2, 8, 0, 9, 6]
+Local score: 10
+[7, 3, 1, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+232 | Best Score: 10
+[7, 1, 3, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+[7, 3, 1, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+[7, 1, 3, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+233 | Best Score: 10
+[7, 1, 3, 4, 5, 2, 8, 0, 6, 9]
+Local score: 10
+[7, 1, 3, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+[7, 1, 3, 4, 5, 2, 8, 0, 6, 9]
+Local score: 10
+234 | Best Score: 10
+[1, 7, 3, 4, 5, 2, 8, 0, 6, 9]
+Local score: 10
+[7, 1, 3, 4, 5, 2, 8, 0, 6, 9]
+Local score: 10
+[1, 7, 3, 4, 5, 2, 8, 0, 6, 9]
+Local score: 10
+235 | Best Score: 10
+[1, 7, 3, 4, 5, 2, 0, 8, 6, 9]
+Local score: 10
+[1, 7, 3, 4, 5, 2, 8, 0, 6, 9]
+Local score: 10
+[1, 7, 3, 4, 5, 2, 0, 8, 6, 9]
+Local score: 10
+236 | Best Score: 10
+[1, 3, 7, 4, 5, 2, 0, 8, 6, 9]
+Local score: 10
+[1, 7, 3, 4, 5, 2, 0, 8, 6, 9]
+Local score: 10
+[1, 3, 7, 4, 5, 2, 0, 8, 6, 9]
+Local score: 10
+237 | Best Score: 10
+[1, 3, 4, 7, 5, 2, 0, 8, 6, 9]
+Local score: 10
+[1, 3, 7, 4, 5, 2, 0, 8, 6, 9]
+Local score: 10
+[1, 3, 4, 7, 5, 2, 0, 8, 6, 9]
+Local score: 10
+238 | Best Score: 10
+[1, 3, 4, 7, 5, 2, 0, 8, 9, 6]
+Local score: 10
+[1, 3, 4, 7, 5, 2, 0, 8, 6, 9]
+Local score: 10
+[1, 3, 4, 7, 5, 2, 0, 8, 9, 6]
+Local score: 10
+239 | Best Score: 10
+[1, 3, 7, 4, 5, 2, 0, 8, 9, 6]
+Local score: 10
+[1, 3, 4, 7, 5, 2, 0, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 2, 0, 8, 9, 6]
+Local score: 10
+240 | Best Score: 10
+[1, 3, 7, 4, 5, 0, 2, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 2, 0, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 0, 2, 8, 9, 6]
+Local score: 10
+241 | Best Score: 10
+[1, 3, 7, 5, 4, 0, 2, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 0, 2, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 5, 4, 0, 2, 8, 9, 6]
+Local score: 10
+242 | Best Score: 10
+[1, 3, 7, 4, 5, 0, 2, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 5, 4, 0, 2, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 0, 2, 8, 9, 6]
+Local score: 10
+243 | Best Score: 10
+[1, 3, 7, 4, 5, 2, 0, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 0, 2, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 2, 0, 8, 9, 6]
+Local score: 10
+244 | Best Score: 10
+[1, 3, 7, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 2, 0, 8, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+245 | Best Score: 10
+[1, 3, 7, 4, 5, 8, 2, 0, 9, 6]
+Local score: 13
+[1, 3, 7, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+246 | Best Score: 10
+[1, 3, 7, 5, 4, 2, 8, 0, 9, 6]
+Local score: 10
+[1, 3, 7, 4, 5, 2, 8, 0, 9, 6]
+Local score: 10
+[1, 3, 7, 5, 4, 2, 8, 0, 9, 6]
+Local score: 10
+247 | Best Score: 10
+[1, 3, 7, 5, 4, 2, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 7, 5, 4, 2, 8, 0, 9, 6]
+Local score: 10
+[1, 3, 7, 5, 4, 2, 8, 0, 6, 9]
+Local score: 10
+248 | Best Score: 10
+[1, 3, 7, 5, 2, 4, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 7, 5, 4, 2, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 7, 5, 2, 4, 8, 0, 6, 9]
+Local score: 10
+249 | Best Score: 10
+[1, 3, 7, 5, 2, 8, 4, 0, 6, 9]
+Local score: 13
+[1, 3, 7, 5, 2, 4, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 7, 5, 2, 4, 8, 0, 6, 9]
+Local score: 10
+250 | Best Score: 10
+[1, 3, 7, 5, 2, 4, 8, 6, 0, 9]
+Local score: 10
+[1, 3, 7, 5, 2, 4, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 7, 5, 2, 4, 8, 6, 0, 9]
+Local score: 10
+251 | Best Score: 10
+[1, 3, 7, 5, 2, 4, 8, 6, 9, 0]
+Local score: 10
+[1, 3, 7, 5, 2, 4, 8, 6, 0, 9]
+Local score: 10
+[1, 3, 7, 5, 2, 4, 8, 6, 9, 0]
+Local score: 10
+252 | Best Score: 10
+[1, 3, 5, 7, 2, 4, 8, 6, 9, 0]
+Local score: 10
+[1, 3, 7, 5, 2, 4, 8, 6, 9, 0]
+Local score: 10
+[1, 3, 5, 7, 2, 4, 8, 6, 9, 0]
+Local score: 10
+253 | Best Score: 10
+[1, 3, 5, 7, 2, 4, 8, 6, 0, 9]
+Local score: 10
+[1, 3, 5, 7, 2, 4, 8, 6, 9, 0]
+Local score: 10
+[1, 3, 5, 7, 2, 4, 8, 6, 0, 9]
+Local score: 10
+254 | Best Score: 10
+[1, 3, 5, 7, 2, 4, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 5, 7, 2, 4, 8, 6, 0, 9]
+Local score: 10
+[1, 3, 5, 7, 2, 4, 8, 0, 6, 9]
+Local score: 10
+255 | Best Score: 10
+[1, 3, 7, 5, 2, 4, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 5, 7, 2, 4, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 7, 5, 2, 4, 8, 0, 6, 9]
+Local score: 10
+256 | Best Score: 10
+[1, 3, 7, 2, 5, 4, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 7, 5, 2, 4, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 7, 2, 5, 4, 8, 0, 6, 9]
+Local score: 10
+257 | Best Score: 10
+[1, 3, 7, 2, 5, 4, 8, 6, 0, 9]
+Local score: 10
+[1, 3, 7, 2, 5, 4, 8, 0, 6, 9]
+Local score: 10
+[1, 3, 7, 2, 5, 4, 8, 6, 0, 9]
+Local score: 10
+258 | Best Score: 10
+[1, 3, 7, 2, 5, 4, 8, 6, 9, 0]
+Local score: 10
+[1, 3, 7, 2, 5, 4, 8, 6, 0, 9]
+Local score: 10
+[1, 3, 7, 2, 5, 4, 8, 6, 9, 0]
+Local score: 10
+259 | Best Score: 10
+[1, 3, 7, 2, 5, 4, 6, 8, 9, 0]
+Local score: 10
+[1, 3, 7, 2, 5, 4, 8, 6, 9, 0]
+Local score: 10
+[1, 3, 7, 2, 5, 4, 6, 8, 9, 0]
+Local score: 10
+260 | Best Score: 10
+[1, 3, 2, 7, 5, 4, 6, 8, 9, 0]
+Local score: 10
+[1, 3, 7, 2, 5, 4, 6, 8, 9, 0]
+Local score: 10
+[1, 3, 2, 7, 5, 4, 6, 8, 9, 0]
+Local score: 10
+261 | Best Score: 10
+[3, 1, 2, 7, 5, 4, 6, 8, 9, 0]
+Local score: 10
+[1, 3, 2, 7, 5, 4, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 2, 7, 5, 4, 6, 8, 9, 0]
+Local score: 10
+262 | Best Score: 10
+[3, 1, 2, 7, 4, 5, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 2, 7, 5, 4, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 8, 9, 0]
+Local score: 10
+263 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 9, 0]
+Local score: 10
+264 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+265 | Best Score: 10
+[3, 1, 7, 2, 4, 6, 5, 8, 0, 9]
+Local score: 13
+[3, 1, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+266 | Best Score: 10
+[1, 3, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[1, 3, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+267 | Best Score: 10
+[1, 7, 3, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[1, 3, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[1, 7, 3, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+268 | Best Score: 10
+[1, 3, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[1, 7, 3, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[1, 3, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+269 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[1, 3, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+270 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 6, 0, 8, 9]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 0, 9]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 0, 8, 9]
+Local score: 10
+271 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 6, 0, 9, 8]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 0, 8, 9]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 0, 9, 8]
+Local score: 10
+272 | Best Score: 10
+[3, 1, 7, 4, 2, 5, 6, 0, 9, 8]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 0, 9, 8]
+Local score: 10
+[3, 1, 7, 4, 2, 5, 6, 0, 9, 8]
+Local score: 10
+273 | Best Score: 10
+[3, 1, 7, 4, 2, 6, 5, 0, 9, 8]
+Local score: 13
+[3, 1, 7, 4, 2, 5, 6, 0, 9, 8]
+Local score: 10
+[3, 1, 7, 4, 2, 5, 6, 0, 9, 8]
+Local score: 10
+274 | Best Score: 10
+[3, 1, 7, 4, 2, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 7, 4, 2, 5, 6, 0, 9, 8]
+Local score: 10
+[3, 1, 7, 4, 2, 5, 6, 9, 0, 8]
+Local score: 10
+275 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 7, 4, 2, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 9, 0, 8]
+Local score: 10
+276 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 9, 6, 0, 8]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 9, 6, 0, 8]
+Local score: 10
+277 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 9, 6, 8, 0]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 9, 6, 0, 8]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 9, 6, 8, 0]
+Local score: 10
+278 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 6, 9, 8, 0]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 9, 6, 8, 0]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 9, 8, 0]
+Local score: 10
+279 | Best Score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 9, 8, 0]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 9, 0]
+Local score: 10
+280 | Best Score: 10
+[3, 1, 2, 7, 4, 5, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 7, 2, 4, 5, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 8, 9, 0]
+Local score: 10
+281 | Best Score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+282 | Best Score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+283 | Best Score: 10
+[1, 3, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[1, 3, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+284 | Best Score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[1, 3, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+285 | Best Score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+286 | Best Score: 10
+[3, 1, 2, 7, 4, 6, 5, 9, 8, 0]
+Local score: 13
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+287 | Best Score: 10
+[3, 1, 2, 7, 4, 6, 5, 9, 8, 0]
+Local score: 13
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+288 | Best Score: 10
+[3, 1, 2, 7, 4, 6, 5, 9, 8, 0]
+Local score: 13
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+289 | Best Score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 8, 0]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+290 | Best Score: 10
+[3, 2, 1, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 1, 2, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 2, 1, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+291 | Best Score: 10
+[2, 3, 1, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[3, 2, 1, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+292 | Best Score: 10
+[2, 3, 1, 7, 4, 6, 5, 9, 0, 8]
+Local score: 13
+[2, 3, 1, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+293 | Best Score: 10
+[2, 3, 1, 7, 4, 5, 9, 6, 0, 8]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 6, 9, 0, 8]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 9, 6, 0, 8]
+Local score: 10
+294 | Best Score: 10
+[2, 3, 1, 7, 4, 5, 9, 6, 8, 0]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 9, 6, 0, 8]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 9, 6, 8, 0]
+Local score: 10
+295 | Best Score: 10
+[2, 3, 1, 7, 4, 5, 9, 8, 6, 0]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 9, 6, 8, 0]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 9, 8, 6, 0]
+Local score: 10
+296 | Best Score: 10
+[2, 3, 1, 7, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 9, 8, 6, 0]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 8, 9, 6, 0]
+Local score: 10
+297 | Best Score: 10
+[2, 3, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[2, 3, 1, 7, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[2, 3, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+298 | Best Score: 10
+[2, 3, 7, 1, 4, 8, 5, 9, 6, 0]
+Local score: 13
+[2, 3, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[2, 3, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+299 | Best Score: 10
+[2, 3, 7, 1, 4, 8, 5, 9, 6, 0]
+Local score: 13
+[2, 3, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[2, 3, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+300 | Best Score: 10
+[3, 2, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[2, 3, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[3, 2, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+301 | Best Score: 10
+[3, 7, 2, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[3, 2, 7, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[3, 7, 2, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+302 | Best Score: 10
+[3, 7, 2, 1, 4, 5, 8, 9, 0, 6]
+Local score: 10
+[3, 7, 2, 1, 4, 5, 8, 9, 6, 0]
+Local score: 10
+[3, 7, 2, 1, 4, 5, 8, 9, 0, 6]
+Local score: 10
+303 | Best Score: 10
+[3, 7, 2, 1, 4, 5, 9, 8, 0, 6]
+Local score: 10
+[3, 7, 2, 1, 4, 5, 8, 9, 0, 6]
+Local score: 10
+[3, 7, 2, 1, 4, 5, 9, 8, 0, 6]
+Local score: 10
+304 | Best Score: 10
+[3, 7, 2, 1, 4, 5, 8, 9, 0, 6]
+Local score: 10
+[3, 7, 2, 1, 4, 5, 9, 8, 0, 6]
+Local score: 10
+[3, 7, 2, 1, 4, 5, 8, 9, 0, 6]
+Local score: 10
+305 | Best Score: 10
+[3, 7, 2, 1, 5, 4, 8, 9, 0, 6]
+Local score: 10
+[3, 7, 2, 1, 4, 5, 8, 9, 0, 6]
+Local score: 10
+[3, 7, 2, 1, 5, 4, 8, 9, 0, 6]
+Local score: 10
+306 | Best Score: 10
+[3, 7, 2, 1, 5, 4, 8, 0, 9, 6]
+Local score: 10
+[3, 7, 2, 1, 5, 4, 8, 9, 0, 6]
+Local score: 10
+[3, 7, 2, 1, 5, 4, 8, 0, 9, 6]
+Local score: 10
+307 | Best Score: 10
+[3, 7, 1, 2, 5, 4, 8, 0, 9, 6]
+Local score: 10
+[3, 7, 2, 1, 5, 4, 8, 0, 9, 6]
+Local score: 10
+[3, 7, 1, 2, 5, 4, 8, 0, 9, 6]
+Local score: 10
+308 | Best Score: 10
+[3, 7, 1, 5, 2, 4, 8, 0, 9, 6]
+Local score: 10
+[3, 7, 1, 2, 5, 4, 8, 0, 9, 6]
+Local score: 10
+[3, 7, 1, 5, 2, 4, 8, 0, 9, 6]
+Local score: 10
+309 | Best Score: 10
+[3, 7, 1, 5, 2, 4, 8, 9, 0, 6]
+Local score: 10
+[3, 7, 1, 5, 2, 4, 8, 0, 9, 6]
+Local score: 10
+[3, 7, 1, 5, 2, 4, 8, 9, 0, 6]
+Local score: 10
+310 | Best Score: 10
+[3, 7, 1, 5, 2, 4, 9, 8, 0, 6]
+Local score: 10
+[3, 7, 1, 5, 2, 4, 8, 9, 0, 6]
+Local score: 10
+[3, 7, 1, 5, 2, 4, 9, 8, 0, 6]
+Local score: 10
+311 | Best Score: 10
+[3, 1, 7, 5, 2, 4, 9, 8, 0, 6]
+Local score: 10
+[3, 7, 1, 5, 2, 4, 9, 8, 0, 6]
+Local score: 10
+[3, 1, 7, 5, 2, 4, 9, 8, 0, 6]
+Local score: 10
+312 | Best Score: 10
+[3, 1, 5, 7, 2, 4, 9, 8, 0, 6]
+Local score: 10
+[3, 1, 7, 5, 2, 4, 9, 8, 0, 6]
+Local score: 10
+[3, 1, 5, 7, 2, 4, 9, 8, 0, 6]
+Local score: 10
+313 | Best Score: 10
+[3, 1, 5, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[3, 1, 5, 7, 2, 4, 9, 8, 0, 6]
+Local score: 10
+[3, 1, 5, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+314 | Best Score: 10
+[1, 3, 5, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[3, 1, 5, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[1, 3, 5, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+315 | Best Score: 10
+[1, 5, 3, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[1, 3, 5, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[1, 5, 3, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+316 | Best Score: 10
+[1, 5, 3, 7, 2, 9, 4, 8, 6, 0]
+Local score: 13
+[1, 5, 3, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[1, 5, 3, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+317 | Best Score: 10
+[1, 5, 3, 7, 2, 4, 9, 8, 0, 6]
+Local score: 10
+[1, 5, 3, 7, 2, 4, 9, 8, 6, 0]
+Local score: 10
+[1, 5, 3, 7, 2, 4, 9, 8, 0, 6]
+Local score: 10
+318 | Best Score: 10
+[1, 5, 3, 7, 2, 4, 9, 0, 8, 6]
+Local score: 10
+[1, 5, 3, 7, 2, 4, 9, 8, 0, 6]
+Local score: 10
+[1, 5, 3, 7, 2, 4, 9, 0, 8, 6]
+Local score: 10
+319 | Best Score: 10
+[1, 5, 3, 7, 4, 2, 9, 0, 8, 6]
+Local score: 10
+[1, 5, 3, 7, 2, 4, 9, 0, 8, 6]
+Local score: 10
+[1, 5, 3, 7, 4, 2, 9, 0, 8, 6]
+Local score: 10
+320 | Best Score: 10
+[1, 5, 3, 7, 4, 2, 9, 8, 0, 6]
+Local score: 10
+[1, 5, 3, 7, 4, 2, 9, 0, 8, 6]
+Local score: 10
+[1, 5, 3, 7, 4, 2, 9, 8, 0, 6]
+Local score: 10
+321 | Best Score: 10
+[1, 5, 3, 7, 4, 2, 8, 9, 0, 6]
+Local score: 10
+[1, 5, 3, 7, 4, 2, 9, 8, 0, 6]
+Local score: 10
+[1, 5, 3, 7, 4, 2, 8, 9, 0, 6]
+Local score: 10
+322 | Best Score: 10
+[1, 5, 3, 4, 7, 2, 8, 9, 0, 6]
+Local score: 10
+[1, 5, 3, 7, 4, 2, 8, 9, 0, 6]
+Local score: 10
+[1, 5, 3, 4, 7, 2, 8, 9, 0, 6]
+Local score: 10
+323 | Best Score: 10
+[1, 3, 5, 4, 7, 2, 8, 9, 0, 6]
+Local score: 10
+[1, 5, 3, 4, 7, 2, 8, 9, 0, 6]
+Local score: 10
+[1, 3, 5, 4, 7, 2, 8, 9, 0, 6]
+Local score: 10
+324 | Best Score: 10
+[1, 3, 5, 7, 4, 2, 8, 9, 0, 6]
+Local score: 10
+[1, 3, 5, 4, 7, 2, 8, 9, 0, 6]
+Local score: 10
+[1, 3, 5, 7, 4, 2, 8, 9, 0, 6]
+Local score: 10
+325 | Best Score: 10
+[1, 3, 5, 7, 4, 2, 8, 9, 6, 0]
+Local score: 10
+[1, 3, 5, 7, 4, 2, 8, 9, 0, 6]
+Local score: 10
+[1, 3, 5, 7, 4, 2, 8, 9, 6, 0]
+Local score: 10
+326 | Best Score: 10
+[3, 1, 5, 7, 4, 2, 8, 9, 6, 0]
+Local score: 10
+[1, 3, 5, 7, 4, 2, 8, 9, 6, 0]
+Local score: 10
+[3, 1, 5, 7, 4, 2, 8, 9, 6, 0]
+Local score: 10
+327 | Best Score: 10
+[3, 1, 5, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[3, 1, 5, 7, 4, 2, 8, 9, 6, 0]
+Local score: 10
+[3, 1, 5, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+328 | Best Score: 10
+[3, 1, 5, 7, 4, 2, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 5, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[3, 1, 5, 7, 4, 2, 6, 8, 9, 0]
+Local score: 10
+329 | Best Score: 10
+[3, 1, 5, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[3, 1, 5, 7, 4, 2, 6, 8, 9, 0]
+Local score: 10
+[3, 1, 5, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+330 | Best Score: 10
+[3, 5, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[3, 1, 5, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[3, 5, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+331 | Best Score: 10
+[3, 5, 1, 7, 4, 8, 2, 6, 9, 0]
+Local score: 13
+[3, 5, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[3, 5, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+332 | Best Score: 10
+[3, 5, 1, 7, 2, 4, 8, 6, 9, 0]
+Local score: 10
+[3, 5, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[3, 5, 1, 7, 2, 4, 8, 6, 9, 0]
+Local score: 10
+333 | Best Score: 10
+[3, 5, 1, 7, 2, 4, 8, 6, 0, 9]
+Local score: 10
+[3, 5, 1, 7, 2, 4, 8, 6, 9, 0]
+Local score: 10
+[3, 5, 1, 7, 2, 4, 8, 6, 0, 9]
+Local score: 10
+334 | Best Score: 10
+[3, 5, 1, 7, 2, 4, 8, 6, 9, 0]
+Local score: 10
+[3, 5, 1, 7, 2, 4, 8, 6, 0, 9]
+Local score: 10
+[3, 5, 1, 7, 2, 4, 8, 6, 9, 0]
+Local score: 10
+335 | Best Score: 10
+[3, 5, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[3, 5, 1, 7, 2, 4, 8, 6, 9, 0]
+Local score: 10
+[3, 5, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+336 | Best Score: 10
+[5, 3, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[3, 5, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 3, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+337 | Best Score: 10
+[5, 3, 7, 1, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 3, 1, 7, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 3, 7, 1, 4, 2, 8, 6, 9, 0]
+Local score: 10
+338 | Best Score: 10
+[5, 7, 3, 1, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 3, 7, 1, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 7, 3, 1, 4, 2, 8, 6, 9, 0]
+Local score: 10
+339 | Best Score: 10
+[5, 7, 3, 4, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 7, 3, 1, 4, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 7, 3, 4, 1, 2, 8, 6, 9, 0]
+Local score: 10
+340 | Best Score: 10
+[5, 7, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 7, 3, 4, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 7, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+341 | Best Score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 7, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+342 | Best Score: 10
+[7, 5, 4, 3, 1, 8, 2, 6, 9, 0]
+Local score: 13
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+343 | Best Score: 10
+[7, 5, 4, 3, 1, 8, 2, 6, 9, 0]
+Local score: 13
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+344 | Best Score: 10
+[7, 5, 4, 3, 1, 2, 8, 9, 6, 0]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 9, 6, 0]
+Local score: 10
+345 | Best Score: 10
+[7, 5, 4, 3, 1, 8, 2, 9, 6, 0]
+Local score: 13
+[7, 5, 4, 3, 1, 2, 8, 9, 6, 0]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 9, 6, 0]
+Local score: 10
+346 | Best Score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 9, 6, 0]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+347 | Best Score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 0, 9]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 0, 9]
+Local score: 10
+348 | Best Score: 10
+[7, 5, 4, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 8, 6, 0, 9]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+349 | Best Score: 10
+[7, 5, 4, 3, 1, 6, 2, 8, 0, 9]
+Local score: 13
+[7, 5, 4, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+350 | Best Score: 10
+[5, 7, 4, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[7, 5, 4, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[5, 7, 4, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+351 | Best Score: 10
+[5, 4, 7, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[5, 7, 4, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+352 | Best Score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 0, 9]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 0, 9]
+Local score: 10
+353 | Best Score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 0, 9]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+354 | Best Score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 0, 9]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 0, 9]
+Local score: 10
+355 | Best Score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 0, 9]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+356 | Best Score: 10
+[5, 4, 7, 3, 1, 8, 2, 6, 9, 0]
+Local score: 13
+[5, 4, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+357 | Best Score: 10
+[4, 5, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+358 | Best Score: 10
+[4, 5, 7, 1, 3, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 7, 3, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 7, 1, 3, 2, 8, 6, 9, 0]
+Local score: 10
+359 | Best Score: 10
+[4, 5, 1, 7, 3, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 7, 1, 3, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 1, 7, 3, 2, 8, 6, 9, 0]
+Local score: 10
+360 | Best Score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 1, 7, 3, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 9, 0]
+Local score: 10
+361 | Best Score: 10
+[4, 5, 1, 3, 7, 2, 6, 8, 9, 0]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 6, 8, 9, 0]
+Local score: 10
+362 | Best Score: 10
+[4, 5, 1, 3, 7, 2, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 6, 8, 9, 0]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 6, 8, 0, 9]
+Local score: 10
+363 | Best Score: 10
+[4, 5, 1, 3, 2, 7, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 2, 7, 6, 8, 0, 9]
+Local score: 10
+364 | Best Score: 10
+[4, 5, 1, 3, 7, 2, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 2, 7, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 6, 8, 0, 9]
+Local score: 10
+365 | Best Score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 0, 9]
+Local score: 10
+366 | Best Score: 10
+[4, 5, 3, 1, 7, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 3, 1, 7, 2, 8, 6, 0, 9]
+Local score: 10
+367 | Best Score: 10
+[4, 5, 3, 1, 7, 2, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 3, 1, 7, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 3, 1, 7, 2, 6, 8, 0, 9]
+Local score: 10
+368 | Best Score: 10
+[4, 5, 3, 1, 7, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 3, 1, 7, 2, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 3, 1, 7, 2, 8, 6, 0, 9]
+Local score: 10
+369 | Best Score: 10
+[4, 5, 3, 1, 7, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 3, 1, 7, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 3, 1, 7, 2, 8, 6, 9, 0]
+Local score: 10
+370 | Best Score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 3, 1, 7, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 9, 0]
+Local score: 10
+371 | Best Score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 0, 9]
+Local score: 10
+372 | Best Score: 10
+[4, 5, 1, 7, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 1, 3, 7, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 1, 7, 3, 2, 8, 6, 0, 9]
+Local score: 10
+373 | Best Score: 10
+[5, 4, 1, 7, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 1, 7, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[5, 4, 1, 7, 3, 2, 8, 6, 0, 9]
+Local score: 10
+374 | Best Score: 10
+[5, 4, 7, 1, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[5, 4, 1, 7, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[5, 4, 7, 1, 3, 2, 8, 6, 0, 9]
+Local score: 10
+375 | Best Score: 10
+[4, 5, 7, 1, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[5, 4, 7, 1, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 7, 1, 3, 2, 8, 6, 0, 9]
+Local score: 10
+376 | Best Score: 10
+[4, 5, 7, 1, 2, 3, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 7, 1, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 7, 1, 2, 3, 8, 6, 0, 9]
+Local score: 10
+377 | Best Score: 10
+[4, 7, 5, 1, 2, 3, 8, 6, 0, 9]
+Local score: 10
+[4, 5, 7, 1, 2, 3, 8, 6, 0, 9]
+Local score: 10
+[4, 7, 5, 1, 2, 3, 8, 6, 0, 9]
+Local score: 10
+378 | Best Score: 10
+[7, 4, 5, 1, 2, 3, 8, 6, 0, 9]
+Local score: 10
+[4, 7, 5, 1, 2, 3, 8, 6, 0, 9]
+Local score: 10
+[7, 4, 5, 1, 2, 3, 8, 6, 0, 9]
+Local score: 10
+379 | Best Score: 10
+[7, 4, 1, 5, 2, 3, 8, 6, 0, 9]
+Local score: 10
+[7, 4, 5, 1, 2, 3, 8, 6, 0, 9]
+Local score: 10
+[7, 4, 1, 5, 2, 3, 8, 6, 0, 9]
+Local score: 10
+380 | Best Score: 10
+[7, 4, 1, 5, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[7, 4, 1, 5, 2, 3, 8, 6, 0, 9]
+Local score: 10
+[7, 4, 1, 5, 3, 2, 8, 6, 0, 9]
+Local score: 10
+381 | Best Score: 10
+[4, 7, 1, 5, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[7, 4, 1, 5, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 7, 1, 5, 3, 2, 8, 6, 0, 9]
+Local score: 10
+382 | Best Score: 10
+[4, 7, 1, 5, 3, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 7, 1, 5, 3, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 7, 1, 5, 3, 2, 8, 6, 9, 0]
+Local score: 10
+383 | Best Score: 10
+[4, 7, 1, 5, 3, 2, 8, 9, 6, 0]
+Local score: 10
+[4, 7, 1, 5, 3, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 7, 1, 5, 3, 2, 8, 9, 6, 0]
+Local score: 10
+384 | Best Score: 10
+[4, 7, 1, 5, 3, 2, 8, 9, 0, 6]
+Local score: 10
+[4, 7, 1, 5, 3, 2, 8, 9, 6, 0]
+Local score: 10
+[4, 7, 1, 5, 3, 2, 8, 9, 0, 6]
+Local score: 10
+385 | Best Score: 10
+[4, 7, 1, 5, 3, 8, 2, 9, 0, 6]
+Local score: 13
+[4, 7, 1, 5, 3, 2, 8, 9, 0, 6]
+Local score: 10
+[4, 7, 1, 5, 3, 2, 8, 9, 0, 6]
+Local score: 10
+386 | Best Score: 10
+[4, 7, 1, 5, 2, 3, 8, 9, 0, 6]
+Local score: 10
+[4, 7, 1, 5, 3, 2, 8, 9, 0, 6]
+Local score: 10
+[4, 7, 1, 5, 2, 3, 8, 9, 0, 6]
+Local score: 10
+387 | Best Score: 10
+[4, 7, 1, 5, 2, 3, 8, 0, 9, 6]
+Local score: 10
+[4, 7, 1, 5, 2, 3, 8, 9, 0, 6]
+Local score: 10
+[4, 7, 1, 5, 2, 3, 8, 0, 9, 6]
+Local score: 10
+388 | Best Score: 10
+[4, 1, 7, 5, 2, 3, 8, 0, 9, 6]
+Local score: 10
+[4, 7, 1, 5, 2, 3, 8, 0, 9, 6]
+Local score: 10
+[4, 1, 7, 5, 2, 3, 8, 0, 9, 6]
+Local score: 10
+389 | Best Score: 10
+[4, 1, 7, 2, 5, 3, 8, 0, 9, 6]
+Local score: 10
+[4, 1, 7, 5, 2, 3, 8, 0, 9, 6]
+Local score: 10
+[4, 1, 7, 2, 5, 3, 8, 0, 9, 6]
+Local score: 10
+390 | Best Score: 10
+[4, 1, 7, 2, 5, 3, 0, 8, 9, 6]
+Local score: 10
+[4, 1, 7, 2, 5, 3, 8, 0, 9, 6]
+Local score: 10
+[4, 1, 7, 2, 5, 3, 0, 8, 9, 6]
+Local score: 10
+391 | Best Score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 9, 6]
+Local score: 10
+[4, 1, 7, 2, 5, 3, 0, 8, 9, 6]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 9, 6]
+Local score: 10
+392 | Best Score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 9, 6]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 9, 6]
+Local score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 9, 6]
+Local score: 10
+393 | Best Score: 10
+[4, 2, 1, 7, 5, 0, 3, 8, 9, 6]
+Local score: 11
+[4, 2, 1, 7, 5, 3, 0, 8, 9, 6]
+Local score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 9, 6]
+Local score: 10
+394 | Best Score: 10
+[4, 2, 1, 7, 3, 5, 0, 8, 9, 6]
+Local score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 9, 6]
+Local score: 10
+[4, 2, 1, 7, 3, 5, 0, 8, 9, 6]
+Local score: 10
+395 | Best Score: 10
+[4, 2, 1, 7, 3, 5, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 1, 7, 3, 5, 0, 8, 9, 6]
+Local score: 10
+[4, 2, 1, 7, 3, 5, 0, 8, 6, 9]
+Local score: 10
+396 | Best Score: 10
+[4, 2, 7, 1, 3, 5, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 1, 7, 3, 5, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 7, 1, 3, 5, 0, 8, 6, 9]
+Local score: 10
+397 | Best Score: 10
+[4, 2, 7, 1, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 7, 1, 3, 5, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 7, 1, 5, 3, 0, 8, 6, 9]
+Local score: 10
+398 | Best Score: 10
+[4, 2, 7, 1, 5, 0, 3, 8, 6, 9]
+Local score: 11
+[4, 2, 7, 1, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 7, 1, 5, 3, 0, 8, 6, 9]
+Local score: 10
+399 | Best Score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 7, 1, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+400 | Best Score: 10
+[2, 4, 1, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[2, 4, 1, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+401 | Best Score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[2, 4, 1, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+402 | Best Score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 2, 1, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+403 | Best Score: 10
+[4, 1, 2, 7, 5, 3, 0, 6, 8, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 6, 8, 9]
+Local score: 10
+404 | Best Score: 10
+[4, 1, 2, 7, 5, 3, 0, 6, 9, 8]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 6, 8, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 6, 9, 8]
+Local score: 10
+405 | Best Score: 10
+[4, 1, 2, 7, 5, 3, 0, 6, 8, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 6, 9, 8]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 6, 8, 9]
+Local score: 10
+406 | Best Score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 6, 8, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+407 | Best Score: 10
+[4, 1, 2, 7, 5, 0, 3, 8, 6, 9]
+Local score: 11
+[4, 1, 2, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+408 | Best Score: 10
+[4, 1, 2, 7, 5, 3, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 0, 8, 6, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 8, 0, 6, 9]
+Local score: 10
+409 | Best Score: 10
+[4, 1, 2, 7, 3, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 2, 7, 5, 3, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 2, 7, 3, 5, 8, 0, 6, 9]
+Local score: 10
+410 | Best Score: 10
+[4, 2, 1, 7, 3, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 2, 7, 3, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 2, 1, 7, 3, 5, 8, 0, 6, 9]
+Local score: 10
+411 | Best Score: 10
+[4, 2, 1, 3, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 2, 1, 7, 3, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 2, 1, 3, 7, 5, 8, 0, 6, 9]
+Local score: 10
+412 | Best Score: 10
+[4, 1, 2, 3, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 2, 1, 3, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 2, 3, 7, 5, 8, 0, 6, 9]
+Local score: 10
+413 | Best Score: 10
+[4, 1, 3, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 2, 3, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+414 | Best Score: 10
+[4, 1, 3, 2, 7, 5, 0, 8, 6, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 0, 8, 6, 9]
+Local score: 10
+415 | Best Score: 10
+[4, 1, 3, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 0, 8, 6, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+416 | Best Score: 10
+[4, 3, 1, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+417 | Best Score: 10
+[4, 3, 1, 2, 5, 7, 8, 0, 6, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 3, 1, 2, 5, 7, 8, 0, 6, 9]
+Local score: 10
+418 | Best Score: 10
+[4, 3, 1, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 3, 1, 2, 5, 7, 8, 0, 6, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+419 | Best Score: 10
+[4, 1, 3, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+420 | Best Score: 10
+[4, 3, 1, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+421 | Best Score: 10
+[4, 3, 1, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 0, 6, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+422 | Best Score: 10
+[3, 4, 1, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[3, 4, 1, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+423 | Best Score: 10
+[4, 3, 1, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[3, 4, 1, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+424 | Best Score: 10
+[4, 1, 3, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 1, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+425 | Best Score: 10
+[4, 1, 2, 3, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[4, 1, 3, 2, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[4, 1, 2, 3, 7, 5, 8, 6, 0, 9]
+Local score: 10
+426 | Best Score: 10
+[4, 1, 2, 3, 5, 7, 8, 6, 0, 9]
+Local score: 10
+[4, 1, 2, 3, 7, 5, 8, 6, 0, 9]
+Local score: 10
+[4, 1, 2, 3, 5, 7, 8, 6, 0, 9]
+Local score: 10
+427 | Best Score: 10
+[4, 1, 2, 3, 5, 7, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 2, 3, 5, 7, 8, 6, 0, 9]
+Local score: 10
+[4, 1, 2, 3, 5, 7, 8, 0, 6, 9]
+Local score: 10
+428 | Best Score: 10
+[4, 1, 2, 3, 5, 7, 8, 0, 9, 6]
+Local score: 10
+[4, 1, 2, 3, 5, 7, 8, 0, 6, 9]
+Local score: 10
+[4, 1, 2, 3, 5, 7, 8, 0, 9, 6]
+Local score: 10
+429 | Best Score: 10
+[4, 1, 3, 2, 5, 7, 8, 0, 9, 6]
+Local score: 10
+[4, 1, 2, 3, 5, 7, 8, 0, 9, 6]
+Local score: 10
+[4, 1, 3, 2, 5, 7, 8, 0, 9, 6]
+Local score: 10
+430 | Best Score: 10
+[4, 3, 1, 2, 5, 7, 8, 0, 9, 6]
+Local score: 10
+[4, 1, 3, 2, 5, 7, 8, 0, 9, 6]
+Local score: 10
+[4, 3, 1, 2, 5, 7, 8, 0, 9, 6]
+Local score: 10
+431 | Best Score: 10
+[3, 4, 1, 2, 5, 7, 8, 0, 9, 6]
+Local score: 10
+[4, 3, 1, 2, 5, 7, 8, 0, 9, 6]
+Local score: 10
+[3, 4, 1, 2, 5, 7, 8, 0, 9, 6]
+Local score: 10
+432 | Best Score: 10
+[3, 4, 1, 2, 5, 7, 0, 8, 9, 6]
+Local score: 10
+[3, 4, 1, 2, 5, 7, 8, 0, 9, 6]
+Local score: 10
+[3, 4, 1, 2, 5, 7, 0, 8, 9, 6]
+Local score: 10
+433 | Best Score: 10
+[3, 4, 1, 2, 5, 7, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 1, 2, 5, 7, 0, 8, 9, 6]
+Local score: 10
+[3, 4, 1, 2, 5, 7, 0, 8, 6, 9]
+Local score: 10
+434 | Best Score: 10
+[3, 4, 1, 2, 5, 0, 7, 8, 6, 9]
+Local score: 14
+[3, 4, 1, 2, 5, 7, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 1, 2, 5, 7, 0, 8, 6, 9]
+Local score: 10
+435 | Best Score: 10
+[3, 4, 2, 1, 5, 7, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 1, 2, 5, 7, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 1, 5, 7, 0, 8, 6, 9]
+Local score: 10
+436 | Best Score: 10
+[3, 4, 2, 1, 5, 7, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 1, 5, 7, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 1, 5, 7, 0, 6, 8, 9]
+Local score: 10
+437 | Best Score: 10
+[3, 4, 2, 1, 5, 0, 7, 6, 8, 9]
+Local score: 14
+[3, 4, 2, 1, 5, 7, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 1, 5, 7, 0, 6, 8, 9]
+Local score: 10
+438 | Best Score: 10
+[3, 4, 2, 1, 7, 5, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 1, 5, 7, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 1, 7, 5, 0, 6, 8, 9]
+Local score: 10
+439 | Best Score: 10
+[3, 4, 2, 1, 7, 0, 5, 6, 8, 9]
+Local score: 14
+[3, 4, 2, 1, 7, 5, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 1, 7, 5, 0, 6, 8, 9]
+Local score: 10
+440 | Best Score: 10
+[3, 4, 2, 1, 7, 0, 5, 6, 8, 9]
+Local score: 14
+[3, 4, 2, 1, 7, 5, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 1, 7, 5, 0, 6, 8, 9]
+Local score: 10
+441 | Best Score: 10
+[3, 4, 2, 1, 7, 0, 5, 6, 8, 9]
+Local score: 14
+[3, 4, 2, 1, 7, 5, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 1, 7, 5, 0, 6, 8, 9]
+Local score: 10
+442 | Best Score: 10
+[3, 4, 2, 7, 1, 5, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 1, 7, 5, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 7, 1, 5, 0, 6, 8, 9]
+Local score: 10
+443 | Best Score: 10
+[3, 4, 2, 7, 1, 5, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 7, 1, 5, 0, 6, 8, 9]
+Local score: 10
+[3, 4, 2, 7, 1, 5, 0, 8, 6, 9]
+Local score: 10
+444 | Best Score: 10
+[3, 4, 7, 2, 1, 5, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 2, 7, 1, 5, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 7, 2, 1, 5, 0, 8, 6, 9]
+Local score: 10
+445 | Best Score: 10
+[3, 4, 7, 2, 1, 0, 5, 8, 6, 9]
+Local score: 14
+[3, 4, 7, 2, 1, 5, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 7, 2, 1, 5, 0, 8, 6, 9]
+Local score: 10
+446 | Best Score: 10
+[3, 4, 7, 2, 5, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 7, 2, 1, 5, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 7, 2, 5, 1, 0, 8, 6, 9]
+Local score: 10
+447 | Best Score: 10
+[3, 7, 4, 2, 5, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 4, 7, 2, 5, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 7, 4, 2, 5, 1, 0, 8, 6, 9]
+Local score: 10
+448 | Best Score: 10
+[3, 7, 4, 2, 5, 1, 8, 0, 6, 9]
+Local score: 10
+[3, 7, 4, 2, 5, 1, 0, 8, 6, 9]
+Local score: 10
+[3, 7, 4, 2, 5, 1, 8, 0, 6, 9]
+Local score: 10
+449 | Best Score: 10
+[3, 7, 4, 5, 2, 1, 8, 0, 6, 9]
+Local score: 10
+[3, 7, 4, 2, 5, 1, 8, 0, 6, 9]
+Local score: 10
+[3, 7, 4, 5, 2, 1, 8, 0, 6, 9]
+Local score: 10
+450 | Best Score: 10
+[3, 7, 4, 5, 2, 8, 1, 0, 6, 9]
+Local score: 13
+[3, 7, 4, 5, 2, 1, 8, 0, 6, 9]
+Local score: 10
+[3, 7, 4, 5, 2, 1, 8, 0, 6, 9]
+Local score: 10
+451 | Best Score: 10
+[3, 7, 4, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[3, 7, 4, 5, 2, 1, 8, 0, 6, 9]
+Local score: 10
+[3, 7, 4, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+452 | Best Score: 10
+[3, 4, 7, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[3, 7, 4, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[3, 4, 7, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+453 | Best Score: 10
+[3, 4, 7, 5, 2, 8, 1, 6, 0, 9]
+Local score: 13
+[3, 4, 7, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[3, 4, 7, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+454 | Best Score: 10
+[3, 4, 7, 5, 2, 1, 6, 8, 0, 9]
+Local score: 10
+[3, 4, 7, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[3, 4, 7, 5, 2, 1, 6, 8, 0, 9]
+Local score: 10
+455 | Best Score: 10
+[4, 3, 7, 5, 2, 1, 6, 8, 0, 9]
+Local score: 10
+[3, 4, 7, 5, 2, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 2, 1, 6, 8, 0, 9]
+Local score: 10
+456 | Best Score: 10
+[4, 3, 7, 5, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 2, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 1, 2, 6, 8, 0, 9]
+Local score: 10
+457 | Best Score: 10
+[4, 3, 7, 5, 1, 6, 2, 8, 0, 9]
+Local score: 13
+[4, 3, 7, 5, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 1, 2, 6, 8, 0, 9]
+Local score: 10
+458 | Best Score: 10
+[4, 3, 7, 5, 1, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 1, 2, 6, 8, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 1, 2, 8, 6, 0, 9]
+Local score: 10
+459 | Best Score: 10
+[4, 3, 7, 5, 1, 8, 2, 6, 0, 9]
+Local score: 13
+[4, 3, 7, 5, 1, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 1, 2, 8, 6, 0, 9]
+Local score: 10
+460 | Best Score: 10
+[4, 3, 7, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 1, 2, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+461 | Best Score: 10
+[4, 3, 5, 7, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 7, 5, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 5, 7, 2, 1, 8, 6, 0, 9]
+Local score: 10
+462 | Best Score: 10
+[4, 3, 5, 7, 2, 8, 1, 6, 0, 9]
+Local score: 13
+[4, 3, 5, 7, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 5, 7, 2, 1, 8, 6, 0, 9]
+Local score: 10
+463 | Best Score: 10
+[3, 4, 5, 7, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[4, 3, 5, 7, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[3, 4, 5, 7, 2, 1, 8, 6, 0, 9]
+Local score: 10
+464 | Best Score: 10
+[3, 4, 5, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+[3, 4, 5, 7, 2, 1, 8, 6, 0, 9]
+Local score: 10
+[3, 4, 5, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+465 | Best Score: 10
+[4, 3, 5, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+[3, 4, 5, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+[4, 3, 5, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+466 | Best Score: 10
+[4, 3, 5, 7, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 3, 5, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+[4, 3, 5, 7, 1, 2, 8, 6, 9, 0]
+Local score: 10
+467 | Best Score: 10
+[4, 3, 5, 7, 1, 2, 6, 8, 9, 0]
+Local score: 10
+[4, 3, 5, 7, 1, 2, 8, 6, 9, 0]
+Local score: 10
+[4, 3, 5, 7, 1, 2, 6, 8, 9, 0]
+Local score: 10
+468 | Best Score: 10
+[4, 5, 3, 7, 1, 2, 6, 8, 9, 0]
+Local score: 10
+[4, 3, 5, 7, 1, 2, 6, 8, 9, 0]
+Local score: 10
+[4, 5, 3, 7, 1, 2, 6, 8, 9, 0]
+Local score: 10
+469 | Best Score: 10
+[4, 5, 3, 7, 2, 1, 6, 8, 9, 0]
+Local score: 10
+[4, 5, 3, 7, 1, 2, 6, 8, 9, 0]
+Local score: 10
+[4, 5, 3, 7, 2, 1, 6, 8, 9, 0]
+Local score: 10
+470 | Best Score: 10
+[5, 4, 3, 7, 2, 1, 6, 8, 9, 0]
+Local score: 10
+[4, 5, 3, 7, 2, 1, 6, 8, 9, 0]
+Local score: 10
+[5, 4, 3, 7, 2, 1, 6, 8, 9, 0]
+Local score: 10
+471 | Best Score: 10
+[5, 4, 3, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 3, 7, 2, 1, 6, 8, 9, 0]
+Local score: 10
+[5, 4, 3, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+472 | Best Score: 10
+[5, 4, 3, 7, 2, 8, 1, 6, 9, 0]
+Local score: 13
+[5, 4, 3, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 3, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+473 | Best Score: 10
+[5, 4, 3, 2, 7, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 3, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 3, 2, 7, 1, 8, 6, 9, 0]
+Local score: 10
+474 | Best Score: 10
+[5, 4, 3, 2, 7, 8, 1, 6, 9, 0]
+Local score: 13
+[5, 4, 3, 2, 7, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 3, 2, 7, 1, 8, 6, 9, 0]
+Local score: 10
+475 | Best Score: 10
+[5, 4, 3, 2, 7, 8, 1, 6, 9, 0]
+Local score: 13
+[5, 4, 3, 2, 7, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 3, 2, 7, 1, 8, 6, 9, 0]
+Local score: 10
+476 | Best Score: 10
+[5, 4, 3, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 3, 2, 7, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 3, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+477 | Best Score: 10
+[5, 4, 3, 7, 2, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 3, 7, 2, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 3, 7, 2, 1, 8, 9, 6, 0]
+Local score: 10
+478 | Best Score: 10
+[5, 4, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 3, 7, 2, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+479 | Best Score: 10
+[5, 4, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+480 | Best Score: 10
+[4, 5, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+481 | Best Score: 10
+[4, 5, 2, 3, 7, 8, 1, 9, 6, 0]
+Local score: 13
+[4, 5, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+482 | Best Score: 10
+[4, 5, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+483 | Best Score: 10
+[5, 4, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+484 | Best Score: 10
+[4, 5, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+485 | Best Score: 10
+[4, 5, 3, 2, 7, 8, 1, 9, 6, 0]
+Local score: 13
+[4, 5, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+486 | Best Score: 10
+[4, 5, 3, 2, 7, 1, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 3, 2, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 3, 2, 7, 1, 9, 8, 6, 0]
+Local score: 10
+487 | Best Score: 10
+[4, 5, 2, 3, 7, 1, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 3, 2, 7, 1, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 9, 8, 6, 0]
+Local score: 10
+488 | Best Score: 10
+[5, 4, 2, 3, 7, 1, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 9, 8, 6, 0]
+Local score: 10
+[5, 4, 2, 3, 7, 1, 9, 8, 6, 0]
+Local score: 10
+489 | Best Score: 10
+[5, 4, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 2, 3, 7, 1, 9, 8, 6, 0]
+Local score: 10
+[5, 4, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+490 | Best Score: 10
+[5, 4, 2, 3, 7, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[5, 4, 2, 3, 7, 1, 8, 6, 9, 0]
+Local score: 10
+491 | Best Score: 10
+[4, 5, 2, 3, 7, 1, 8, 6, 9, 0]
+Local score: 10
+[5, 4, 2, 3, 7, 1, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 8, 6, 9, 0]
+Local score: 10
+492 | Best Score: 10
+[4, 5, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 8, 6, 9, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+493 | Best Score: 10
+[4, 5, 2, 3, 7, 1, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 9, 8, 6, 0]
+Local score: 10
+494 | Best Score: 10
+[4, 5, 2, 3, 1, 7, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 1, 7, 9, 8, 6, 0]
+Local score: 10
+495 | Best Score: 10
+[4, 5, 2, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 3, 1, 7, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+496 | Best Score: 10
+[4, 5, 2, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+497 | Best Score: 10
+[5, 4, 2, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[5, 4, 2, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+498 | Best Score: 10
+[4, 5, 2, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[5, 4, 2, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+499 | Best Score: 10
+[4, 5, 2, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+500 | Best Score: 10
+[4, 5, 2, 1, 3, 7, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 8, 9, 6, 0]
+Local score: 10
+501 | Best Score: 10
+[4, 2, 5, 1, 3, 7, 8, 9, 6, 0]
+Local score: 10
+[4, 5, 2, 1, 3, 7, 8, 9, 6, 0]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 8, 9, 6, 0]
+Local score: 10
+502 | Best Score: 10
+[4, 2, 5, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 8, 9, 6, 0]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+503 | Best Score: 10
+[4, 2, 5, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+504 | Best Score: 10
+[4, 2, 5, 1, 3, 7, 9, 6, 0, 8]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 9, 6, 0, 8]
+Local score: 10
+505 | Best Score: 10
+[4, 2, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 9, 6, 0, 8]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+506 | Best Score: 10
+[4, 2, 5, 3, 1, 7, 6, 9, 0, 8]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[4, 2, 5, 3, 1, 7, 6, 9, 0, 8]
+Local score: 10
+507 | Best Score: 10
+[4, 2, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[4, 2, 5, 3, 1, 7, 6, 9, 0, 8]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+508 | Best Score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+509 | Best Score: 10
+[2, 4, 5, 1, 3, 6, 7, 9, 0, 8]
+Local score: 13
+[2, 4, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+510 | Best Score: 10
+[4, 2, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+511 | Best Score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[4, 2, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+512 | Best Score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 8, 0]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 0, 8]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 8, 0]
+Local score: 10
+513 | Best Score: 10
+[2, 4, 5, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 9, 8, 0]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+514 | Best Score: 10
+[2, 5, 4, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+515 | Best Score: 10
+[2, 4, 5, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+516 | Best Score: 10
+[2, 5, 4, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 5, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+517 | Best Score: 10
+[2, 5, 4, 1, 3, 7, 8, 6, 9, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 8, 6, 9, 0]
+Local score: 10
+518 | Best Score: 10
+[2, 5, 4, 1, 3, 7, 8, 9, 6, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 8, 6, 9, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 8, 9, 6, 0]
+Local score: 10
+519 | Best Score: 10
+[2, 5, 4, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 8, 9, 6, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+520 | Best Score: 10
+[2, 5, 4, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 9, 8, 6, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+521 | Best Score: 10
+[2, 5, 4, 1, 3, 7, 9, 6, 0, 8]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 9, 6, 0, 8]
+Local score: 10
+522 | Best Score: 10
+[5, 2, 4, 1, 3, 7, 9, 6, 0, 8]
+Local score: 10
+[2, 5, 4, 1, 3, 7, 9, 6, 0, 8]
+Local score: 10
+[5, 2, 4, 1, 3, 7, 9, 6, 0, 8]
+Local score: 10
+523 | Best Score: 10
+[5, 2, 4, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[5, 2, 4, 1, 3, 7, 9, 6, 0, 8]
+Local score: 10
+[5, 2, 4, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+524 | Best Score: 10
+[5, 2, 4, 1, 7, 3, 9, 6, 8, 0]
+Local score: 10
+[5, 2, 4, 1, 3, 7, 9, 6, 8, 0]
+Local score: 10
+[5, 2, 4, 1, 7, 3, 9, 6, 8, 0]
+Local score: 10
+525 | Best Score: 10
+[5, 2, 4, 1, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[5, 2, 4, 1, 7, 3, 9, 6, 8, 0]
+Local score: 10
+[5, 2, 4, 1, 7, 3, 6, 9, 8, 0]
+Local score: 10
+526 | Best Score: 10
+[5, 2, 4, 1, 7, 6, 3, 9, 8, 0]
+Local score: 13
+[5, 2, 4, 1, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[5, 2, 4, 1, 7, 3, 6, 9, 8, 0]
+Local score: 10
+527 | Best Score: 10
+[5, 2, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[5, 2, 4, 1, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+528 | Best Score: 10
+[5, 2, 1, 4, 7, 3, 6, 8, 9, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 8, 9, 0]
+Local score: 10
+529 | Best Score: 10
+[5, 2, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 8, 9, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+530 | Best Score: 10
+[2, 5, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+531 | Best Score: 10
+[5, 2, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+532 | Best Score: 10
+[5, 2, 1, 4, 7, 3, 6, 8, 9, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 9, 8, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 8, 9, 0]
+Local score: 10
+533 | Best Score: 10
+[5, 2, 1, 4, 7, 3, 6, 8, 0, 9]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 8, 9, 0]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 8, 0, 9]
+Local score: 10
+534 | Best Score: 10
+[5, 2, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 8, 0, 9]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+535 | Best Score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+536 | Best Score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 9, 8]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 9, 8]
+Local score: 10
+537 | Best Score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 9, 8]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+538 | Best Score: 10
+[5, 2, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+539 | Best Score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[5, 2, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+540 | Best Score: 10
+[2, 1, 5, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[2, 5, 1, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[2, 1, 5, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+541 | Best Score: 10
+[2, 1, 5, 4, 7, 3, 0, 6, 8, 9]
+Local score: 10
+[2, 1, 5, 4, 7, 3, 6, 0, 8, 9]
+Local score: 10
+[2, 1, 5, 4, 7, 3, 0, 6, 8, 9]
+Local score: 10
+542 | Best Score: 10
+[1, 2, 5, 4, 7, 3, 0, 6, 8, 9]
+Local score: 10
+[2, 1, 5, 4, 7, 3, 0, 6, 8, 9]
+Local score: 10
+[1, 2, 5, 4, 7, 3, 0, 6, 8, 9]
+Local score: 10
+543 | Best Score: 10
+[1, 2, 5, 4, 7, 3, 0, 8, 6, 9]
+Local score: 10
+[1, 2, 5, 4, 7, 3, 0, 6, 8, 9]
+Local score: 10
+[1, 2, 5, 4, 7, 3, 0, 8, 6, 9]
+Local score: 10
+544 | Best Score: 10
+[2, 1, 5, 4, 7, 3, 0, 8, 6, 9]
+Local score: 10
+[1, 2, 5, 4, 7, 3, 0, 8, 6, 9]
+Local score: 10
+[2, 1, 5, 4, 7, 3, 0, 8, 6, 9]
+Local score: 10
+545 | Best Score: 10
+[2, 1, 5, 4, 3, 7, 0, 8, 6, 9]
+Local score: 10
+[2, 1, 5, 4, 7, 3, 0, 8, 6, 9]
+Local score: 10
+[2, 1, 5, 4, 3, 7, 0, 8, 6, 9]
+Local score: 10
+546 | Best Score: 10
+[2, 1, 5, 4, 3, 7, 8, 0, 6, 9]
+Local score: 10
+[2, 1, 5, 4, 3, 7, 0, 8, 6, 9]
+Local score: 10
+[2, 1, 5, 4, 3, 7, 8, 0, 6, 9]
+Local score: 10
+547 | Best Score: 10
+[2, 1, 4, 5, 3, 7, 8, 0, 6, 9]
+Local score: 10
+[2, 1, 5, 4, 3, 7, 8, 0, 6, 9]
+Local score: 10
+[2, 1, 4, 5, 3, 7, 8, 0, 6, 9]
+Local score: 10
+548 | Best Score: 10
+[2, 1, 4, 3, 5, 7, 8, 0, 6, 9]
+Local score: 10
+[2, 1, 4, 5, 3, 7, 8, 0, 6, 9]
+Local score: 10
+[2, 1, 4, 3, 5, 7, 8, 0, 6, 9]
+Local score: 10
+549 | Best Score: 10
+[2, 1, 3, 4, 5, 7, 8, 0, 6, 9]
+Local score: 10
+[2, 1, 4, 3, 5, 7, 8, 0, 6, 9]
+Local score: 10
+[2, 1, 3, 4, 5, 7, 8, 0, 6, 9]
+Local score: 10
+550 | Best Score: 10
+[2, 1, 3, 4, 5, 7, 8, 6, 0, 9]
+Local score: 10
+[2, 1, 3, 4, 5, 7, 8, 0, 6, 9]
+Local score: 10
+[2, 1, 3, 4, 5, 7, 8, 6, 0, 9]
+Local score: 10
+551 | Best Score: 10
+[2, 1, 4, 3, 5, 7, 8, 6, 0, 9]
+Local score: 10
+[2, 1, 3, 4, 5, 7, 8, 6, 0, 9]
+Local score: 10
+[2, 1, 4, 3, 5, 7, 8, 6, 0, 9]
+Local score: 10
+552 | Best Score: 10
+[2, 1, 4, 3, 5, 7, 8, 6, 9, 0]
+Local score: 10
+[2, 1, 4, 3, 5, 7, 8, 6, 0, 9]
+Local score: 10
+[2, 1, 4, 3, 5, 7, 8, 6, 9, 0]
+Local score: 10
+553 | Best Score: 10
+[2, 1, 4, 3, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 1, 4, 3, 5, 7, 8, 6, 9, 0]
+Local score: 10
+[2, 1, 4, 3, 5, 7, 6, 8, 9, 0]
+Local score: 10
+554 | Best Score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 1, 4, 3, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 9, 0]
+Local score: 10
+555 | Best Score: 10
+[2, 4, 1, 3, 5, 7, 8, 6, 9, 0]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 8, 6, 9, 0]
+Local score: 10
+556 | Best Score: 10
+[2, 4, 1, 3, 5, 7, 8, 6, 0, 9]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 8, 6, 9, 0]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 8, 6, 0, 9]
+Local score: 10
+557 | Best Score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 8, 6, 0, 9]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 0, 9]
+Local score: 10
+558 | Best Score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 9, 0]
+Local score: 10
+559 | Best Score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 0, 9]
+Local score: 10
+560 | Best Score: 10
+[2, 4, 3, 1, 5, 7, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 1, 3, 5, 7, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 3, 1, 5, 7, 6, 8, 0, 9]
+Local score: 10
+561 | Best Score: 10
+[4, 2, 3, 1, 5, 7, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 3, 1, 5, 7, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 3, 1, 5, 7, 6, 8, 0, 9]
+Local score: 10
+562 | Best Score: 10
+[4, 2, 3, 5, 1, 7, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 3, 1, 5, 7, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 3, 5, 1, 7, 6, 8, 0, 9]
+Local score: 10
+563 | Best Score: 10
+[4, 2, 3, 5, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 3, 5, 1, 7, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 3, 5, 7, 1, 6, 8, 0, 9]
+Local score: 10
+564 | Best Score: 10
+[2, 4, 3, 5, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 3, 5, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 3, 5, 7, 1, 6, 8, 0, 9]
+Local score: 10
+565 | Best Score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 3, 5, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+566 | Best Score: 10
+[2, 4, 3, 5, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 3, 5, 7, 1, 6, 8, 0, 9]
+Local score: 10
+567 | Best Score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 3, 5, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+568 | Best Score: 10
+[4, 2, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+569 | Best Score: 10
+[4, 5, 2, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+570 | Best Score: 10
+[4, 2, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 5, 2, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+571 | Best Score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[4, 2, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+572 | Best Score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 0, 9]
+Local score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 9, 0]
+Local score: 10
+573 | Best Score: 10
+[4, 2, 5, 3, 7, 1, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 5, 3, 7, 1, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 5, 3, 7, 1, 6, 8, 9, 0]
+Local score: 10
+574 | Best Score: 10
+[4, 2, 3, 5, 7, 1, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 5, 3, 7, 1, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 5, 7, 1, 6, 8, 9, 0]
+Local score: 10
+575 | Best Score: 10
+[4, 2, 3, 5, 1, 7, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 5, 7, 1, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 5, 1, 7, 6, 8, 9, 0]
+Local score: 10
+576 | Best Score: 10
+[4, 2, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 5, 1, 7, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+577 | Best Score: 10
+[4, 2, 3, 5, 1, 7, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 5, 1, 7, 6, 8, 9, 0]
+Local score: 10
+578 | Best Score: 10
+[4, 2, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 5, 1, 7, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+579 | Best Score: 10
+[2, 4, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[4, 2, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+580 | Best Score: 10
+[2, 4, 3, 1, 5, 6, 7, 8, 9, 0]
+Local score: 13
+[2, 4, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+581 | Best Score: 10
+[2, 3, 4, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 4, 3, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 3, 4, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+582 | Best Score: 10
+[2, 3, 4, 1, 5, 7, 6, 9, 8, 0]
+Local score: 10
+[2, 3, 4, 1, 5, 7, 6, 8, 9, 0]
+Local score: 10
+[2, 3, 4, 1, 5, 7, 6, 9, 8, 0]
+Local score: 10
+583 | Best Score: 10
+[2, 3, 4, 5, 1, 7, 6, 9, 8, 0]
+Local score: 10
+[2, 3, 4, 1, 5, 7, 6, 9, 8, 0]
+Local score: 10
+[2, 3, 4, 5, 1, 7, 6, 9, 8, 0]
+Local score: 10
+584 | Best Score: 10
+[2, 3, 5, 4, 1, 7, 6, 9, 8, 0]
+Local score: 10
+[2, 3, 4, 5, 1, 7, 6, 9, 8, 0]
+Local score: 10
+[2, 3, 5, 4, 1, 7, 6, 9, 8, 0]
+Local score: 10
+585 | Best Score: 10
+[2, 3, 5, 4, 1, 7, 9, 6, 8, 0]
+Local score: 10
+[2, 3, 5, 4, 1, 7, 6, 9, 8, 0]
+Local score: 10
+[2, 3, 5, 4, 1, 7, 9, 6, 8, 0]
+Local score: 10
+586 | Best Score: 10
+[2, 3, 5, 1, 4, 7, 9, 6, 8, 0]
+Local score: 10
+[2, 3, 5, 4, 1, 7, 9, 6, 8, 0]
+Local score: 10
+[2, 3, 5, 1, 4, 7, 9, 6, 8, 0]
+Local score: 10
+587 | Best Score: 10
+[2, 5, 3, 1, 4, 7, 9, 6, 8, 0]
+Local score: 10
+[2, 3, 5, 1, 4, 7, 9, 6, 8, 0]
+Local score: 10
+[2, 5, 3, 1, 4, 7, 9, 6, 8, 0]
+Local score: 10
+588 | Best Score: 10
+[2, 5, 3, 1, 4, 7, 9, 6, 0, 8]
+Local score: 10
+[2, 5, 3, 1, 4, 7, 9, 6, 8, 0]
+Local score: 10
+[2, 5, 3, 1, 4, 7, 9, 6, 0, 8]
+Local score: 10
+589 | Best Score: 10
+[2, 3, 5, 1, 4, 7, 9, 6, 0, 8]
+Local score: 10
+[2, 5, 3, 1, 4, 7, 9, 6, 0, 8]
+Local score: 10
+[2, 3, 5, 1, 4, 7, 9, 6, 0, 8]
+Local score: 10
+590 | Best Score: 10
+[2, 3, 5, 1, 4, 7, 6, 9, 0, 8]
+Local score: 10
+[2, 3, 5, 1, 4, 7, 9, 6, 0, 8]
+Local score: 10
+[2, 3, 5, 1, 4, 7, 6, 9, 0, 8]
+Local score: 10
+591 | Best Score: 10
+[2, 3, 1, 5, 4, 7, 6, 9, 0, 8]
+Local score: 10
+[2, 3, 5, 1, 4, 7, 6, 9, 0, 8]
+Local score: 10
+[2, 3, 1, 5, 4, 7, 6, 9, 0, 8]
+Local score: 10
+592 | Best Score: 10
+[3, 2, 1, 5, 4, 7, 6, 9, 0, 8]
+Local score: 10
+[2, 3, 1, 5, 4, 7, 6, 9, 0, 8]
+Local score: 10
+[3, 2, 1, 5, 4, 7, 6, 9, 0, 8]
+Local score: 10
+593 | Best Score: 10
+[3, 2, 5, 1, 4, 7, 6, 9, 0, 8]
+Local score: 10
+[3, 2, 1, 5, 4, 7, 6, 9, 0, 8]
+Local score: 10
+[3, 2, 5, 1, 4, 7, 6, 9, 0, 8]
+Local score: 10
+594 | Best Score: 10
+[3, 2, 5, 1, 7, 4, 6, 9, 0, 8]
+Local score: 10
+[3, 2, 5, 1, 4, 7, 6, 9, 0, 8]
+Local score: 10
+[3, 2, 5, 1, 7, 4, 6, 9, 0, 8]
+Local score: 10
+595 | Best Score: 10
+[3, 2, 5, 1, 7, 6, 4, 9, 0, 8]
+Local score: 9
+[3, 2, 5, 1, 7, 4, 6, 9, 0, 8]
+Local score: 10
+[3, 2, 5, 1, 7, 6, 4, 9, 0, 8]
+Local score: 9
+596 | Best Score: 9
+[3, 2, 5, 1, 6, 7, 4, 9, 0, 8]
+Local score: 9
+[3, 2, 5, 1, 7, 6, 4, 9, 0, 8]
+Local score: 9
+[3, 2, 5, 1, 6, 7, 4, 9, 0, 8]
+Local score: 9
+597 | Best Score: 9
+[3, 2, 5, 1, 7, 6, 4, 9, 0, 8]
+Local score: 9
+[3, 2, 5, 1, 6, 7, 4, 9, 0, 8]
+Local score: 9
+[3, 2, 5, 1, 7, 6, 4, 9, 0, 8]
+Local score: 9
+598 | Best Score: 9
+[3, 2, 5, 1, 7, 6, 4, 0, 9, 8]
+Local score: 9
+[3, 2, 5, 1, 7, 6, 4, 9, 0, 8]
+Local score: 9
+[3, 2, 5, 1, 7, 6, 4, 0, 9, 8]
+Local score: 9
+599 | Best Score: 9
+[2, 3, 5, 1, 7, 6, 4, 0, 9, 8]
+Local score: 9
+[3, 2, 5, 1, 7, 6, 4, 0, 9, 8]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 4, 0, 9, 8]
+Local score: 9
+600 | Best Score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 9, 8]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 4, 0, 9, 8]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 9, 8]
+Local score: 9
+601 | Best Score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 9, 8]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+602 | Best Score: 9
+[2, 1, 3, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 1, 3, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+603 | Best Score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 1, 3, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+604 | Best Score: 9
+[2, 3, 1, 5, 6, 7, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 1, 5, 6, 7, 4, 0, 8, 9]
+Local score: 9
+605 | Best Score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 1, 5, 6, 7, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+606 | Best Score: 9
+[2, 3, 5, 1, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 4, 0, 8, 9]
+Local score: 9
+607 | Best Score: 9
+[2, 3, 5, 1, 7, 6, 4, 8, 0, 9]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 4, 8, 0, 9]
+Local score: 9
+608 | Best Score: 9
+[2, 3, 5, 1, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 4, 8, 0, 9]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 4, 0, 8, 9]
+Local score: 9
+609 | Best Score: 9
+[2, 3, 5, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+610 | Best Score: 9
+[2, 3, 5, 1, 7, 0, 6, 4, 8, 9]
+Local score: 13
+[2, 3, 5, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+611 | Best Score: 9
+[3, 2, 5, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+[3, 2, 5, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+612 | Best Score: 9
+[3, 2, 5, 7, 1, 6, 0, 4, 8, 9]
+Local score: 9
+[3, 2, 5, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+[3, 2, 5, 7, 1, 6, 0, 4, 8, 9]
+Local score: 9
+613 | Best Score: 9
+[3, 5, 2, 7, 1, 6, 0, 4, 8, 9]
+Local score: 9
+[3, 2, 5, 7, 1, 6, 0, 4, 8, 9]
+Local score: 9
+[3, 5, 2, 7, 1, 6, 0, 4, 8, 9]
+Local score: 9
+614 | Best Score: 9
+[3, 5, 2, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+[3, 5, 2, 7, 1, 6, 0, 4, 8, 9]
+Local score: 9
+[3, 5, 2, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+615 | Best Score: 9
+[3, 5, 2, 1, 6, 7, 0, 4, 8, 9]
+Local score: 9
+[3, 5, 2, 1, 7, 6, 0, 4, 8, 9]
+Local score: 9
+[3, 5, 2, 1, 6, 7, 0, 4, 8, 9]
+Local score: 9
+616 | Best Score: 9
+[3, 2, 5, 1, 6, 7, 0, 4, 8, 9]
+Local score: 9
+[3, 5, 2, 1, 6, 7, 0, 4, 8, 9]
+Local score: 9
+[3, 2, 5, 1, 6, 7, 0, 4, 8, 9]
+Local score: 9
+617 | Best Score: 9
+[3, 2, 1, 5, 6, 7, 0, 4, 8, 9]
+Local score: 9
+[3, 2, 5, 1, 6, 7, 0, 4, 8, 9]
+Local score: 9
+[3, 2, 1, 5, 6, 7, 0, 4, 8, 9]
+Local score: 9
+618 | Best Score: 9
+[3, 2, 1, 5, 6, 7, 0, 4, 9, 8]
+Local score: 9
+[3, 2, 1, 5, 6, 7, 0, 4, 8, 9]
+Local score: 9
+[3, 2, 1, 5, 6, 7, 0, 4, 9, 8]
+Local score: 9
+619 | Best Score: 9
+[3, 2, 1, 5, 6, 7, 0, 9, 4, 8]
+Local score: 9
+[3, 2, 1, 5, 6, 7, 0, 4, 9, 8]
+Local score: 9
+[3, 2, 1, 5, 6, 7, 0, 9, 4, 8]
+Local score: 9
+620 | Best Score: 9
+[3, 2, 1, 5, 6, 0, 7, 9, 4, 8]
+Local score: 13
+[3, 2, 1, 5, 6, 7, 0, 9, 4, 8]
+Local score: 9
+[3, 2, 1, 5, 6, 7, 0, 9, 4, 8]
+Local score: 9
+621 | Best Score: 9
+[3, 2, 1, 6, 5, 7, 0, 9, 4, 8]
+Local score: 9
+[3, 2, 1, 5, 6, 7, 0, 9, 4, 8]
+Local score: 9
+[3, 2, 1, 6, 5, 7, 0, 9, 4, 8]
+Local score: 9
+622 | Best Score: 9
+[3, 2, 1, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+[3, 2, 1, 6, 5, 7, 0, 9, 4, 8]
+Local score: 9
+[3, 2, 1, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+623 | Best Score: 9
+[3, 2, 1, 5, 6, 7, 9, 0, 4, 8]
+Local score: 9
+[3, 2, 1, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+[3, 2, 1, 5, 6, 7, 9, 0, 4, 8]
+Local score: 9
+624 | Best Score: 9
+[2, 3, 1, 5, 6, 7, 9, 0, 4, 8]
+Local score: 9
+[3, 2, 1, 5, 6, 7, 9, 0, 4, 8]
+Local score: 9
+[2, 3, 1, 5, 6, 7, 9, 0, 4, 8]
+Local score: 9
+625 | Best Score: 9
+[2, 3, 1, 5, 7, 6, 9, 0, 4, 8]
+Local score: 9
+[2, 3, 1, 5, 6, 7, 9, 0, 4, 8]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 9, 0, 4, 8]
+Local score: 9
+626 | Best Score: 9
+[2, 3, 1, 5, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 9, 0, 4, 8]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 9, 0, 8, 4]
+Local score: 9
+627 | Best Score: 9
+[2, 3, 5, 1, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 1, 5, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 9, 0, 8, 4]
+Local score: 9
+628 | Best Score: 9
+[2, 3, 5, 7, 1, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 1, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 7, 1, 6, 9, 0, 8, 4]
+Local score: 9
+629 | Best Score: 9
+[2, 3, 5, 7, 6, 1, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 7, 1, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 7, 6, 1, 9, 0, 8, 4]
+Local score: 9
+630 | Best Score: 9
+[2, 3, 5, 6, 7, 1, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 7, 6, 1, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 7, 1, 9, 0, 8, 4]
+Local score: 9
+631 | Best Score: 9
+[2, 3, 5, 6, 7, 1, 0, 9, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 7, 1, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 7, 1, 0, 9, 8, 4]
+Local score: 9
+632 | Best Score: 9
+[2, 3, 5, 6, 7, 1, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 7, 1, 0, 9, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 7, 1, 9, 0, 8, 4]
+Local score: 9
+633 | Best Score: 9
+[2, 3, 5, 6, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 7, 1, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 1, 7, 9, 0, 8, 4]
+Local score: 9
+634 | Best Score: 9
+[2, 3, 6, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 6, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+635 | Best Score: 9
+[2, 3, 6, 5, 7, 1, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 6, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 9, 0, 8, 4]
+Local score: 9
+636 | Best Score: 9
+[2, 3, 6, 5, 7, 1, 0, 9, 8, 4]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 9, 0, 8, 4]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 0, 9, 8, 4]
+Local score: 9
+637 | Best Score: 9
+[2, 3, 6, 5, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 0, 9, 8, 4]
+Local score: 9
+[2, 3, 6, 5, 1, 7, 0, 9, 8, 4]
+Local score: 9
+638 | Best Score: 9
+[2, 3, 5, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[2, 3, 6, 5, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+639 | Best Score: 9
+[2, 3, 5, 6, 1, 0, 7, 9, 8, 4]
+Local score: 13
+[2, 3, 5, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+640 | Best Score: 9
+[3, 2, 5, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[2, 3, 5, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 2, 5, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+641 | Best Score: 9
+[3, 2, 5, 6, 1, 7, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 5, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 2, 5, 6, 1, 7, 0, 8, 9, 4]
+Local score: 9
+642 | Best Score: 9
+[3, 2, 5, 6, 7, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 5, 6, 1, 7, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 5, 6, 7, 1, 0, 8, 9, 4]
+Local score: 9
+643 | Best Score: 9
+[3, 2, 5, 7, 6, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 5, 6, 7, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 0, 8, 9, 4]
+Local score: 9
+644 | Best Score: 9
+[3, 2, 7, 5, 6, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 7, 5, 6, 1, 0, 8, 9, 4]
+Local score: 9
+645 | Best Score: 9
+[3, 2, 5, 7, 6, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 7, 5, 6, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 0, 8, 9, 4]
+Local score: 9
+646 | Best Score: 9
+[3, 2, 5, 7, 6, 1, 0, 8, 4, 9]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 0, 8, 4, 9]
+Local score: 9
+647 | Best Score: 9
+[3, 2, 5, 7, 6, 1, 8, 0, 4, 9]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 0, 8, 4, 9]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 8, 0, 4, 9]
+Local score: 9
+648 | Best Score: 9
+[3, 2, 5, 7, 6, 8, 1, 0, 4, 9]
+Local score: 12
+[3, 2, 5, 7, 6, 1, 8, 0, 4, 9]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 8, 0, 4, 9]
+Local score: 9
+649 | Best Score: 9
+[3, 2, 5, 7, 6, 1, 8, 0, 9, 4]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 8, 0, 4, 9]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 8, 0, 9, 4]
+Local score: 9
+650 | Best Score: 9
+[3, 5, 2, 7, 6, 1, 8, 0, 9, 4]
+Local score: 9
+[3, 2, 5, 7, 6, 1, 8, 0, 9, 4]
+Local score: 9
+[3, 5, 2, 7, 6, 1, 8, 0, 9, 4]
+Local score: 9
+651 | Best Score: 9
+[3, 5, 2, 6, 7, 1, 8, 0, 9, 4]
+Local score: 9
+[3, 5, 2, 7, 6, 1, 8, 0, 9, 4]
+Local score: 9
+[3, 5, 2, 6, 7, 1, 8, 0, 9, 4]
+Local score: 9
+652 | Best Score: 9
+[3, 5, 2, 6, 7, 1, 8, 9, 0, 4]
+Local score: 9
+[3, 5, 2, 6, 7, 1, 8, 0, 9, 4]
+Local score: 9
+[3, 5, 2, 6, 7, 1, 8, 9, 0, 4]
+Local score: 9
+653 | Best Score: 9
+[5, 3, 2, 6, 7, 1, 8, 9, 0, 4]
+Local score: 9
+[3, 5, 2, 6, 7, 1, 8, 9, 0, 4]
+Local score: 9
+[5, 3, 2, 6, 7, 1, 8, 9, 0, 4]
+Local score: 9
+654 | Best Score: 9
+[5, 3, 6, 2, 7, 1, 8, 9, 0, 4]
+Local score: 9
+[5, 3, 2, 6, 7, 1, 8, 9, 0, 4]
+Local score: 9
+[5, 3, 6, 2, 7, 1, 8, 9, 0, 4]
+Local score: 9
+655 | Best Score: 9
+[5, 3, 6, 2, 7, 1, 8, 0, 9, 4]
+Local score: 9
+[5, 3, 6, 2, 7, 1, 8, 9, 0, 4]
+Local score: 9
+[5, 3, 6, 2, 7, 1, 8, 0, 9, 4]
+Local score: 9
+656 | Best Score: 9
+[5, 3, 6, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[5, 3, 6, 2, 7, 1, 8, 0, 9, 4]
+Local score: 9
+[5, 3, 6, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+657 | Best Score: 9
+[5, 3, 6, 2, 1, 8, 7, 0, 9, 4]
+Local score: 12
+[5, 3, 6, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[5, 3, 6, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+658 | Best Score: 9
+[5, 3, 6, 2, 1, 7, 0, 8, 9, 4]
+Local score: 9
+[5, 3, 6, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[5, 3, 6, 2, 1, 7, 0, 8, 9, 4]
+Local score: 9
+659 | Best Score: 9
+[5, 3, 6, 2, 1, 0, 7, 8, 9, 4]
+Local score: 13
+[5, 3, 6, 2, 1, 7, 0, 8, 9, 4]
+Local score: 9
+[5, 3, 6, 2, 1, 7, 0, 8, 9, 4]
+Local score: 9
+660 | Best Score: 9
+[5, 3, 2, 6, 1, 7, 0, 8, 9, 4]
+Local score: 9
+[5, 3, 6, 2, 1, 7, 0, 8, 9, 4]
+Local score: 9
+[5, 3, 2, 6, 1, 7, 0, 8, 9, 4]
+Local score: 9
+661 | Best Score: 9
+[5, 3, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[5, 3, 2, 6, 1, 7, 0, 8, 9, 4]
+Local score: 9
+[5, 3, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+662 | Best Score: 9
+[5, 3, 2, 6, 1, 0, 7, 9, 8, 4]
+Local score: 13
+[5, 3, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[5, 3, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+663 | Best Score: 9
+[5, 3, 2, 6, 1, 0, 7, 9, 8, 4]
+Local score: 13
+[5, 3, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[5, 3, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+664 | Best Score: 9
+[3, 5, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[5, 3, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+665 | Best Score: 9
+[3, 5, 6, 2, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 2, 6, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 6, 2, 1, 7, 0, 9, 8, 4]
+Local score: 9
+666 | Best Score: 9
+[3, 5, 6, 1, 2, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 6, 2, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 6, 1, 2, 7, 0, 9, 8, 4]
+Local score: 9
+667 | Best Score: 9
+[3, 5, 6, 2, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 6, 1, 2, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 6, 2, 1, 7, 0, 9, 8, 4]
+Local score: 9
+668 | Best Score: 9
+[3, 5, 6, 2, 7, 1, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 6, 2, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 6, 2, 7, 1, 0, 9, 8, 4]
+Local score: 9
+669 | Best Score: 9
+[3, 5, 6, 2, 7, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 5, 6, 2, 7, 1, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 6, 2, 7, 1, 0, 8, 9, 4]
+Local score: 9
+670 | Best Score: 9
+[3, 5, 6, 2, 7, 1, 0, 8, 4, 9]
+Local score: 9
+[3, 5, 6, 2, 7, 1, 0, 8, 9, 4]
+Local score: 9
+[3, 5, 6, 2, 7, 1, 0, 8, 4, 9]
+Local score: 9
+671 | Best Score: 9
+[3, 6, 5, 2, 7, 1, 0, 8, 4, 9]
+Local score: 9
+[3, 5, 6, 2, 7, 1, 0, 8, 4, 9]
+Local score: 9
+[3, 6, 5, 2, 7, 1, 0, 8, 4, 9]
+Local score: 9
+672 | Best Score: 9
+[3, 6, 5, 2, 1, 7, 0, 8, 4, 9]
+Local score: 9
+[3, 6, 5, 2, 7, 1, 0, 8, 4, 9]
+Local score: 9
+[3, 6, 5, 2, 1, 7, 0, 8, 4, 9]
+Local score: 9
+673 | Best Score: 9
+[6, 3, 5, 2, 1, 7, 0, 8, 4, 9]
+Local score: 9
+[3, 6, 5, 2, 1, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 5, 2, 1, 7, 0, 8, 4, 9]
+Local score: 9
+674 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 5, 2, 1, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 0, 8, 4, 9]
+Local score: 9
+675 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 0, 4, 8, 9]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 0, 4, 8, 9]
+Local score: 9
+676 | Best Score: 9
+[6, 5, 3, 2, 7, 1, 0, 4, 8, 9]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 0, 4, 8, 9]
+Local score: 9
+[6, 5, 3, 2, 7, 1, 0, 4, 8, 9]
+Local score: 9
+677 | Best Score: 9
+[6, 5, 3, 2, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 5, 3, 2, 7, 1, 0, 4, 8, 9]
+Local score: 9
+[6, 5, 3, 2, 7, 1, 4, 0, 8, 9]
+Local score: 9
+678 | Best Score: 9
+[6, 5, 3, 2, 7, 1, 4, 8, 0, 9]
+Local score: 9
+[6, 5, 3, 2, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 5, 3, 2, 7, 1, 4, 8, 0, 9]
+Local score: 9
+679 | Best Score: 9
+[6, 3, 5, 2, 7, 1, 4, 8, 0, 9]
+Local score: 9
+[6, 5, 3, 2, 7, 1, 4, 8, 0, 9]
+Local score: 9
+[6, 3, 5, 2, 7, 1, 4, 8, 0, 9]
+Local score: 9
+680 | Best Score: 9
+[6, 3, 5, 2, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 3, 5, 2, 7, 1, 4, 8, 0, 9]
+Local score: 9
+[6, 3, 5, 2, 7, 1, 4, 0, 8, 9]
+Local score: 9
+681 | Best Score: 9
+[6, 3, 2, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 3, 5, 2, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 3, 2, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+682 | Best Score: 9
+[6, 2, 3, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 3, 2, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 2, 3, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+683 | Best Score: 9
+[6, 2, 3, 7, 5, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 2, 3, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 2, 3, 7, 5, 1, 4, 0, 8, 9]
+Local score: 9
+684 | Best Score: 9
+[2, 6, 3, 7, 5, 1, 4, 0, 8, 9]
+Local score: 9
+[6, 2, 3, 7, 5, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 6, 3, 7, 5, 1, 4, 0, 8, 9]
+Local score: 9
+685 | Best Score: 9
+[2, 3, 6, 7, 5, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 6, 3, 7, 5, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 6, 7, 5, 1, 4, 0, 8, 9]
+Local score: 9
+686 | Best Score: 9
+[2, 3, 6, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 6, 7, 5, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+687 | Best Score: 9
+[2, 6, 3, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+688 | Best Score: 9
+[2, 3, 6, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+689 | Best Score: 9
+[2, 3, 6, 5, 7, 1, 0, 4, 8, 9]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 4, 0, 8, 9]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 0, 4, 8, 9]
+Local score: 9
+690 | Best Score: 9
+[2, 6, 3, 5, 7, 1, 0, 4, 8, 9]
+Local score: 9
+[2, 3, 6, 5, 7, 1, 0, 4, 8, 9]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 0, 4, 8, 9]
+Local score: 9
+691 | Best Score: 9
+[2, 6, 3, 5, 7, 1, 0, 4, 9, 8]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 0, 4, 8, 9]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 0, 4, 9, 8]
+Local score: 9
+692 | Best Score: 9
+[2, 6, 3, 5, 7, 1, 0, 9, 4, 8]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 0, 4, 9, 8]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 0, 9, 4, 8]
+Local score: 9
+693 | Best Score: 9
+[2, 6, 3, 5, 7, 1, 0, 9, 8, 4]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 0, 9, 4, 8]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 0, 9, 8, 4]
+Local score: 9
+694 | Best Score: 9
+[2, 6, 3, 5, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[2, 6, 3, 5, 7, 1, 0, 9, 8, 4]
+Local score: 9
+[2, 6, 3, 5, 1, 7, 0, 9, 8, 4]
+Local score: 9
+695 | Best Score: 9
+[2, 6, 3, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 6, 3, 5, 1, 7, 0, 9, 8, 4]
+Local score: 9
+[2, 6, 3, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+696 | Best Score: 9
+[6, 2, 3, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 6, 3, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[6, 2, 3, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+697 | Best Score: 9
+[2, 6, 3, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[6, 2, 3, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 6, 3, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+698 | Best Score: 9
+[2, 6, 5, 3, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 6, 3, 5, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 6, 5, 3, 1, 7, 9, 0, 8, 4]
+Local score: 9
+699 | Best Score: 9
+[2, 6, 5, 1, 3, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 6, 5, 3, 1, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 9, 0, 8, 4]
+Local score: 9
+700 | Best Score: 9
+[6, 2, 5, 1, 3, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 9, 0, 8, 4]
+Local score: 9
+[6, 2, 5, 1, 3, 7, 9, 0, 8, 4]
+Local score: 9
+701 | Best Score: 9
+[6, 2, 5, 1, 7, 3, 9, 0, 8, 4]
+Local score: 9
+[6, 2, 5, 1, 3, 7, 9, 0, 8, 4]
+Local score: 9
+[6, 2, 5, 1, 7, 3, 9, 0, 8, 4]
+Local score: 9
+702 | Best Score: 9
+[6, 2, 5, 1, 7, 3, 9, 0, 4, 8]
+Local score: 9
+[6, 2, 5, 1, 7, 3, 9, 0, 8, 4]
+Local score: 9
+[6, 2, 5, 1, 7, 3, 9, 0, 4, 8]
+Local score: 9
+703 | Best Score: 9
+[6, 2, 5, 7, 1, 3, 9, 0, 4, 8]
+Local score: 9
+[6, 2, 5, 1, 7, 3, 9, 0, 4, 8]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 9, 0, 4, 8]
+Local score: 9
+704 | Best Score: 9
+[6, 2, 5, 7, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 9, 0, 4, 8]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 9, 0, 8, 4]
+Local score: 9
+705 | Best Score: 9
+[6, 2, 5, 7, 1, 3, 0, 9, 8, 4]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 0, 9, 8, 4]
+Local score: 9
+706 | Best Score: 9
+[6, 2, 5, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 0, 9, 8, 4]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+707 | Best Score: 9
+[6, 2, 5, 7, 3, 1, 0, 9, 4, 8]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+[6, 2, 5, 7, 3, 1, 0, 9, 4, 8]
+Local score: 9
+708 | Best Score: 9
+[6, 2, 5, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+[6, 2, 5, 7, 3, 1, 0, 9, 4, 8]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+709 | Best Score: 9
+[6, 5, 2, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+[6, 5, 2, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+710 | Best Score: 9
+[6, 5, 2, 7, 1, 0, 3, 9, 4, 8]
+Local score: 10
+[6, 5, 2, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+[6, 5, 2, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+711 | Best Score: 9
+[6, 5, 2, 1, 7, 3, 0, 9, 4, 8]
+Local score: 9
+[6, 5, 2, 7, 1, 3, 0, 9, 4, 8]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 0, 9, 4, 8]
+Local score: 9
+712 | Best Score: 9
+[6, 5, 2, 1, 7, 3, 0, 4, 9, 8]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 0, 9, 4, 8]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 0, 4, 9, 8]
+Local score: 9
+713 | Best Score: 9
+[5, 6, 2, 1, 7, 3, 0, 4, 9, 8]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 0, 4, 9, 8]
+Local score: 9
+[5, 6, 2, 1, 7, 3, 0, 4, 9, 8]
+Local score: 9
+714 | Best Score: 9
+[5, 6, 2, 1, 3, 7, 0, 4, 9, 8]
+Local score: 9
+[5, 6, 2, 1, 7, 3, 0, 4, 9, 8]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 0, 4, 9, 8]
+Local score: 9
+715 | Best Score: 9
+[5, 6, 2, 1, 3, 7, 4, 0, 9, 8]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 0, 4, 9, 8]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 4, 0, 9, 8]
+Local score: 9
+716 | Best Score: 9
+[5, 6, 2, 1, 3, 7, 4, 0, 8, 9]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 4, 0, 9, 8]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 4, 0, 8, 9]
+Local score: 9
+717 | Best Score: 9
+[5, 6, 2, 1, 3, 7, 0, 4, 8, 9]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 4, 0, 8, 9]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 0, 4, 8, 9]
+Local score: 9
+718 | Best Score: 9
+[5, 2, 6, 1, 3, 7, 0, 4, 8, 9]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 0, 4, 8, 9]
+Local score: 9
+[5, 2, 6, 1, 3, 7, 0, 4, 8, 9]
+Local score: 9
+719 | Best Score: 9
+[5, 2, 6, 1, 3, 7, 4, 0, 8, 9]
+Local score: 9
+[5, 2, 6, 1, 3, 7, 0, 4, 8, 9]
+Local score: 9
+[5, 2, 6, 1, 3, 7, 4, 0, 8, 9]
+Local score: 9
+720 | Best Score: 9
+[5, 6, 2, 1, 3, 7, 4, 0, 8, 9]
+Local score: 9
+[5, 2, 6, 1, 3, 7, 4, 0, 8, 9]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 4, 0, 8, 9]
+Local score: 9
+721 | Best Score: 9
+[5, 6, 2, 1, 3, 7, 4, 8, 0, 9]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 4, 0, 8, 9]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 4, 8, 0, 9]
+Local score: 9
+722 | Best Score: 9
+[5, 6, 2, 1, 7, 3, 4, 8, 0, 9]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 4, 8, 0, 9]
+Local score: 9
+[5, 6, 2, 1, 7, 3, 4, 8, 0, 9]
+Local score: 9
+723 | Best Score: 9
+[6, 5, 2, 1, 7, 3, 4, 8, 0, 9]
+Local score: 9
+[5, 6, 2, 1, 7, 3, 4, 8, 0, 9]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 4, 8, 0, 9]
+Local score: 9
+724 | Best Score: 9
+[6, 5, 2, 1, 7, 4, 3, 8, 0, 9]
+Local score: 13
+[6, 5, 2, 1, 7, 3, 4, 8, 0, 9]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 4, 8, 0, 9]
+Local score: 9
+725 | Best Score: 9
+[6, 5, 2, 1, 7, 3, 4, 8, 9, 0]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 4, 8, 0, 9]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 4, 8, 9, 0]
+Local score: 9
+726 | Best Score: 9
+[6, 2, 5, 1, 7, 3, 4, 8, 9, 0]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 4, 8, 9, 0]
+Local score: 9
+[6, 2, 5, 1, 7, 3, 4, 8, 9, 0]
+Local score: 9
+727 | Best Score: 9
+[6, 2, 5, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+[6, 2, 5, 1, 7, 3, 4, 8, 9, 0]
+Local score: 9
+[6, 2, 5, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+728 | Best Score: 9
+[6, 5, 2, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+[6, 2, 5, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+729 | Best Score: 9
+[6, 5, 2, 1, 3, 4, 7, 8, 9, 0]
+Local score: 13
+[6, 5, 2, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+730 | Best Score: 9
+[6, 5, 2, 1, 3, 7, 8, 4, 9, 0]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 8, 4, 9, 0]
+Local score: 9
+731 | Best Score: 9
+[6, 2, 5, 1, 3, 7, 8, 4, 9, 0]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 8, 4, 9, 0]
+Local score: 9
+[6, 2, 5, 1, 3, 7, 8, 4, 9, 0]
+Local score: 9
+732 | Best Score: 9
+[6, 2, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+[6, 2, 5, 1, 3, 7, 8, 4, 9, 0]
+Local score: 9
+[6, 2, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+733 | Best Score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+[6, 2, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+734 | Best Score: 9
+[2, 6, 5, 1, 3, 8, 7, 4, 0, 9]
+Local score: 12
+[2, 6, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+735 | Best Score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 9, 0]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 9, 0]
+Local score: 9
+736 | Best Score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 9, 0]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+737 | Best Score: 9
+[2, 6, 5, 1, 3, 7, 4, 8, 0, 9]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 8, 4, 0, 9]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 4, 8, 0, 9]
+Local score: 9
+738 | Best Score: 9
+[2, 6, 5, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 4, 8, 0, 9]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+739 | Best Score: 9
+[2, 6, 1, 5, 3, 7, 4, 8, 9, 0]
+Local score: 9
+[2, 6, 5, 1, 3, 7, 4, 8, 9, 0]
+Local score: 9
+[2, 6, 1, 5, 3, 7, 4, 8, 9, 0]
+Local score: 9
+740 | Best Score: 9
+[2, 6, 1, 3, 5, 7, 4, 8, 9, 0]
+Local score: 9
+[2, 6, 1, 5, 3, 7, 4, 8, 9, 0]
+Local score: 9
+[2, 6, 1, 3, 5, 7, 4, 8, 9, 0]
+Local score: 9
+741 | Best Score: 9
+[2, 6, 1, 3, 7, 5, 4, 8, 9, 0]
+Local score: 9
+[2, 6, 1, 3, 5, 7, 4, 8, 9, 0]
+Local score: 9
+[2, 6, 1, 3, 7, 5, 4, 8, 9, 0]
+Local score: 9
+742 | Best Score: 9
+[2, 6, 1, 3, 7, 5, 4, 8, 0, 9]
+Local score: 9
+[2, 6, 1, 3, 7, 5, 4, 8, 9, 0]
+Local score: 9
+[2, 6, 1, 3, 7, 5, 4, 8, 0, 9]
+Local score: 9
+743 | Best Score: 9
+[2, 6, 1, 3, 5, 7, 4, 8, 0, 9]
+Local score: 9
+[2, 6, 1, 3, 7, 5, 4, 8, 0, 9]
+Local score: 9
+[2, 6, 1, 3, 5, 7, 4, 8, 0, 9]
+Local score: 9
+744 | Best Score: 9
+[2, 6, 3, 1, 5, 7, 4, 8, 0, 9]
+Local score: 9
+[2, 6, 1, 3, 5, 7, 4, 8, 0, 9]
+Local score: 9
+[2, 6, 3, 1, 5, 7, 4, 8, 0, 9]
+Local score: 9
+745 | Best Score: 9
+[2, 6, 3, 1, 5, 7, 8, 4, 0, 9]
+Local score: 9
+[2, 6, 3, 1, 5, 7, 4, 8, 0, 9]
+Local score: 9
+[2, 6, 3, 1, 5, 7, 8, 4, 0, 9]
+Local score: 9
+746 | Best Score: 9
+[2, 6, 3, 1, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[2, 6, 3, 1, 5, 7, 8, 4, 0, 9]
+Local score: 9
+[2, 6, 3, 1, 5, 7, 8, 0, 4, 9]
+Local score: 9
+747 | Best Score: 9
+[6, 2, 3, 1, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[2, 6, 3, 1, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[6, 2, 3, 1, 5, 7, 8, 0, 4, 9]
+Local score: 9
+748 | Best Score: 9
+[6, 2, 3, 1, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 2, 3, 1, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[6, 2, 3, 1, 7, 5, 8, 0, 4, 9]
+Local score: 9
+749 | Best Score: 9
+[6, 3, 2, 1, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 2, 3, 1, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 2, 1, 7, 5, 8, 0, 4, 9]
+Local score: 9
+750 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 2, 1, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 4, 9]
+Local score: 9
+751 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 9, 4]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 9, 4]
+Local score: 9
+752 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 9, 4]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 4, 9]
+Local score: 9
+753 | Best Score: 9
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+754 | Best Score: 9
+[6, 3, 1, 2, 5, 8, 7, 0, 4, 9]
+Local score: 12
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+755 | Best Score: 9
+[6, 3, 1, 2, 5, 8, 7, 0, 4, 9]
+Local score: 12
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+756 | Best Score: 9
+[6, 3, 1, 2, 5, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 0, 8, 4, 9]
+Local score: 9
+757 | Best Score: 9
+[6, 3, 2, 1, 5, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 2, 1, 5, 7, 0, 8, 4, 9]
+Local score: 9
+758 | Best Score: 9
+[6, 3, 2, 1, 5, 7, 0, 4, 8, 9]
+Local score: 9
+[6, 3, 2, 1, 5, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 2, 1, 5, 7, 0, 4, 8, 9]
+Local score: 9
+759 | Best Score: 9
+[6, 3, 2, 1, 5, 0, 7, 4, 8, 9]
+Local score: 13
+[6, 3, 2, 1, 5, 7, 0, 4, 8, 9]
+Local score: 9
+[6, 3, 2, 1, 5, 7, 0, 4, 8, 9]
+Local score: 9
+760 | Best Score: 9
+[6, 3, 1, 2, 5, 7, 0, 4, 8, 9]
+Local score: 9
+[6, 3, 2, 1, 5, 7, 0, 4, 8, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 0, 4, 8, 9]
+Local score: 9
+761 | Best Score: 9
+[6, 3, 1, 2, 5, 0, 7, 4, 8, 9]
+Local score: 13
+[6, 3, 1, 2, 5, 7, 0, 4, 8, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 0, 4, 8, 9]
+Local score: 9
+762 | Best Score: 9
+[6, 3, 1, 2, 5, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 0, 4, 8, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 0, 8, 4, 9]
+Local score: 9
+763 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 0, 8, 4, 9]
+Local score: 9
+764 | Best Score: 9
+[6, 3, 1, 7, 2, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 7, 2, 5, 0, 8, 4, 9]
+Local score: 9
+765 | Best Score: 9
+[6, 3, 1, 7, 2, 0, 5, 8, 4, 9]
+Local score: 13
+[6, 3, 1, 7, 2, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 7, 2, 5, 0, 8, 4, 9]
+Local score: 9
+766 | Best Score: 9
+[6, 3, 1, 7, 2, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 7, 2, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 7, 2, 5, 8, 0, 4, 9]
+Local score: 9
+767 | Best Score: 9
+[6, 3, 1, 7, 2, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 7, 2, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 7, 2, 5, 0, 8, 4, 9]
+Local score: 9
+768 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 7, 2, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 0, 8, 4, 9]
+Local score: 9
+769 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 4, 9]
+Local score: 9
+770 | Best Score: 9
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+771 | Best Score: 9
+[6, 3, 1, 2, 5, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 8, 0, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 0, 8, 4, 9]
+Local score: 9
+772 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 0, 8, 4, 9]
+Local score: 9
+773 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 0, 4, 8, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 0, 8, 4, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 0, 4, 8, 9]
+Local score: 9
+774 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 4, 0, 8, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 0, 4, 8, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 0, 8, 9]
+Local score: 9
+775 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 0, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 0, 8, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 0, 9]
+Local score: 9
+776 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 0, 9]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+777 | Best Score: 9
+[6, 3, 1, 2, 7, 4, 5, 8, 9, 0]
+Local score: 13
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+778 | Best Score: 9
+[6, 3, 1, 2, 5, 7, 4, 8, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 4, 8, 9, 0]
+Local score: 9
+779 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 5, 7, 4, 8, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+780 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 4, 9, 8, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 9, 8, 0]
+Local score: 9
+781 | Best Score: 9
+[6, 3, 1, 2, 7, 4, 5, 9, 8, 0]
+Local score: 13
+[6, 3, 1, 2, 7, 5, 4, 9, 8, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 9, 8, 0]
+Local score: 9
+782 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 9, 8, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+783 | Best Score: 9
+[6, 3, 1, 2, 7, 5, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 4, 8, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 4, 9, 0]
+Local score: 9
+784 | Best Score: 9
+[6, 3, 2, 1, 7, 5, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 1, 2, 7, 5, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 2, 1, 7, 5, 8, 4, 9, 0]
+Local score: 9
+785 | Best Score: 9
+[6, 3, 2, 7, 1, 5, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 2, 1, 7, 5, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 2, 7, 1, 5, 8, 4, 9, 0]
+Local score: 9
+786 | Best Score: 9
+[6, 3, 7, 2, 1, 5, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 2, 7, 1, 5, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 7, 2, 1, 5, 8, 4, 9, 0]
+Local score: 9
+787 | Best Score: 9
+[6, 3, 7, 2, 5, 1, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 7, 2, 1, 5, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 7, 2, 5, 1, 8, 4, 9, 0]
+Local score: 9
+788 | Best Score: 9
+[3, 6, 7, 2, 5, 1, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 7, 2, 5, 1, 8, 4, 9, 0]
+Local score: 9
+[3, 6, 7, 2, 5, 1, 8, 4, 9, 0]
+Local score: 9
+789 | Best Score: 9
+[6, 3, 7, 2, 5, 1, 8, 4, 9, 0]
+Local score: 9
+[3, 6, 7, 2, 5, 1, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 7, 2, 5, 1, 8, 4, 9, 0]
+Local score: 9
+790 | Best Score: 9
+[6, 3, 7, 5, 2, 1, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 7, 2, 5, 1, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 7, 5, 2, 1, 8, 4, 9, 0]
+Local score: 9
+791 | Best Score: 9
+[6, 7, 3, 5, 2, 1, 8, 4, 9, 0]
+Local score: 9
+[6, 3, 7, 5, 2, 1, 8, 4, 9, 0]
+Local score: 9
+[6, 7, 3, 5, 2, 1, 8, 4, 9, 0]
+Local score: 9
+792 | Best Score: 9
+[6, 7, 3, 5, 2, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 3, 5, 2, 1, 8, 4, 9, 0]
+Local score: 9
+[6, 7, 3, 5, 2, 1, 8, 9, 4, 0]
+Local score: 9
+793 | Best Score: 9
+[6, 7, 3, 2, 5, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 3, 5, 2, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 3, 2, 5, 1, 8, 9, 4, 0]
+Local score: 9
+794 | Best Score: 9
+[6, 7, 3, 2, 5, 8, 1, 9, 4, 0]
+Local score: 12
+[6, 7, 3, 2, 5, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 3, 2, 5, 1, 8, 9, 4, 0]
+Local score: 9
+795 | Best Score: 9
+[6, 7, 3, 5, 2, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 3, 2, 5, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 3, 5, 2, 1, 8, 9, 4, 0]
+Local score: 9
+796 | Best Score: 9
+[6, 7, 5, 3, 2, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 3, 5, 2, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 5, 3, 2, 1, 8, 9, 4, 0]
+Local score: 9
+797 | Best Score: 9
+[6, 7, 5, 2, 3, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 5, 3, 2, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 5, 2, 3, 1, 8, 9, 4, 0]
+Local score: 9
+798 | Best Score: 9
+[6, 7, 5, 2, 3, 1, 9, 8, 4, 0]
+Local score: 9
+[6, 7, 5, 2, 3, 1, 8, 9, 4, 0]
+Local score: 9
+[6, 7, 5, 2, 3, 1, 9, 8, 4, 0]
+Local score: 9
+799 | Best Score: 9
+[6, 7, 5, 2, 3, 1, 9, 4, 8, 0]
+Local score: 9
+[6, 7, 5, 2, 3, 1, 9, 8, 4, 0]
+Local score: 9
+[6, 7, 5, 2, 3, 1, 9, 4, 8, 0]
+Local score: 9
+800 | Best Score: 9
+[6, 7, 2, 5, 3, 1, 9, 4, 8, 0]
+Local score: 9
+[6, 7, 5, 2, 3, 1, 9, 4, 8, 0]
+Local score: 9
+[6, 7, 2, 5, 3, 1, 9, 4, 8, 0]
+Local score: 9
+801 | Best Score: 9
+[6, 2, 7, 5, 3, 1, 9, 4, 8, 0]
+Local score: 9
+[6, 7, 2, 5, 3, 1, 9, 4, 8, 0]
+Local score: 9
+[6, 2, 7, 5, 3, 1, 9, 4, 8, 0]
+Local score: 9
+802 | Best Score: 9
+[6, 2, 7, 5, 3, 1, 9, 4, 0, 8]
+Local score: 9
+[6, 2, 7, 5, 3, 1, 9, 4, 8, 0]
+Local score: 9
+[6, 2, 7, 5, 3, 1, 9, 4, 0, 8]
+Local score: 9
+803 | Best Score: 9
+[6, 2, 7, 5, 1, 3, 9, 4, 0, 8]
+Local score: 9
+[6, 2, 7, 5, 3, 1, 9, 4, 0, 8]
+Local score: 9
+[6, 2, 7, 5, 1, 3, 9, 4, 0, 8]
+Local score: 9
+804 | Best Score: 9
+[6, 2, 5, 7, 1, 3, 9, 4, 0, 8]
+Local score: 9
+[6, 2, 7, 5, 1, 3, 9, 4, 0, 8]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 9, 4, 0, 8]
+Local score: 9
+805 | Best Score: 9
+[6, 5, 2, 7, 1, 3, 9, 4, 0, 8]
+Local score: 9
+[6, 2, 5, 7, 1, 3, 9, 4, 0, 8]
+Local score: 9
+[6, 5, 2, 7, 1, 3, 9, 4, 0, 8]
+Local score: 9
+806 | Best Score: 9
+[6, 5, 2, 1, 7, 3, 9, 4, 0, 8]
+Local score: 9
+[6, 5, 2, 7, 1, 3, 9, 4, 0, 8]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 9, 4, 0, 8]
+Local score: 9
+807 | Best Score: 9
+[6, 5, 2, 1, 7, 3, 9, 0, 4, 8]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 9, 4, 0, 8]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 9, 0, 4, 8]
+Local score: 9
+808 | Best Score: 9
+[6, 5, 2, 1, 3, 7, 9, 0, 4, 8]
+Local score: 9
+[6, 5, 2, 1, 7, 3, 9, 0, 4, 8]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 9, 0, 4, 8]
+Local score: 9
+809 | Best Score: 9
+[6, 5, 2, 1, 3, 7, 0, 9, 4, 8]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 9, 0, 4, 8]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 0, 9, 4, 8]
+Local score: 9
+810 | Best Score: 9
+[6, 5, 2, 1, 3, 7, 0, 9, 8, 4]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 0, 9, 4, 8]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 0, 9, 8, 4]
+Local score: 9
+811 | Best Score: 9
+[6, 5, 2, 1, 3, 7, 0, 8, 9, 4]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 0, 9, 8, 4]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 0, 8, 9, 4]
+Local score: 9
+812 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 0, 8, 9, 4]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 0, 8, 9, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 0, 8, 9, 4]
+Local score: 9
+813 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 0, 8, 9, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 0, 9, 4]
+Local score: 9
+814 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+815 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 0, 9, 4]
+Local score: 9
+816 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+817 | Best Score: 9
+[6, 5, 3, 1, 2, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 1, 2, 7, 8, 0, 9, 4]
+Local score: 9
+818 | Best Score: 9
+[6, 5, 3, 1, 7, 2, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 1, 2, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 1, 7, 2, 8, 0, 9, 4]
+Local score: 9
+819 | Best Score: 9
+[6, 5, 3, 1, 2, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 1, 7, 2, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 1, 2, 7, 8, 0, 9, 4]
+Local score: 9
+820 | Best Score: 9
+[6, 5, 3, 1, 2, 8, 7, 0, 9, 4]
+Local score: 12
+[6, 5, 3, 1, 2, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 1, 2, 7, 8, 0, 9, 4]
+Local score: 9
+821 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 1, 2, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+822 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 0, 9, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 0, 4]
+Local score: 9
+823 | Best Score: 9
+[6, 5, 3, 1, 2, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 3, 1, 2, 7, 8, 9, 0, 4]
+Local score: 9
+824 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 3, 1, 2, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 0, 4]
+Local score: 9
+825 | Best Score: 9
+[6, 5, 3, 2, 1, 8, 7, 9, 0, 4]
+Local score: 12
+[6, 5, 3, 2, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 0, 4]
+Local score: 9
+826 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 4, 0]
+Local score: 9
+827 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+828 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+829 | Best Score: 9
+[6, 5, 2, 1, 3, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 8, 9, 0, 4]
+Local score: 9
+830 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 2, 1, 3, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+831 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 9, 8, 0, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 9, 8, 0, 4]
+Local score: 9
+832 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 9, 8, 0, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+833 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+834 | Best Score: 9
+[5, 6, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+835 | Best Score: 9
+[5, 6, 2, 1, 3, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 8, 9, 4, 0]
+Local score: 9
+836 | Best Score: 9
+[5, 2, 6, 1, 3, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 6, 2, 1, 3, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 2, 6, 1, 3, 7, 8, 9, 4, 0]
+Local score: 9
+837 | Best Score: 9
+[5, 2, 6, 1, 3, 7, 9, 8, 4, 0]
+Local score: 9
+[5, 2, 6, 1, 3, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 2, 6, 1, 3, 7, 9, 8, 4, 0]
+Local score: 9
+838 | Best Score: 9
+[5, 2, 6, 3, 1, 7, 9, 8, 4, 0]
+Local score: 9
+[5, 2, 6, 1, 3, 7, 9, 8, 4, 0]
+Local score: 9
+[5, 2, 6, 3, 1, 7, 9, 8, 4, 0]
+Local score: 9
+839 | Best Score: 9
+[5, 6, 2, 3, 1, 7, 9, 8, 4, 0]
+Local score: 9
+[5, 2, 6, 3, 1, 7, 9, 8, 4, 0]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 9, 8, 4, 0]
+Local score: 9
+840 | Best Score: 9
+[6, 5, 2, 3, 1, 7, 9, 8, 4, 0]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 9, 8, 4, 0]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 9, 8, 4, 0]
+Local score: 9
+841 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 9, 8, 4, 0]
+Local score: 9
+[6, 5, 2, 3, 1, 7, 9, 8, 4, 0]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 9, 8, 4, 0]
+Local score: 9
+842 | Best Score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 9, 8, 4, 0]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 4, 0]
+Local score: 9
+843 | Best Score: 9
+[5, 6, 3, 2, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[6, 5, 3, 2, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 6, 3, 2, 1, 7, 8, 9, 4, 0]
+Local score: 9
+844 | Best Score: 9
+[5, 6, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 6, 3, 2, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+845 | Best Score: 9
+[5, 6, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 8, 9, 4, 0]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+846 | Best Score: 9
+[5, 6, 2, 3, 1, 7, 9, 8, 0, 4]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 8, 9, 0, 4]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 9, 8, 0, 4]
+Local score: 9
+847 | Best Score: 9
+[5, 6, 2, 3, 7, 1, 9, 8, 0, 4]
+Local score: 9
+[5, 6, 2, 3, 1, 7, 9, 8, 0, 4]
+Local score: 9
+[5, 6, 2, 3, 7, 1, 9, 8, 0, 4]
+Local score: 9
+848 | Best Score: 9
+[5, 6, 2, 3, 7, 1, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 2, 3, 7, 1, 9, 8, 0, 4]
+Local score: 9
+[5, 6, 2, 3, 7, 1, 9, 0, 8, 4]
+Local score: 9
+849 | Best Score: 9
+[5, 6, 2, 7, 3, 1, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 2, 3, 7, 1, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 2, 7, 3, 1, 9, 0, 8, 4]
+Local score: 9
+850 | Best Score: 9
+[6, 5, 2, 7, 3, 1, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 2, 7, 3, 1, 9, 0, 8, 4]
+Local score: 9
+[6, 5, 2, 7, 3, 1, 9, 0, 8, 4]
+Local score: 9
+851 | Best Score: 9
+[6, 5, 2, 7, 3, 1, 9, 8, 0, 4]
+Local score: 9
+[6, 5, 2, 7, 3, 1, 9, 0, 8, 4]
+Local score: 9
+[6, 5, 2, 7, 3, 1, 9, 8, 0, 4]
+Local score: 9
+852 | Best Score: 9
+[6, 5, 7, 2, 3, 1, 9, 8, 0, 4]
+Local score: 9
+[6, 5, 2, 7, 3, 1, 9, 8, 0, 4]
+Local score: 9
+[6, 5, 7, 2, 3, 1, 9, 8, 0, 4]
+Local score: 9
+853 | Best Score: 9
+[6, 5, 7, 2, 1, 3, 9, 8, 0, 4]
+Local score: 9
+[6, 5, 7, 2, 3, 1, 9, 8, 0, 4]
+Local score: 9
+[6, 5, 7, 2, 1, 3, 9, 8, 0, 4]
+Local score: 9
+854 | Best Score: 9
+[6, 5, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[6, 5, 7, 2, 1, 3, 9, 8, 0, 4]
+Local score: 9
+[6, 5, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+855 | Best Score: 9
+[5, 6, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[6, 5, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+856 | Best Score: 9
+[6, 5, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[6, 5, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+857 | Best Score: 9
+[6, 5, 7, 2, 3, 1, 9, 0, 8, 4]
+Local score: 9
+[6, 5, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[6, 5, 7, 2, 3, 1, 9, 0, 8, 4]
+Local score: 9
+858 | Best Score: 9
+[5, 6, 7, 2, 3, 1, 9, 0, 8, 4]
+Local score: 9
+[6, 5, 7, 2, 3, 1, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 2, 3, 1, 9, 0, 8, 4]
+Local score: 9
+859 | Best Score: 9
+[5, 6, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 2, 3, 1, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+860 | Best Score: 9
+[5, 6, 7, 1, 2, 3, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 2, 1, 3, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 1, 2, 3, 9, 0, 8, 4]
+Local score: 9
+861 | Best Score: 9
+[5, 6, 7, 1, 3, 2, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 1, 2, 3, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 1, 3, 2, 9, 0, 8, 4]
+Local score: 9
+862 | Best Score: 9
+[5, 6, 7, 3, 1, 2, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 1, 3, 2, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 3, 1, 2, 9, 0, 8, 4]
+Local score: 9
+863 | Best Score: 9
+[5, 6, 7, 3, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[5, 6, 7, 3, 1, 2, 9, 0, 8, 4]
+Local score: 9
+[5, 6, 7, 3, 1, 2, 0, 9, 8, 4]
+Local score: 9
+864 | Best Score: 9
+[5, 6, 7, 3, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[5, 6, 7, 3, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[5, 6, 7, 3, 1, 2, 0, 8, 9, 4]
+Local score: 9
+865 | Best Score: 9
+[5, 6, 7, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+[5, 6, 7, 3, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[5, 6, 7, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+866 | Best Score: 9
+[5, 7, 6, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+[5, 6, 7, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 6, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+867 | Best Score: 9
+[5, 7, 6, 3, 1, 2, 8, 9, 0, 4]
+Local score: 9
+[5, 7, 6, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 6, 3, 1, 2, 8, 9, 0, 4]
+Local score: 9
+868 | Best Score: 9
+[5, 7, 6, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 6, 3, 1, 2, 8, 9, 0, 4]
+Local score: 9
+[5, 7, 6, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+869 | Best Score: 9
+[5, 7, 6, 3, 1, 8, 2, 0, 9, 4]
+Local score: 12
+[5, 7, 6, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 6, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+870 | Best Score: 9
+[5, 7, 6, 3, 2, 1, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 6, 3, 1, 2, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 6, 3, 2, 1, 8, 0, 9, 4]
+Local score: 9
+871 | Best Score: 9
+[5, 7, 3, 6, 2, 1, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 6, 3, 2, 1, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 3, 6, 2, 1, 8, 0, 9, 4]
+Local score: 9
+872 | Best Score: 9
+[5, 7, 3, 6, 1, 2, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 3, 6, 2, 1, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 3, 6, 1, 2, 8, 0, 9, 4]
+Local score: 9
+873 | Best Score: 9
+[5, 7, 3, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[5, 7, 3, 6, 1, 2, 8, 0, 9, 4]
+Local score: 9
+[5, 7, 3, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+874 | Best Score: 9
+[5, 3, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[5, 7, 3, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[5, 3, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+875 | Best Score: 9
+[5, 3, 7, 6, 1, 0, 2, 8, 9, 4]
+Local score: 13
+[5, 3, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[5, 3, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+876 | Best Score: 9
+[3, 5, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[5, 3, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+877 | Best Score: 9
+[3, 5, 7, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+878 | Best Score: 9
+[3, 5, 7, 6, 1, 0, 2, 9, 8, 4]
+Local score: 13
+[3, 5, 7, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+879 | Best Score: 9
+[3, 5, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+880 | Best Score: 9
+[3, 5, 7, 6, 1, 0, 2, 8, 9, 4]
+Local score: 13
+[3, 5, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+881 | Best Score: 9
+[3, 5, 7, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+882 | Best Score: 9
+[3, 7, 5, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[3, 5, 7, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[3, 7, 5, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+883 | Best Score: 9
+[7, 3, 5, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[3, 7, 5, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[7, 3, 5, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+884 | Best Score: 9
+[7, 5, 3, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[7, 3, 5, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+885 | Best Score: 9
+[7, 5, 3, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+886 | Best Score: 9
+[7, 5, 3, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 8, 9, 4]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+887 | Best Score: 9
+[7, 5, 3, 6, 1, 2, 0, 9, 4, 8]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 9, 8, 4]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 9, 4, 8]
+Local score: 9
+888 | Best Score: 9
+[7, 5, 3, 6, 1, 2, 0, 4, 9, 8]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 9, 4, 8]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 4, 9, 8]
+Local score: 9
+889 | Best Score: 9
+[7, 5, 3, 1, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[7, 5, 3, 6, 1, 2, 0, 4, 9, 8]
+Local score: 9
+[7, 5, 3, 1, 6, 2, 0, 4, 9, 8]
+Local score: 9
+890 | Best Score: 9
+[7, 3, 5, 1, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[7, 5, 3, 1, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[7, 3, 5, 1, 6, 2, 0, 4, 9, 8]
+Local score: 9
+891 | Best Score: 9
+[7, 3, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[7, 3, 5, 1, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[7, 3, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+892 | Best Score: 9
+[3, 7, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[7, 3, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+893 | Best Score: 9
+[3, 1, 7, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[3, 1, 7, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+894 | Best Score: 9
+[1, 3, 7, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[3, 1, 7, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[1, 3, 7, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+895 | Best Score: 9
+[1, 3, 7, 5, 6, 2, 0, 4, 8, 9]
+Local score: 9
+[1, 3, 7, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[1, 3, 7, 5, 6, 2, 0, 4, 8, 9]
+Local score: 9
+896 | Best Score: 9
+[1, 3, 7, 5, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[1, 3, 7, 5, 6, 2, 0, 4, 8, 9]
+Local score: 9
+[1, 3, 7, 5, 6, 2, 4, 0, 8, 9]
+Local score: 9
+897 | Best Score: 9
+[1, 3, 5, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[1, 3, 7, 5, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[1, 3, 5, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+898 | Best Score: 9
+[1, 5, 3, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[1, 3, 5, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[1, 5, 3, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+899 | Best Score: 9
+[5, 1, 3, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[1, 5, 3, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[5, 1, 3, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+900 | Best Score: 9
+[5, 3, 1, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[5, 1, 3, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+901 | Best Score: 9
+[5, 3, 7, 1, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 4, 0, 8, 9]
+Local score: 9
+902 | Best Score: 9
+[5, 3, 1, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+903 | Best Score: 9
+[5, 3, 1, 7, 6, 2, 0, 4, 8, 9]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 4, 0, 8, 9]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 0, 4, 8, 9]
+Local score: 9
+904 | Best Score: 9
+[5, 3, 7, 1, 6, 2, 0, 4, 8, 9]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 0, 4, 8, 9]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 0, 4, 8, 9]
+Local score: 9
+905 | Best Score: 9
+[5, 3, 1, 7, 6, 2, 0, 4, 8, 9]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 0, 4, 8, 9]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 0, 4, 8, 9]
+Local score: 9
+906 | Best Score: 9
+[5, 3, 1, 7, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 0, 4, 8, 9]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 0, 4, 9, 8]
+Local score: 9
+907 | Best Score: 9
+[5, 3, 1, 7, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 0, 9, 4, 8]
+Local score: 9
+908 | Best Score: 9
+[5, 3, 1, 7, 6, 2, 9, 0, 4, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 9, 0, 4, 8]
+Local score: 9
+909 | Best Score: 9
+[5, 3, 1, 7, 6, 2, 9, 4, 0, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 9, 0, 4, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 9, 4, 0, 8]
+Local score: 9
+910 | Best Score: 9
+[5, 1, 3, 7, 6, 2, 9, 4, 0, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 9, 4, 0, 8]
+Local score: 9
+[5, 1, 3, 7, 6, 2, 9, 4, 0, 8]
+Local score: 9
+911 | Best Score: 9
+[5, 3, 1, 7, 6, 2, 9, 4, 0, 8]
+Local score: 9
+[5, 1, 3, 7, 6, 2, 9, 4, 0, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 9, 4, 0, 8]
+Local score: 9
+912 | Best Score: 9
+[5, 3, 7, 1, 6, 2, 9, 4, 0, 8]
+Local score: 9
+[5, 3, 1, 7, 6, 2, 9, 4, 0, 8]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 9, 4, 0, 8]
+Local score: 9
+913 | Best Score: 9
+[5, 3, 7, 1, 6, 2, 9, 0, 4, 8]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 9, 4, 0, 8]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 9, 0, 4, 8]
+Local score: 9
+914 | Best Score: 9
+[5, 3, 7, 1, 6, 9, 2, 0, 4, 8]
+Local score: 12
+[5, 3, 7, 1, 6, 2, 9, 0, 4, 8]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 9, 0, 4, 8]
+Local score: 9
+915 | Best Score: 9
+[5, 3, 7, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 9, 0, 4, 8]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+916 | Best Score: 9
+[3, 5, 7, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[5, 3, 7, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[3, 5, 7, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+917 | Best Score: 9
+[3, 7, 5, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[3, 5, 7, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[3, 7, 5, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+918 | Best Score: 9
+[7, 3, 5, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[3, 7, 5, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[7, 3, 5, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+919 | Best Score: 9
+[7, 3, 1, 5, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[7, 3, 5, 1, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[7, 3, 1, 5, 6, 2, 0, 9, 4, 8]
+Local score: 9
+920 | Best Score: 9
+[3, 7, 1, 5, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[7, 3, 1, 5, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[3, 7, 1, 5, 6, 2, 0, 9, 4, 8]
+Local score: 9
+921 | Best Score: 9
+[3, 7, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 6, 2, 0, 9, 4, 8]
+Local score: 9
+[3, 7, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+922 | Best Score: 9
+[3, 7, 1, 5, 2, 6, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 2, 6, 0, 4, 9, 8]
+Local score: 9
+923 | Best Score: 9
+[3, 7, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 2, 6, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+924 | Best Score: 9
+[3, 7, 1, 5, 2, 6, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 6, 2, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 2, 6, 0, 4, 9, 8]
+Local score: 9
+925 | Best Score: 9
+[3, 7, 1, 5, 2, 0, 6, 4, 9, 8]
+Local score: 13
+[3, 7, 1, 5, 2, 6, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 2, 6, 0, 4, 9, 8]
+Local score: 9
+926 | Best Score: 9
+[3, 7, 5, 1, 2, 6, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 1, 5, 2, 6, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 5, 1, 2, 6, 0, 4, 9, 8]
+Local score: 9
+927 | Best Score: 9
+[3, 7, 5, 2, 1, 6, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 5, 1, 2, 6, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 5, 2, 1, 6, 0, 4, 9, 8]
+Local score: 9
+928 | Best Score: 9
+[7, 3, 5, 2, 1, 6, 0, 4, 9, 8]
+Local score: 9
+[3, 7, 5, 2, 1, 6, 0, 4, 9, 8]
+Local score: 9
+[7, 3, 5, 2, 1, 6, 0, 4, 9, 8]
+Local score: 9
+929 | Best Score: 9
+[7, 3, 5, 1, 2, 6, 0, 4, 9, 8]
+Local score: 9
+[7, 3, 5, 2, 1, 6, 0, 4, 9, 8]
+Local score: 9
+[7, 3, 5, 1, 2, 6, 0, 4, 9, 8]
+Local score: 9
+930 | Best Score: 9
+[7, 3, 5, 1, 2, 6, 4, 0, 9, 8]
+Local score: 9
+[7, 3, 5, 1, 2, 6, 0, 4, 9, 8]
+Local score: 9
+[7, 3, 5, 1, 2, 6, 4, 0, 9, 8]
+Local score: 9
+931 | Best Score: 9
+[7, 5, 3, 1, 2, 6, 4, 0, 9, 8]
+Local score: 9
+[7, 3, 5, 1, 2, 6, 4, 0, 9, 8]
+Local score: 9
+[7, 5, 3, 1, 2, 6, 4, 0, 9, 8]
+Local score: 9
+932 | Best Score: 9
+[7, 5, 3, 1, 2, 6, 4, 0, 8, 9]
+Local score: 9
+[7, 5, 3, 1, 2, 6, 4, 0, 9, 8]
+Local score: 9
+[7, 5, 3, 1, 2, 6, 4, 0, 8, 9]
+Local score: 9
+933 | Best Score: 9
+[7, 5, 3, 1, 2, 6, 4, 0, 9, 8]
+Local score: 9
+[7, 5, 3, 1, 2, 6, 4, 0, 8, 9]
+Local score: 9
+[7, 5, 3, 1, 2, 6, 4, 0, 9, 8]
+Local score: 9
+934 | Best Score: 9
+[7, 5, 3, 1, 6, 2, 4, 0, 9, 8]
+Local score: 9
+[7, 5, 3, 1, 2, 6, 4, 0, 9, 8]
+Local score: 9
+[7, 5, 3, 1, 6, 2, 4, 0, 9, 8]
+Local score: 9
+935 | Best Score: 9
+[7, 5, 3, 1, 6, 2, 4, 9, 0, 8]
+Local score: 9
+[7, 5, 3, 1, 6, 2, 4, 0, 9, 8]
+Local score: 9
+[7, 5, 3, 1, 6, 2, 4, 9, 0, 8]
+Local score: 9
+936 | Best Score: 9
+[7, 5, 1, 3, 6, 2, 4, 9, 0, 8]
+Local score: 9
+[7, 5, 3, 1, 6, 2, 4, 9, 0, 8]
+Local score: 9
+[7, 5, 1, 3, 6, 2, 4, 9, 0, 8]
+Local score: 9
+937 | Best Score: 9
+[7, 5, 1, 3, 2, 6, 4, 9, 0, 8]
+Local score: 9
+[7, 5, 1, 3, 6, 2, 4, 9, 0, 8]
+Local score: 9
+[7, 5, 1, 3, 2, 6, 4, 9, 0, 8]
+Local score: 9
+938 | Best Score: 9
+[7, 1, 5, 3, 2, 6, 4, 9, 0, 8]
+Local score: 9
+[7, 5, 1, 3, 2, 6, 4, 9, 0, 8]
+Local score: 9
+[7, 1, 5, 3, 2, 6, 4, 9, 0, 8]
+Local score: 9
+939 | Best Score: 9
+[7, 1, 5, 2, 3, 6, 4, 9, 0, 8]
+Local score: 9
+[7, 1, 5, 3, 2, 6, 4, 9, 0, 8]
+Local score: 9
+[7, 1, 5, 2, 3, 6, 4, 9, 0, 8]
+Local score: 9
+940 | Best Score: 9
+[7, 1, 5, 2, 6, 3, 4, 9, 0, 8]
+Local score: 9
+[7, 1, 5, 2, 3, 6, 4, 9, 0, 8]
+Local score: 9
+[7, 1, 5, 2, 6, 3, 4, 9, 0, 8]
+Local score: 9
+941 | Best Score: 9
+[7, 1, 5, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+[7, 1, 5, 2, 6, 3, 4, 9, 0, 8]
+Local score: 9
+[7, 1, 5, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+942 | Best Score: 9
+[1, 7, 5, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+[7, 1, 5, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+[1, 7, 5, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+943 | Best Score: 9
+[1, 7, 5, 2, 6, 9, 3, 4, 0, 8]
+Local score: 12
+[1, 7, 5, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+[1, 7, 5, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+944 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+[1, 7, 5, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+945 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 8, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 0, 8]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 8, 0]
+Local score: 9
+946 | Best Score: 9
+[1, 5, 7, 2, 6, 9, 3, 4, 8, 0]
+Local score: 12
+[1, 5, 7, 2, 6, 3, 9, 4, 8, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 8, 0]
+Local score: 9
+947 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 8, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+948 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 8, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 8, 0]
+Local score: 9
+949 | Best Score: 9
+[1, 5, 2, 7, 6, 3, 9, 4, 8, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 4, 8, 0]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 4, 8, 0]
+Local score: 9
+950 | Best Score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 4, 8, 0]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 4, 0]
+Local score: 9
+951 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+952 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 0, 4]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 0, 4]
+Local score: 9
+953 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 0, 4]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+954 | Best Score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 4, 0]
+Local score: 9
+955 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+956 | Best Score: 9
+[1, 5, 7, 2, 3, 6, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 3, 6, 9, 8, 4, 0]
+Local score: 9
+957 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 3, 6, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+958 | Best Score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 0, 4]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 0, 4]
+Local score: 9
+959 | Best Score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 0, 4]
+Local score: 9
+[1, 5, 7, 2, 6, 3, 9, 8, 0, 4]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 0, 4]
+Local score: 9
+960 | Best Score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 0, 4]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 4, 0]
+Local score: 9
+961 | Best Score: 9
+[1, 5, 2, 7, 3, 6, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 2, 7, 6, 3, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 2, 7, 3, 6, 9, 8, 4, 0]
+Local score: 9
+962 | Best Score: 9
+[1, 2, 5, 7, 3, 6, 9, 8, 4, 0]
+Local score: 9
+[1, 5, 2, 7, 3, 6, 9, 8, 4, 0]
+Local score: 9
+[1, 2, 5, 7, 3, 6, 9, 8, 4, 0]
+Local score: 9
+963 | Best Score: 9
+[1, 2, 5, 3, 7, 6, 9, 8, 4, 0]
+Local score: 9
+[1, 2, 5, 7, 3, 6, 9, 8, 4, 0]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 8, 4, 0]
+Local score: 9
+964 | Best Score: 9
+[1, 2, 5, 3, 7, 6, 9, 4, 8, 0]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 8, 4, 0]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 4, 8, 0]
+Local score: 9
+965 | Best Score: 9
+[1, 2, 5, 3, 7, 6, 9, 4, 0, 8]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 4, 8, 0]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 4, 0, 8]
+Local score: 9
+966 | Best Score: 9
+[1, 2, 5, 3, 7, 6, 9, 0, 4, 8]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 4, 0, 8]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 0, 4, 8]
+Local score: 9
+967 | Best Score: 9
+[1, 2, 5, 3, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 0, 4, 8]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 0, 8, 4]
+Local score: 9
+968 | Best Score: 9
+[2, 1, 5, 3, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[1, 2, 5, 3, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 5, 3, 7, 6, 9, 0, 8, 4]
+Local score: 9
+969 | Best Score: 9
+[2, 1, 3, 5, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 5, 3, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 3, 5, 7, 6, 9, 0, 8, 4]
+Local score: 9
+970 | Best Score: 9
+[2, 1, 3, 5, 7, 9, 6, 0, 8, 4]
+Local score: 12
+[2, 1, 3, 5, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 3, 5, 7, 6, 9, 0, 8, 4]
+Local score: 9
+971 | Best Score: 9
+[2, 1, 3, 5, 6, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 3, 5, 7, 6, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 3, 5, 6, 7, 9, 0, 8, 4]
+Local score: 9
+972 | Best Score: 9
+[2, 1, 3, 5, 6, 7, 9, 0, 4, 8]
+Local score: 9
+[2, 1, 3, 5, 6, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 3, 5, 6, 7, 9, 0, 4, 8]
+Local score: 9
+973 | Best Score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+[2, 1, 3, 5, 6, 7, 9, 0, 4, 8]
+Local score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+974 | Best Score: 9
+[2, 1, 3, 6, 5, 9, 7, 0, 4, 8]
+Local score: 12
+[2, 1, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+975 | Best Score: 9
+[1, 2, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+[1, 2, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+976 | Best Score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+[1, 2, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+977 | Best Score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 4, 8]
+Local score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 8, 4]
+Local score: 9
+978 | Best Score: 9
+[2, 1, 6, 3, 5, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 3, 6, 5, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 6, 3, 5, 7, 9, 0, 8, 4]
+Local score: 9
+979 | Best Score: 9
+[2, 1, 6, 3, 5, 9, 7, 0, 8, 4]
+Local score: 12
+[2, 1, 6, 3, 5, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 6, 3, 5, 7, 9, 0, 8, 4]
+Local score: 9
+980 | Best Score: 9
+[2, 1, 6, 3, 7, 5, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 6, 3, 5, 7, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 6, 3, 7, 5, 9, 0, 8, 4]
+Local score: 9
+981 | Best Score: 9
+[2, 1, 6, 3, 7, 5, 9, 8, 0, 4]
+Local score: 9
+[2, 1, 6, 3, 7, 5, 9, 0, 8, 4]
+Local score: 9
+[2, 1, 6, 3, 7, 5, 9, 8, 0, 4]
+Local score: 9
+982 | Best Score: 9
+[2, 1, 3, 6, 7, 5, 9, 8, 0, 4]
+Local score: 9
+[2, 1, 6, 3, 7, 5, 9, 8, 0, 4]
+Local score: 9
+[2, 1, 3, 6, 7, 5, 9, 8, 0, 4]
+Local score: 9
+983 | Best Score: 9
+[2, 1, 3, 6, 7, 9, 5, 8, 0, 4]
+Local score: 7
+[2, 1, 3, 6, 7, 5, 9, 8, 0, 4]
+Local score: 9
+[2, 1, 3, 6, 7, 9, 5, 8, 0, 4]
+Local score: 7
+984 | Best Score: 7
+[2, 1, 3, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+[2, 1, 3, 6, 7, 9, 5, 8, 0, 4]
+Local score: 7
+[2, 1, 3, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+985 | Best Score: 7
+[1, 2, 3, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+[2, 1, 3, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+[1, 2, 3, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+986 | Best Score: 7
+[2, 1, 3, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+[1, 2, 3, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+[2, 1, 3, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+987 | Best Score: 7
+[2, 3, 1, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+[2, 1, 3, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+[2, 3, 1, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+988 | Best Score: 7
+[2, 3, 1, 6, 7, 9, 0, 5, 8, 4]
+Local score: 7
+[2, 3, 1, 6, 7, 9, 5, 0, 8, 4]
+Local score: 7
+[2, 3, 1, 6, 7, 9, 0, 5, 8, 4]
+Local score: 7
+989 | Best Score: 7
+[2, 3, 1, 7, 6, 9, 0, 5, 8, 4]
+Local score: 7
+[2, 3, 1, 6, 7, 9, 0, 5, 8, 4]
+Local score: 7
+[2, 3, 1, 7, 6, 9, 0, 5, 8, 4]
+Local score: 7
+990 | Best Score: 7
+[2, 3, 7, 1, 6, 9, 0, 5, 8, 4]
+Local score: 7
+[2, 3, 1, 7, 6, 9, 0, 5, 8, 4]
+Local score: 7
+[2, 3, 7, 1, 6, 9, 0, 5, 8, 4]
+Local score: 7
+991 | Best Score: 7
+[2, 3, 7, 1, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 3, 7, 1, 6, 9, 0, 5, 8, 4]
+Local score: 7
+[2, 3, 7, 1, 6, 9, 0, 8, 5, 4]
+Local score: 7
+992 | Best Score: 7
+[2, 3, 1, 7, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 3, 7, 1, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 3, 1, 7, 6, 9, 0, 8, 5, 4]
+Local score: 7
+993 | Best Score: 7
+[2, 1, 3, 7, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 3, 1, 7, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 1, 3, 7, 6, 9, 0, 8, 5, 4]
+Local score: 7
+994 | Best Score: 7
+[2, 1, 7, 3, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 1, 3, 7, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 1, 7, 3, 6, 9, 0, 8, 5, 4]
+Local score: 7
+995 | Best Score: 7
+[2, 1, 7, 3, 6, 9, 0, 8, 4, 5]
+Local score: 7
+[2, 1, 7, 3, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 1, 7, 3, 6, 9, 0, 8, 4, 5]
+Local score: 7
+996 | Best Score: 7
+[2, 1, 7, 3, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 1, 7, 3, 6, 9, 0, 8, 4, 5]
+Local score: 7
+[2, 1, 7, 3, 6, 9, 0, 8, 5, 4]
+Local score: 7
+997 | Best Score: 7
+[2, 1, 7, 3, 6, 9, 0, 5, 8, 4]
+Local score: 7
+[2, 1, 7, 3, 6, 9, 0, 8, 5, 4]
+Local score: 7
+[2, 1, 7, 3, 6, 9, 0, 5, 8, 4]
+Local score: 7
+998 | Best Score: 7
+[2, 1, 3, 7, 6, 9, 0, 5, 8, 4]
+Local score: 7
+[2, 1, 7, 3, 6, 9, 0, 5, 8, 4]
+Local score: 7
+[2, 1, 3, 7, 6, 9, 0, 5, 8, 4]
+Local score: 7
+999 | Best Score: 7
+[2, 1, 3, 7, 6, 9, 0, 5, 8, 4]
+Local score: 7
+7

@@ -14,13 +14,12 @@ problem = jsonparsed["graph"]
 [4]: 5, 6, 8
 [5]: 4, 7, 9
 [6]: 8, 9
-
 graph = [[1,2,3], [5, 1], [2, 6, 7], [3, 4], [5, 6, 8], [4, 7, 9], [8, 9]]
 sol = [0, 5, 4, 6]
 sol2 = [0, 1, 2, 3, 6]
 sol3 = [0, 1]
-
 '''
+
 
 def goalFunction(solution, problem):
     '''Reprezentacja rozwiazania - lista kolejnych wierzchołków do odwiedzenia.
@@ -40,36 +39,46 @@ def goalFunction(solution, problem):
 
     sumOfVertices = 0
     edges = {edge for vertex in problem for edge in vertex}
+    # edges = [4, 5, 6, 7]
 
     '''
     Powyższy zapis, to to samo co zapis alternatywny:
     edges = set()
     for vertex in problem:
         for edge in vertex:
+            if edge in edges:
+                duplicatedEdges += 1
             edges.add(edge)    
     '''
 
     for i in range(0, len(solution)):
         vertex = problem[solution[i]]
         for edge in vertex:
-            edges.discard(edge)
+            if edge in edges:
+                edges.discard(edge)
+            else:
+                sumOfVertices += 1
         sumOfVertices += 1
 
         if len(edges) == 0:
             return sumOfVertices
-
+    print(len(problem))
+    
     return len(problem)
+#ile razy dana krawedz zostala powielona ? O ile jest pokryta wiecej niz raz.
+
 
 
 def generateRandomVisitOrder(n):
     """Generuje losową kolejność odwiedzenia wierzchołków i zwraca ją. Skopiowane z przykładu z zajęć.
     r to nasza tablica wierzchołków w kolejności do odwiedzenia"""
     r = []
-    f = list(range(0, n)) #lista o długości 0-n gdzie n to długość całego grafu
+    f = list(range(0, n))  # lista o długości 0-n gdzie n to długość całego grafu
     for i in range(0, n):
-        p = int(random.uniform(0, len(f) - 1)) #p to wygenerowany, losowy wierzchołek, odejmujemy 1 ponieważ indeks pierwszego elementu to 0
-        r.append(f[p]) #dopisujemy do tablicy kolejności wierzchołków do odwiedzenia wyegenrowaną liczbę
-        del f[p] #usuwamy wygenerowaną liczbę z listy pozostałych wierzchołków do odwiedzenia
+        p = int(random.uniform(0,
+                               len(f) - 1))  # p to wygenerowany, losowy wierzchołek, odejmujemy 1 ponieważ indeks pierwszego elementu to 0
+        r.append(f[p])  # dopisujemy do tablicy kolejności wierzchołków do odwiedzenia wyegenrowaną liczbę
+        del f[p]  # usuwamy wygenerowaną liczbę z listy pozostałych wierzchołków do odwiedzenia
         # print(f)
         # print(r)
     return r
@@ -104,27 +113,28 @@ def randomProbe(goal, gensol, iterations):
     return currentBest
 
 
-def generateProblem(size, probability): #<<< nie zawsze działa, czasem wierzchołek jest pusty
+def generateProblem(size, probability):  # <<< nie zawsze działa, czasem wierzchołek jest pusty
     dummy = [v for v in range(size)]
     graph = set()
     for combination in itertools.combinations(dummy, 2):
-        a = random.uniform(0,1)
+        a = random.uniform(0, 1)
         for vertex in dummy:
             if a < probability:
                 graph.add(combination)
-                
+
     result = [list() for i in range(size)]
     index = 0
     print(graph)
-    for edge in graph: 
+    for edge in graph:
         index += 1
         for vertex in edge:
             result[vertex].append(index)
 
     return result
 
-#problem = generateProblem(5, 3)
-print(problem)
+
+# problem = generateProblem(5, 3)
+#print(problem)
 
 # print (generateRandomVisitOrder(4))
 # print (goalFunction([0,2,1,3],problem))
@@ -133,8 +143,8 @@ sol = randomProbe(lambda s: goalFunction(s, problem), lambda: generateRandomVisi
 
 print(sol)
 print(goalFunction(sol, problem))
-if len(problem) < 10: #jeżeli ilość wierzchołków jest mniejsza od 10 to opłaca się stosować bruteforca
+if len(problem) < 10:  # jeżeli ilość wierzchołków jest mniejsza od 10 to opłaca się stosować bruteforca
     brute = fullSearch(lambda s: goalFunction(s, problem), problem)
-    print(fullSearch(lambda s: goalFunction(s, problem), problem))
+    print(brute)
 
 print(goalFunction(brute, problem))

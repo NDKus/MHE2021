@@ -1,4 +1,5 @@
 import itertools
+import multiprocessing
 import random
 import json
 import copy
@@ -6,7 +7,9 @@ import math
 import sys
 import operator
 import matplotlib.pyplot as plt
+from multiprocessing import Process, Queue
 import time
+
 
 with open("veryComplicatedProblem.json") as jsonfile:
     jsonparsed = json.load(jsonfile)
@@ -64,17 +67,18 @@ def goalFunction(solution, problem):
         sumofVerticies += 1
 
         if len(edges) == 0:
-            print("Local score: " + str(sumofVerticies))
+            #print("Local score: " + str(sumofVerticies))
             return sumofVerticies
             
-    print(len(problem))
+    #print(len(problem))
     return len(problem)
 
-def goalToFitness(steps_amount):
+def goalToFitness(steps_amount, queue):
     '''
     Reprezentacja wyniku fitnes
     '''
-    return 1.0/(1.0+steps_amount)
+    fitnessResult =  1.0/(1.0+steps_amount) 
+    queue.put(fitnessResult) #dodajemy do kolejki nasz wynik wynik fitnesu
 
 def generateRandomVistitOrder(n):
     """Generuje losową kolejność odwiedzenia wierzchołków i zwraca ją. Skopiowane z przykładu z zajęć.
@@ -104,8 +108,22 @@ def RankPopulation(population, goalFunction):
     Naszym wynikiem będzie uporządkowana lista z indeksami rozwiązań z każdym powiązanym wynikiem oceny.
     '''
     populationscores = {}
-    for i in range(0,len(population)):
-        populationscores[i] = (goalToFitness(goalFunction(population[i])))
+    queue = multiprocessing.Queue() 
+    procs = [] #tworzymy tablicę procesów
+    for i in range(0,len(population)): #dla każdego rozwiązania w tej populacji
+        proc = Process(target=goalToFitness, args = (goalFunction(population[i]),queue)) #tworzymy nowy proces, którego targetem jest "goalToFitness", argumentem wynik funkcji celu
+        #przekazujemy też referencję do modułu queue z bioblioteki multiprocessing ^
+        procs.append(proc) #dodajemy proces do tablicy procesów
+        proc.start() #uruchamiamy ten proces
+        
+        #Takim sposobem uruchamiamy te procesy dla każdego rozwiązania.
+        
+    for index,proc in enumerate(procs): #dla każdego procesu w tablicy z uwzględnieniem indexu tego procesu
+        proc.join() #synchronizujemy wynik procesu z wątkiem głównym
+        populationscores[index] = queue.get() #dodajemy wynik tego procesu do zbioru pupulationscores
+        print(str(populationscores))
+
+        
     print("Posortowane wyniki populacji dla obecnej generacji: "+ str(sorted(populationscores.items(), key = operator.itemgetter(1),reverse=True)))
     return sorted(populationscores.items(), key = operator.itemgetter(1),reverse=True)
 
@@ -114,15 +132,16 @@ def selection(rankedPopulation, tournament_size):
     Metoda selekcji zwraca listę indexów rozwiązań, których możemy użyć do utworzenia puli osobników do rozmnażania w funkcji matingPool.
     '''
     selectionResults = []
+
     for i in range(0,len(rankedPopulation)):
-            randomPickedSolutionIndex = random.randint(0,len(rankedPopulation)-1) #index pozycji
-            best = rankedPopulation[randomPickedSolutionIndex] #wartość pod danym indexem 
-            for j in range(1,tournament_size):
-                randomPickedOpponentSolutionIndex = random.randint(0,len(rankedPopulation)-1)
-                opponent = rankedPopulation[randomPickedOpponentSolutionIndex]
-                if best[1] < opponent[1]:
-                    best = opponent
-            selectionResults.append(best[0])
+        randomPickedSolutionIndex = random.randint(0,len(rankedPopulation)-1) #index pozycji
+        best = rankedPopulation[randomPickedSolutionIndex] #[1] czyli wartosc - [0] to bylby index w populacji
+        for j in range(1,tournament_size):
+            randomPickedOpponentSolutionIndex = random.randint(0,len(rankedPopulation)-1)
+            opponent = rankedPopulation[randomPickedOpponentSolutionIndex]
+            if best[1] < opponent[1]:
+                best = opponent
+        selectionResults.append(best[0])
     print("Ilość wybranych rozwiązań: " + str(len(selectionResults)))
     return selectionResults
     
@@ -137,19 +156,6 @@ def matingPool(population, selectionResults):
         matingpool.append(population[index])
     return matingpool
 
-def crossoverPopulation(matingpool, population):
-    '''
-    Następnie uogólnimy to, aby stworzyć naszą populację potomstwa. 
-    Następnie w pętli używamy zdefiniowanej już osobnej metody krzyżowania, aby wypełnić resztę następnej generacji.
-    '''
-    children = []
-    pool = random.sample(matingpool, len(matingpool)) #jako drug parametr jest len, aby określić ile próbek funkcja powinna zwrócić z naszego matingpoola
-    
-    for i in range(0, len(population)):
-        child = crossover(pool[i], pool[len(matingpool)-i-1]) #przykładowo nasze i=0 (pierwsza iteracja) to do crossovera dajemy zerowy element poola oraz ostatni element
-        children.append(child)
-    return children
-
 def crossover(parent1, parent2):
     '''
     Skoro nasza pula osobników do rozmnażania jest już gotowa, możemy utworzyć następną generację w procesie krzyżowania (crossover).
@@ -158,17 +164,15 @@ def crossover(parent1, parent2):
     
     W krzyżowaniu uporządkowanym, losowo wybieramy podzbiór pierwszego łańcucha rodzicielskiego (pierwsza pętla metody), 
     a następnie wypełniamy pozostałą część genami drugiego rodzica w kolejności, w jakiej się pojawiają, bez duplikowania żadnych genów 
-    w wybranym podzbiorze od pierwszego rodzica. 
-    
-    Wykorzystujemy tutaj przerobiony kod krzyżówki z: https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
+    w wybranym podzbiorze od pierwszego rodzica.
     
     '''
     child = []
     childP1 = []
     childP2 = []
     
-    geneA = int(random.random() * len(parent1)) #jeżeli długość rodzica wynisi 10, to liczba wylosowana nie będzie większa niż 9
-    geneB = int(random.random() * len(parent1)) #czyli po prostu tym wyrażeniem *len(parent) ograniczmy nasze geny aby nie wykroczyly poza zakres dozwolony
+    geneA = int(random.random() * len(parent1))
+    geneB = int(random.random() * len(parent1))
     
     startGene = min(geneA, geneB)
     endGene = max(geneA, geneB)
@@ -183,24 +187,25 @@ def crossover(parent1, parent2):
     child = childP1 + childP2
     return child
 
-def mutatePopulation(population, mutationRate):
+def crossoverPopulation(matingpool, population):
     '''
-    Następnie możemy rozszerzyć funkcję mutacji, aby działała przez nową populację.
+    Następnie uogólnimy to, aby stworzyć naszą populację potomstwa. 
+    Następnie w drugiej pętli używamy zdefiniowanej już osobnej metody krzyżowania, aby wypełnić resztę następnej generacji.
     '''
-    mutatedPop = []
+    children = []
+    pool = random.sample(matingpool, len(matingpool))
     
-    for ind in range(0, len(population)):
-        mutatedInd = mutate(population[ind], mutationRate)
-        mutatedPop.append(mutatedInd)
-    return mutatedPop
+    for i in range(0, len(population)):
+        child = crossover(pool[i], pool[len(matingpool)-i-1])
+        children.append(child)
+    return children
 
 def mutate(individual, mutationRate):
     '''
     Mutacje chornią nas przed stagnacją, wprowadzając nowe rozwiązania.
     W naszym przypadku dobrze sprawdzi się "swap" tj. z określonym w parametrach programu, (najlepiej niewielkim)
     prawdopodobieństwem, dwa wierzchołki zamienią się kolejnością odwiedzeń w naszym rozwiązaniu. Kiedy funkcja mutacji się wykona,
-    zrobimy to tylko dla jednego "osobnika" (individual - pojedynczy osobnik który zawiera w sobie "ileś" wierzchołków)
-    Wykorzystujemy tutaj przerobiony kod mutacji z artykułu: https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
+    zrobimy to tylko dla jednego "osobnika" (individual)
     '''
     
 
@@ -215,6 +220,17 @@ def mutate(individual, mutationRate):
             individual[swapWith] = vertice1
             
     return individual
+
+def mutatePopulation(population, mutationRate):
+    '''
+    Następnie możemy rozszerzyć funkcję mutacji, aby działała przez nową populację.
+    '''
+    mutatedPop = []
+    
+    for ind in range(0, len(population)):
+        mutatedInd = mutate(population[ind], mutationRate)
+        mutatedPop.append(mutatedInd)
+    return mutatedPop
 
 def NextGeneration(currentPopulation, tournamentSize, mutationRate, goalFunction):
     '''
@@ -239,7 +255,7 @@ def EvolutionaryProgram( goalFunction, population, mutationRate, tournamentSize,
 
     progress = []
 
-    progress.append(RankPopulation(population,goalFunction)[0][1]) #pierwsza generacja, startowa
+    progress.append(RankPopulation(population,goalFunction)[0][1])
     
     for i in range(0, iterations):
         progress.append(RankPopulation(population,goalFunction)[0][1])
@@ -249,7 +265,6 @@ def EvolutionaryProgram( goalFunction, population, mutationRate, tournamentSize,
     bestRoute = population[bestRouteIndex]
 
     print ("Czas pracy algorytmu wyniósł: ", time.time() - start_time, "s")
-    
     #Wykres
     plt.plot(progress)
     plt.gca().invert_yaxis()
@@ -257,6 +272,7 @@ def EvolutionaryProgram( goalFunction, population, mutationRate, tournamentSize,
     plt.xlabel('Generacja')
     plt.show()
     
+
     return bestRoute
 
 def fullSearch(goalFunction, problem, printSolutionFunction):
@@ -438,30 +454,30 @@ def simAnnealing(goal, gensol, genNeighbour, T, iterations, onIteration):
 start_time = time.time()
 
 #Parametry
-iterations = 100
+iterations = 5
 mutationRate = 0.01
 popsize = 30
 tournamentSize = 6
 
+if  __name__ == '__main__':
+    for arg in sys.argv:
+        if arg == '-hillClimbingRandomized':
+            sol = hillClimbingRandomized(lambda s: goalFunction(s, problem), lambda: generateRandomVistitOrder(len(problem)), getRandomNeighbour, iterations, printSolution)
+            print(goalFunction(sol, problem))
+        if arg == '-hillClimbingDeterministic':
+            sol = hillClimbingDeterministic(lambda s: goalFunction(s, problem), lambda: generateRandomVistitOrder(len(problem)), getBestNeighbour, iterations, printSolution)
+            print(goalFunction(sol, problem))
+        if arg == '-simAnnealing':
+            sol = simAnnealing(lambda s: goalFunction(s, problem), lambda: generateRandomVistitOrder(len(problem)), getRandomNeighbour2, lambda k: 1000.0 / k, iterations, printSolution)
+            print(goalFunction(sol, problem))
+        if arg == '-fullSearch':
+            sol = fullSearch(lambda s: goalFunction(s, problem), problem, printSolution)
+            print(goalFunction(sol, problem))
+        if arg == '-evolutionProgram':
+            sol = EvolutionaryProgram(lambda s:goalFunction(s, problem), GeneratePopulation(popsize, problem), mutationRate, tournamentSize, iterations, printSolution)
 
-for arg in sys.argv:
-    if arg == '-hillClimbingRandomized':
-        sol = hillClimbingRandomized(lambda s: goalFunction(s, problem), lambda: generateRandomVistitOrder(len(problem)), getRandomNeighbour, iterations, printSolution)
-        print(goalFunction(sol, problem))
-    if arg == '-hillClimbingDeterministic':
-        sol = hillClimbingDeterministic(lambda s: goalFunction(s, problem), lambda: generateRandomVistitOrder(len(problem)), getBestNeighbour, iterations, printSolution)
-        print(goalFunction(sol, problem))
-    if arg == '-simAnnealing':
-        sol = simAnnealing(lambda s: goalFunction(s, problem), lambda: generateRandomVistitOrder(len(problem)), getRandomNeighbour2, lambda k: 1000.0 / k, iterations, printSolution)
-        print(goalFunction(sol, problem))
-    if arg == '-fullSearch':
-        sol = fullSearch(lambda s: goalFunction(s, problem), problem, printSolution)
-        print(goalFunction(sol, problem))
-    if arg == '-evolutionProgram':
-        sol = EvolutionaryProgram(lambda s:goalFunction(s, problem), GeneratePopulation(popsize, problem), mutationRate, tournamentSize, iterations, printSolution)
-
-print(sol)
-print(goalFunction(sol,problem))
-#problem = generateProblem(4, 3)
-#randomProbe(lambda s: goalFunction(s, problem), lambda: generateRandomVistitOrder(len(problem)), 3)
-#print(problem)
+    print(sol)
+    print(goalFunction(sol,problem))
+    #problem = generateProblem(4, 3)
+    #randomProbe(lambda s: goalFunction(s, problem), lambda: generateRandomVistitOrder(len(problem)), 3)
+    #print(problem) 
